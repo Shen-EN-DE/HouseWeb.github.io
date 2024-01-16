@@ -1,0 +1,17 @@
+/* SocialLinks.css */
+.social-links {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.social-links a {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social-icon {
+  width: 50px; /* 調整大小 */
+  height: auto;
+  fill: currentColor; /* SVG 圖標顏色將繼承文字顏色 */
+}

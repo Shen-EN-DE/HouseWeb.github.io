@@ -1,0 +1,57 @@
+/* Contact.css */
+.contact-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    }
+    
+    .contact-title {
+    color: #123456; /* 一個專業的深藍色調 */
+    text-align: center;
+    margin-bottom: 30px;
+    }
+    
+    .contact-form {
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .field-container {
+    margin-bottom: 20px;
+    }
+    
+    .field-label {
+    display: block;
+    margin-bottom: 10px;
+    color: #123456; /* 與標題顏色一致 */
+    }
+    
+    .text-input,
+    .text-input textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    }
+    
+    .text-input textarea {
+    height: 150px; /* 設定一個適中的預設高度 */
+    }
+    
+    .submit-button {
+    padding: 10px;
+    background-color: #24a0ed; /* 鮮亮的按鈕顏色 */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    }
+    
+    .submit-button:hover {
+    background-color: #1a85be; /* 按鈕懸浮效果 */
+}

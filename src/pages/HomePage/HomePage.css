@@ -1,0 +1,62 @@
+/* HomePage.css */
+.homePage {
+  font-family: 'Arial', sans-serif;
+}
+
+.homeHeader {
+  text-align: center;
+  padding: 50px;
+  position: relative; /* 添加相對定位，為偽元素定位做準備 */
+  color: rgb(0, 0, 0); /* 這將確保文字可見 */
+  /* background-color: #a1dba9; 你可能需要調整這個顏色來與你的圖片搭配 */
+}
+
+.homeHeader::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.5), /* 調整這裡的透明度來控制暗度 */
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../../pictures/office.jpg'); /* 你的圖片路徑 */
+  background-size: cover;
+  background-position: center;
+  opacity: 0.2; /*設置背景圖片的透明度 */
+  z-index: -1;
+}
+
+/* 確保其他元素在偽元素之上 */
+.homeHeader * {
+  position: relative;
+  z-index: 1;
+}
+
+.homeHeader h1 {
+  margin-bottom: 20px;
+  font-size: 2.5em;
+}
+
+.homeHeader p {
+  margin-bottom: 30px;
+  color: #666666;
+}
+
+.homeHeader button {
+  padding: 10px 20px;
+  background-color: #123456;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Ensure that .header is not too generic; possibly rename to .homeHeaderBackground if it's only used there */
+/* .header {
+
+} */
+
+/* ... other styles ... */

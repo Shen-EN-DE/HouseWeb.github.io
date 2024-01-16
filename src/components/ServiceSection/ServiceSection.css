@@ -1,0 +1,61 @@
+.serviceSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+    background-color: #fff8f8da; /* 根据您的品牌颜色进行调整 */
+  }
+  
+  .servicesList {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .serviceItem {
+    display: flex;
+    flex-direction: row; /* 设置为行方向 */
+    align-items: center;
+    text-align: left; /* 设置文本对齐为左对齐 */
+    gap: 200px; /* 图标和文本之间的间隙 */
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .serviceGraphic {
+  flex-basis: 50%; /* 图表占据50%的空间 */
+
+  }
+  
+  .serviceIcon {
+    max-width: 100%; /* 图表宽度最大为其容器的100% */
+    height: auto;
+  }
+  
+  .serviceInfo h2 {
+    font-size: 2em; /* 标题大小 */
+    color: #333; /* 标题颜色 */
+    margin-bottom: 0.5em;
+  }
+  
+  .serviceInfo p {
+    margin-bottom: 1em; /* 段落与按钮之间的间距 */
+    color: #666; /* 段落文字颜色 */
+  }
+  
+  .readMore {
+    padding: 10px 20px;
+    background-color: #e01e5a; /* 按钮背景颜色 */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* 平滑过渡效果 */
+  }
+  
+  .readMore:hover {
+    background-color: #c81e4e; /* 鼠标悬停时的颜色变化 */
+  }

@@ -1,0 +1,36 @@
+/* Navbar.css */
+/* 確保懸停時展開下拉菜單 */
+.nav-item.dropdown {
+  position: relative;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+  position: absolute; /* 確保下拉菜單的位置正確 */
+  top: 100%; /* 將下拉菜單定位到導航項目的底部 */
+  left: 0; /* 可以調整這個值來與導航項目對齊 */
+}
+
+/* 選擇適當的時機隱藏下拉菜單 */
+.dropdown-menu {
+  display: none;
+  margin-top: 0; /* 移除任何外邊距 */
+  transition: opacity 0.5s; /* 平滑過渡效果 */
+}
+
+/* 當懸停在下拉菜單上時也應保持顯示 */
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+  opacity: 1; /* 顯示下拉菜單 */
+}
+
+/* 當不再懸停時，給予一個透明度過渡，這樣用戶移動到下拉菜單項目時不會立即消失 */
+.dropdown-menu {
+  opacity: 0; /* 默認為透明 */
+  transition: opacity 0.5s; /* 平滑過渡效果 */
+}
+.dropdown-item img {
+  margin-right: 10px; /* 圖標和文本之間的空間 */
+  width: 24px; /* 圖標的大小，可根據需要調整 */
+  height: 24px; /*圖標的大小，可根據需要調整 */
+}

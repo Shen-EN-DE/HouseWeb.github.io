@@ -1,0 +1,18 @@
+.footer-links ul {
+  list-style-type: none; /* 移除項目符號 */
+  padding-left: 0; /* 移除默認的內邊距 */
+  text-align: center; /* 這是一個例子，根據您的需求進行調整 */
+
+}
+
+.footer-links a {
+  color: #333; /* 文本顏色 */
+  text-decoration: none; /* 移除下劃線 */
+  padding: 5px; /* 設置適當的內邊距 */
+  display: block; /* 或者使用 inline-block，根據需要調整 */
+}
+
+.footer-links a:hover,
+.footer-links a:focus {
+  text-decoration: underline; /* 滑鼠懸停和聚焦時添加下劃線 */
+}
