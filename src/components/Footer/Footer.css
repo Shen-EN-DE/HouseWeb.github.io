@@ -37,3 +37,25 @@
     .footer-links li a:hover {
     color: #0056b3; /* 鼠标悬停时的颜色 */
     }
+
+    
+@media screen and (max-width: 600px) {
+  .footer-column {
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* 中型螢幕，例如平板 */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .process-images-container {
+    grid-template-columns: repeat(3, 1fr); /* 改為三列 */
+  }
+
+  /* 其他針對中型屏幕的樣式調整 */
+}
+
+/* 大型螢幕 */
+@media screen and (min-width: 1025px) {
+  /* 這裡可以放置針對大螢幕的樣式，如果需要 */
+}

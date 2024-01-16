@@ -59,3 +59,30 @@
   .readMore:hover {
     background-color: #c81e4e; /* 鼠标悬停时的颜色变化 */
   }
+
+  
+@media screen and (max-width: 600px) {
+  .content-block {
+    padding: 0 20px; /* 在左右兩側添加 20px 的內邊距 */
+  }
+
+  .container, .wrapper {
+    margin: 0 auto; /* 居中容器並提供水平間距 */
+    max-width: 540px; /* 或者任何最大寬度，依據您的設計需要 */
+  }
+}
+  
+
+/* 中型螢幕，例如平板 */
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  .process-images-container {
+    grid-template-columns: repeat(3, 1fr); /* 改為三列 */
+  }
+
+  /* 其他針對中型屏幕的樣式調整 */
+}
+
+/* 大型螢幕 */
+@media screen and (min-width: 1025px) {
+  /* 這裡可以放置針對大螢幕的樣式，如果需要 */
+}
