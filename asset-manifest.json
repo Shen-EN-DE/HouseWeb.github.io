@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HouseWeb/static/css/main.f596790b.css",
+    "main.js": "/HouseWeb/static/js/main.eff1ee4b.js",
+    "static/js/787.d4aba7ab.chunk.js": "/HouseWeb/static/js/787.d4aba7ab.chunk.js",
+    "static/media/Customer Support.png": "/HouseWeb/static/media/Customer Support.fc49e53d0469f0d0f7c7.png",
+    "static/media/意願確認1.png": "/HouseWeb/static/media/意願確認1.49d7828441dc600fceb9.png",
+    "static/media/office.jpg": "/HouseWeb/static/media/office.b8a6c62d64c49eb06eeb.jpg",
+    "static/media/房貸.png": "/HouseWeb/static/media/房貸.86ae4490878230982e3a.png",
+    "static/media/車貸.png": "/HouseWeb/static/media/車貸.6954b7b67bb4a065e2ad.png",
+    "static/media/line-hover.svg": "/HouseWeb/static/media/line-hover.1564167e17424466c656c67fb64fff19.svg",
+    "index.html": "/HouseWeb/index.html",
+    "static/media/facebook-hover.svg": "/HouseWeb/static/media/facebook-hover.b2b2fa607cab4f78002f99a1019f0448.svg",
+    "main.f596790b.css.map": "/HouseWeb/static/css/main.f596790b.css.map",
+    "main.eff1ee4b.js.map": "/HouseWeb/static/js/main.eff1ee4b.js.map",
+    "787.d4aba7ab.chunk.js.map": "/HouseWeb/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f596790b.css",
+    "static/js/main.eff1ee4b.js"
+  ]
+}
