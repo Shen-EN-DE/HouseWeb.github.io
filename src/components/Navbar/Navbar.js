@@ -18,10 +18,9 @@ const Navbar = () => {
                 <BootstrapNavbar.Collapse id="navbarNav">
                     <Nav className="mr-auto">
                         <NavDropdown title="服務項目" id="servicesDropdown">
-                            <NavDropdown.Item as={Link} to="/service-1"><img src= {OtherIcon} alt="服務1" /> 服務1</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/SecondMortgagePage"><img src= {HouseIcon} alt="SecondMartgage" /> 不動產二順位</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/service-3"><img src= {CarIcon} alt="服務3" /> 服務3</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/service-4"><img src= {OtherIcon} alt="服務4" /> 服務4</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/DataFinTech"><img src= {OtherIcon} alt="DataFinTech" /> 大數據FinTech</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/SecondMortgagePage"><img src= {HouseIcon} alt="SecondMartgage" /> 二順位貸款</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/LoanConsuit"><img src= {CarIcon} alt="LoanConsuit" /> 銀行貸款諮詢業務</NavDropdown.Item>
                         </NavDropdown>
                         <Nav.Link as={Link} to="/support-center">支援中心</Nav.Link>
                         <Nav.Link as={Link} to="/company">公司環境</Nav.Link>

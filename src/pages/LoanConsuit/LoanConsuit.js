@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './SecondMortgagePage.css'; // 请确保引入了CSS文件
+import './LoanConsuit.css'; // 请确保引入了CSS文件
 import { Link } from 'react-router-dom';
 
 import HouseIcon from '../../pictures/房貸.png'; 
@@ -36,7 +36,7 @@ const FlexContainer = () => {
 
 
 
-const SecondMortgagePage = () => {
+const LoanConsuit = () => {
   // 默认显示不动产二顺位的流程图
   const [activeService, setActiveService] = useState('second-mortgage');
 
@@ -100,5 +100,5 @@ const SecondMortgagePage = () => {
     )
 }
 
-export default SecondMortgagePage;
+export default LoanConsuit;
 

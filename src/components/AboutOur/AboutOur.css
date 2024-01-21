@@ -1,88 +1,88 @@
 .AboutOurSection {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 50px 0;
-    background-color: #e6dfdf; /* 根据您的品牌颜色进行调整 */
-  }
-  
-  .AboutOurList {
-    width: 100%;
-    max-width: 1200px;
-    margin: auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-  }
-  
+  padding: 50px 0;
+  background-color: #e6dfdf; /* 根據您的品牌顏色進行調整 */
+}
+
+.AboutOurList {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-direction: column; /* 子元素垂直排列 */
+  gap: 40px; /* 增加垂直間距 */
+}
+
+.AboutOurItem {
+  display: flex;
+  align-items: center;
+  gap: 40px; /* 圖標和文本之間的間距 */
+}
+
+.AboutOurItem:nth-child(odd) {
+  flex-direction: row; /* 奇數項目，文本在左圖片在右 */
+}
+
+.AboutOurItem:nth-child(even) {
+  flex-direction: row-reverse; /* 偶數元素反向排列 */
+}
+
+
+/* 根据图标和文本更改顺序 */
+.AboutOurGraphic,
+.AboutOurInfo {
+  flex: 1; /* 確保圖片和文本容器都有相等的可用空間 */
+  max-width: 50%; /* 限制最大寬度 */
+
+}
+
+.AboutOurGraphic {
+  padding: 0 20px; /* 為圖片容器增加內邊距 */
+}
+
+.AboutOurInfo {
+  padding: 0 20px; /* 為文本容器增加內邊距 */
+  display: flex;
+  flex-direction: column; /* 保持文本內容的垂直排列 */
+  align-items: flex-start; /* 對齊到容器的開頭 */
+}
+
+.AboutOurIcon {
+  max-width: 100%; /* 圖標寬度最大為其容器的100% */
+  height: auto;
+}
+
+.AboutOurInfo h2 {
+  font-size: 2em; /* 標題大小 */
+  color: #333; /* 標題顏色 */
+  margin-bottom: 0.5em;
+}
+
+.AboutOurInfo p {
+  margin-bottom: 1em; /* 段落與按鈕之間的間距 */
+  color: #666; /* 段落文字顏色 */
+}
+
+.readMore {
+  padding: 10px 20px;
+  background-color: #a51140; /* 按鈕背景顏色 */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* 平滑過渡效果 */
+}
+
+.readMore:hover {
+  background-color: #c81e4e; /* 鼠標懸停時的顏色變化 */
+}
+
+/* 响应式设计 */
+@media screen and (max-width: 1024px) {
   .AboutOurItem {
-    display: flex;
-    flex-direction: row; /* 设置为行方向 */
-    align-items: center;
-    text-align: left; /* 设置文本对齐为左对齐 */
-    gap: 200px; /* 图标和文本之间的间隙 */
-    max-width: 1200px;
-    margin: auto;
+    flex-direction: column; /* 小屏幕上改为垂直排列 */
   }
-  
-  .AboutOurGraphic {
-  flex-basis: 50%; /* 图表占据50%的空间 */
 
-  }
-  
   .AboutOurIcon {
-    max-width: 100%; /* 图表宽度最大为其容器的100% */
-    height: auto;
+    order: 0; /* 小屏幕上恢复图标顺序 */
   }
-  
-  .AboutOurInfo h2 {
-    font-size: 2em; /* 标题大小 */
-    color: #333; /* 标题颜色 */
-    margin-bottom: 0.5em;
-  }
-  
-  .AboutOurInfo p {
-    margin-bottom: 1em; /* 段落与按钮之间的间距 */
-    color: #666; /* 段落文字颜色 */
-  }
-  
-  .readMore {
-    padding: 10px 20px;
-    background-color: #a51140; /* 按钮背景颜色 */
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease; /* 平滑过渡效果 */
-  }
-  
-  .readMore:hover {
-    background-color: #c81e4e; /* 鼠标悬停时的颜色变化 */
-  }
-
-  /* 小於或等於 600px 的螢幕 */
-@media screen and (max-width: 600px) {
-  .process-images-container {
-    grid-template-columns: repeat(2, 1fr); /* 改為兩列 */
-  }
-
-  .homeHeader h1 {
-    font-size: 2em; /* 調小字體大小 */
-  }
-
-  /* 其他針對小屏幕的樣式調整 */
-}
-
-/* 中型螢幕，例如平板 */
-@media screen and (min-width: 601px) and (max-width: 1024px) {
-  .process-images-container {
-    grid-template-columns: repeat(3, 1fr); /* 改為三列 */
-  }
-
-  /* 其他針對中型屏幕的樣式調整 */
-}
-
-/* 大型螢幕 */
-@media screen and (min-width: 1025px) {
-  /* 這裡可以放置針對大螢幕的樣式，如果需要 */
 }

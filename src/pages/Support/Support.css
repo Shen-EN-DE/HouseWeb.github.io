@@ -1,146 +1,102 @@
-/* Support.css */
+/* 支援中心的主要樣式 */
 .support-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    font-family: 'Roboto', sans-serif;
-  }
-  
-  .support-title {
-    text-align: center;
-    color: #123456; /* Fintech風格的深藍色 */
-    margin-bottom: 30px;
-  }
-  
-  .support-search {
-    width: 100%;
-    padding: 10px 15px;
-    margin-bottom: 40px;
-    box-sizing: border-box;
-    border: 2px solid #123456; /* Fintech風格的深藍色邊框 */
-    border-radius: 5px;
-  }
-  
-  .support-content h2 {
-    color: #123456;
-    margin-bottom: 20px;
-  }
-  
-  .faq-section {
-    margin: 20px 0;
-    overflow-x: auto; /* 確保表格在小屏幕上也可以滾動 */
-  }
-  
-  .faq-section table {
-    width: 100%;
-    border-collapse: collapse; /* 移除表格間隙 */
-    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1); /* 添加陰影效果 */
-    border-radius: 8px; /* 圓角邊框 */
-    overflow: hidden; /* 修剪圓角外的內容 */
-  }
-  
-  .faq-section th,
-  .faq-section td {
-    text-align: left;
-    padding: 15px;
-    border-bottom: 1px solid #ccc; /* 添加底部邊框線 */
-  }
-  
-  .faq-section th {
-    background-color: #123456; /* Fintech風格的深藍色背景 */
-    color: white;
-    font-weight: normal;
-    }
-    
-    .faq-section tr:nth-child(even) {
-    background-color: #f2f2f2; /* 條紋效果 */
-    }
-    
-    .faq-section tr:hover {
-    background-color: #e8e8e8; /* 懸停效果 */
-    }
-    
-    .faq-section td {
-    color: #333; /* 文字顏色 */
-    }
-    
-    /* 為了進一步的設計感，考慮在文字過長時的處理方式 */
-    .faq-section td {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    max-width: 0;
-    }
-    
-    /* 響應式適配：在小螢幕上調整表格字體大小和邊距 */
-    @media (max-width: 768px) {
-    .faq-section th,
-    .faq-section td {
-    padding: 10px;
-    font-size: 14px;
-    }
-    }
-  
-  /* .faq-question {
-    font-weight: bold;
-  } */
-  
-  .faq-answer {
-    margin-bottom: 15px;
-  }
-  
-  .contact-section form {
-    max-width: 600px;
-    margin: 0 auto;
-  }
-  
-  .contact-section input,
-  .contact-section textarea {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 20px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-  
-  .contact-section .submit-button {
-    width: 100%;
-    padding: 10px 15px;
-    border: none;
-    background-color: #28a745; /* Fintech風格的綠色 */
-    color: white;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .contact-section .submit-button:hover {
-    background-color: #218838; /* 按鈕hover效果 */
-  }
-  
-  /* 小於或等於 600px 的螢幕 */
-@media screen and (max-width: 600px) {
-  .process-images-container {
-    grid-template-columns: repeat(2, 1fr); /* 改為兩列 */
-  }
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.3);
 
-  .homeHeader h1 {
-    font-size: 2em; /* 調小字體大小 */
-  }
-
-  /* 其他針對小屏幕的樣式調整 */
 }
 
-/* 中型螢幕，例如平板 */
-@media screen and (min-width: 601px) and (max-width: 1024px) {
-  .process-images-container {
-    grid-template-columns: repeat(3, 1fr); /* 改為三列 */
-  }
+/* 標題和搜索欄 */
+.support-title,
+.support-search {
+  color: #123456;
+  margin-bottom: 40px; /* 增加標題和搜索欄之間的間距 */
 
-  /* 其他針對中型屏幕的樣式調整 */
 }
 
-/* 大型螢幕 */
-@media screen and (min-width: 1025px) {
-  /* 這裡可以放置針對大螢幕的樣式，如果需要 */
+/* 常見問題 */
+.faq-section {
+  margin-bottom: 50px; /* 增加常見問題與聯繫我們之間的間距 */
+}
+
+/* 常見問題 */
+.faq-item {
+  cursor: pointer;
+  transition: background-color 0.3s ease, max-height 0.5s ease-in-out, padding 0.5s ease-in-out;
+  border: 1px solid #123456;
+  margin-bottom: 10px; /* 在問題之間增加間距 */
+  overflow: hidden; /* 為過渡效果做準備 */
+  max-height: 50px; /* 初始最大高度 */
+}
+
+.faq-item .faq-question {
+  margin: 0;
+  padding: 10px 15px;
+  background-color: #123456;
+  color: #ffffff;
+  border: none;
+}
+
+.faq-item.active {
+  max-height: 200px; /* 活躍狀態的最大高度 */
+}
+
+.faq-item.active .faq-question {
+  background-color: #0D2A4B; /* 活躍狀態的深藍色 */
+}
+
+.faq-item .faq-answer {
+  display: none;
+  padding: 10px 15px;
+  background-color: #f2f2f2; /* 答案背景色 */
+  border-top: 1px solid #123456;
+}
+
+.faq-item.active .faq-answer {
+  display: block;
+}
+
+/* 保持原有的聯繫我們樣式不變 */
+.contact-section form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-section input,
+.contact-section textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.contact-section .submit-button {
+  width: 100%;
+  padding: 10px 15px;
+  border: none;
+  background-color: #28a745; /* Fintech風格的綠色 */
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-section .submit-button:hover {
+  background-color: #218838; /* 按鈕hover效果 */
+}
+
+
+.submit-button {
+  background-color: #123456; /* 按鈕顏色 */
+  color: white;
+}
+
+.submit-button:hover {
+  background-color: #0D2A4B; /* 按鈕懸停顏色 */
 }

@@ -1,88 +1,84 @@
-.serviceSection {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 50px 0;
-    background-color: #fff8f8da; /* 根据您的品牌颜色进行调整 */
-  }
-  
-  .servicesList {
-    width: 100%;
-    max-width: 1200px;
-    margin: auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-  }
-  
-  .serviceItem {
-    display: flex;
-    flex-direction: row; /* 设置为行方向 */
-    align-items: center;
-    text-align: left; /* 设置文本对齐为左对齐 */
-    gap: 200px; /* 图标和文本之间的间隙 */
-    max-width: 1200px;
-    margin: auto;
-  }
-  
-  .serviceGraphic {
-  flex-basis: 50%; /* 图表占据50%的空间 */
-
-  }
-  
-  .serviceIcon {
-    max-width: 100%; /* 图表宽度最大为其容器的100% */
-    height: auto;
-  }
-  
-  .serviceInfo h2 {
-    font-size: 2em; /* 标题大小 */
-    color: #333; /* 标题颜色 */
-    margin-bottom: 0.5em;
-  }
-  
-  .serviceInfo p {
-    margin-bottom: 1em; /* 段落与按钮之间的间距 */
-    color: #666; /* 段落文字颜色 */
-  }
-  
-  .readMore {
-    padding: 10px 20px;
-    background-color: #e01e5a; /* 按钮背景颜色 */
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease; /* 平滑过渡效果 */
-  }
-  
-  .readMore:hover {
-    background-color: #c81e4e; /* 鼠标悬停时的颜色变化 */
-  }
-
-  
-@media screen and (max-width: 600px) {
-  .content-block {
-    padding: 0 20px; /* 在左右兩側添加 20px 的內邊距 */
-  }
-
-  .container, .wrapper {
-    margin: 0 auto; /* 居中容器並提供水平間距 */
-    max-width: 540px; /* 或者任何最大寬度，依據您的設計需要 */
-  }
-}
-  
-
-/* 中型螢幕，例如平板 */
-@media screen and (min-width: 601px) and (max-width: 1024px) {
-  .process-images-container {
-    grid-template-columns: repeat(3, 1fr); /* 改為三列 */
-  }
-
-  /* 其他針對中型屏幕的樣式調整 */
+.image-slider {
+  /* 您可能需要添加您的自定义樣式 */
+  position: relative;
+  /* 只保留一个overflow属性，视您的具体需求而定 */
+  /* overflow: hidden; 如果你希望圆点和按钮可见，这可能需要进一步的调整 */
 }
 
-/* 大型螢幕 */
-@media screen and (min-width: 1025px) {
-  /* 這裡可以放置針對大螢幕的樣式，如果需要 */
+/* 更新幻燈片樣式以應用透明度 */
+.slick-slide {
+  opacity: 1; /* 默认非中心幻灯片的透明度 */
+  transition: opacity 0.5s ease; /* 平滑过渡效果 */}
+
+.slick-center .slick-slide {
+  opacity: 1; /* 中心幻灯片不透明 */
+}
+
+.slick-slide:not(.slick-center) {
+  opacity: 0.4; /* 非中心幻燈片透明度降低 */
+}
+
+.image-slider__slider-slide {
+  position: relative;
+  overflow: hidden; /* 新增：只裁減圖片 */
+  height: 400px /* 新增：確保slide的高度與slider一致 */
+
+}
+
+.lazyload {
+  width: 100%;
+  height: 100%; /* 更新：設為100%以填滿容器 */
+  object-fit: cover; /* 新增：保持圖片比例並填滿容器 */
+  opacity: 1; /* 根据需要调整透明度 */
+}
+
+.image-slider__slider-slide-content {
+  position: absolute;
+  bottom: 20px; /* 定位到滑块的左下角 */
+  left: 20px; /* 定位到滑块的左下角 */
+  transform: translate(0%, 0%); /* 校正transform属性 */
+  text-align: left; /* 如果您希望文本左对齐 */
+
+  /* 添加背景色以提高可讀性，使用半透明背景以不完全覆蓋背景圖片 */
+  background: rgba(0, 0, 0, 0.5); /* 深色半透明背景 */
+  padding: 20px; /* 添加一些內邊距 */
+  border-radius: 8px; /* 如果您喜歡圓角的話 */
+  max-width: 300px; /* 或更大，根據需要設置最大寬度 */
+
+}
+
+.image-slider__slider-slide-content h4 {
+  color: #fff; /* 白色文字提高對比度 */
+  font-size: 24px; /* 增加字體大小提高可讀性 */
+  margin-bottom: 10px; /* 添加一些底部邊距 */
+}
+
+.image-slider__slider-slide-content-text {
+  color: #fff; /* 白色文字提高對比度 */
+  font-size: 18px; /* 適中的文字大小 */
+  line-height: 1.6; /* 增加行高以改善閱讀體驗 */
+}
+
+.button--primary-spring {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* 修正媒体查询以适应小屏幕 */
+@media (max-width: 768px) {
+  .image-slider {
+    /* 可能需要调整滑块的高度以适应内容 */
+  }
+  .button--primary-spring {
+    /* 调整按钮的位置，如果在小屏幕上需要不同的定位 */
+  }
 }

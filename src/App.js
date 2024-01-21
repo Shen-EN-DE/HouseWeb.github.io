@@ -4,6 +4,9 @@ import HomePage from './pages/HomePage/HomePage';
 import Navbar from './components/Navbar/Navbar';
 import Footer from './components/Footer/Footer';
 import SecondMortgagePage from './pages/SecondMortgagePage/SecondMortgagePage';
+import DataFinTech from './pages/DataFinTech/DataFinTech';
+import LoanConsuit from './pages/LoanConsuit/LoanConsuit';
+
 import Support from './pages/Support/Support';
 import MyCompany from './pages/MyCompany/MyCompany';
 import Contact from './pages/Contact/Contact';
@@ -16,9 +19,11 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/SecondMortgagePage" element={<SecondMortgagePage />} />
+          <Route path="/DataFinTech" element={<DataFinTech />} />
+          <Route path="/LoanConsuit" element={<LoanConsuit />} />
           <Route path="/support-center" element={<Support />} /> 
-          <Route path="company" element={<MyCompany />} /> 
-          <Route path="contact-us" element={<Contact />} /> 
+          <Route path="/company" element={<MyCompany />} /> 
+          <Route path="/contact-us" element={<Contact />} /> 
 
 
 

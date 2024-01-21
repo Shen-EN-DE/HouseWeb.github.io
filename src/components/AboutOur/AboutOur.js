@@ -1,14 +1,23 @@
 import React from 'react';
 import './AboutOur.css';
 import serviceIcon from '../../pictures/意願確認1.png'; 
+import { useNavigate } from 'react-router-dom';
 
-function AboutOurItem({ icon, title, description }) {
+
+function AboutOurItem({ icon, title, description, path }) {
+
+  const navigate = useNavigate();
+  
+  const handleClick = () => {
+    navigate(path); // 使用導航函數來改變路徑
+  };
+
     return (
         <div className="AboutOurItem">
           <div className="AboutOurInfo">
             <h2>{title}</h2>
             <p>{description}</p>
-            <button className="readMore">Read More</button>
+            <button className="readMore" onClick={handleClick}>Read More</button>
           </div>
           <div className="AboutOurGraphic">
             <img src={icon} alt={title} className="AboutOurIcon" />
@@ -22,9 +31,26 @@ function AboutOurItem({ icon, title, description }) {
     const services = [
       {
         icon: serviceIcon, // 路徑替換為你的圖標路徑
-        title: 'Our Team',
-        description: 'Team description...',
+        title: '公司環境&照片',
+        description: 'description...',
+        path: '/company', // 這裡指定導航的路徑
+
       },
+      {
+        icon: serviceIcon, // 路徑替換為你的圖標路徑
+        title: '品牌故事',
+        description: 'description...',
+        path: '/company', // 這裡指定導航的路徑
+
+      },
+      {
+        icon: serviceIcon, // 路徑替換為你的圖標路徑
+        title: '為何選擇白樹',
+        description: 'description...',
+        path: '/company', // 這裡指定導航的路徑
+
+      },
+      
       // ...其他服務項目...
     ];
   

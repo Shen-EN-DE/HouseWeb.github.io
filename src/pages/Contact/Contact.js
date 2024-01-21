@@ -9,6 +9,7 @@ const Contact = () => {
         {/* 假設每個Field是一個包含標籤、輸入框的組件 */}
         <Field label="姓名：" type="text" placeholder="請輸入您的姓名" />
         <Field label="電郵：" type="email" placeholder="請輸入您的電郵" />
+        <Field label="電話：" type="phone" placeholder="請輸入您的電話" />
         <Field label="信息：" type="textarea" placeholder="請輸入您想要傳達的信息" />
         <button type="submit" className="submit-button">發送信息</button>
       </form>

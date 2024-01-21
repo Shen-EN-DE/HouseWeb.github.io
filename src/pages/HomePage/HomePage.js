@@ -12,7 +12,6 @@ class HomePage extends Component {
         <header className="homeHeader">
           <h1>白樹金融科技</h1>
           <p>Financial Consulting. Let Us Do The Math.</p>
-          <button>Get Started</button>
         </header>
         <ServiceSection />
         <AboutOur />
