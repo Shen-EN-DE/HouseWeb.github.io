@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './DataFinTech.css'; // 请确保引入了CSS文件
 import { Link } from 'react-router-dom';
 
-import HouseIcon from '../../pictures/車貸.png'; 
+import HouseIcon from '../../pictures/房貸.png'; 
 import CarIcon from '../../pictures/車貸.png'; 
 import OtherIcon from '../../pictures/其他貸款.png'; 
 
