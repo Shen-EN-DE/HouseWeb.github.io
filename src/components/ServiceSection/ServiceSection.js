@@ -9,6 +9,7 @@ import './ServiceSection.css';
 import slick1 from '../../pictures/WT/首頁icon/大數據服務/大數據服務2.png';
 import slick2 from '../../pictures/WT/首頁icon/二順位貸款/二順位貸款3.png';
 import slick3 from '../../pictures/WT/首頁icon/銀行貸款諮詢服務/銀行貸款諮詢服務4.png';
+import slick4 from '../../pictures/WT/首頁icon/銀行貸款諮詢服務/銀行貸款諮詢服務1.png';
 
 
 const SlideItem = ({ icon, title, description, path }) => {
@@ -22,13 +23,13 @@ const SlideItem = ({ icon, title, description, path }) => {
     <div className="image-slider__slider-slide">
       <img src={icon} alt={title} className="lazyload" />
       <div className="image-slider__slider-slide-content">
-        <button className="button button--primary-spring" onClick={handleClick}>
-          <span className="button__text button__text--primary-spring">Learn More</span>
-        </button>
         <div className="image-slider__slider-slide-text-wrapper">
           <h4 className="image-slider__slider-slide-content-title">{title}</h4>
           <div className="image-slider__slider-slide-content-text">{description}</div>
         </div>
+        <button className="button button--primary-spring" onClick={handleClick}>
+          <span className="button__text button__text--primary-spring">Learn More</span>
+        </button>
       </div>
     </div>
   );
@@ -52,9 +53,16 @@ const ServiceSection = () => {
     },
     {
       icon: slick3,
-      title: '銀行貸款諮詢業務',
-      description: '銀行貸款諮詢業務描述...',
+      title: '碳管理平台',
+      description: '碳管理平台描述...',
       path: '/LoanConsuit',
+    
+    },
+    {
+      icon: slick4,
+      title: '綠色金融數據',
+      description: '綠色金融數據描述...',
+      path: '/ESGtech',
     
     },
     // ...更多服务...

@@ -9,9 +9,12 @@ import ContactUsButton from './components/ContactUsButton/ContactUsButton';
 import SecondMortgagePage from './pages/SecondMortgagePage/SecondMortgagePage';
 import DataFinTech from './pages/DataFinTech/DataFinTech';
 import LoanConsuit from './pages/LoanConsuit/LoanConsuit';
+import ESGtech from './pages/ESGtech/ESGtech';
 
 import Support from './pages/Support/Support';
 import MyCompany from './pages/MyCompany/MyCompany';
+import BrandStory from './pages/BrandStory/BrandStory';
+
 import Contact from './pages/Contact/Contact';
 
 function App() {
@@ -24,8 +27,12 @@ function App() {
           <Route path="/SecondMortgagePage" element={<SecondMortgagePage />} />
           <Route path="/DataFinTech" element={<DataFinTech />} />
           <Route path="/LoanConsuit" element={<LoanConsuit />} />
+          <Route path="/ESGtech" element={<ESGtech />} />
+
           <Route path="/support-center" element={<Support />} /> 
           <Route path="/company" element={<MyCompany />} /> 
+          <Route path="/BrandStory" element={<BrandStory />} /> 
+
           <Route path="/contact-us" element={<Contact />} /> 
           <Route path="/contact-us" element={<Contact />} /> 
           {/* 確保你為每個頁面配置了相對應的路由 */}

@@ -16,10 +16,10 @@ function ContactUsButton() {
         <img src={LineIcon} alt="Line" />
         <span className="tooltip">聯絡我們</span>
       </div>
-      <div className="contact-us-button" onClick={() => handleClick('https://messenger.com')}>
+      {/* <div className="contact-us-button" onClick={() => handleClick('https://messenger.com')}>
         <img src={LineIcon} alt="Messenger" />
         <span className="tooltip">常見問題</span>
-      </div>
+      </div> */}
       {/* 更多按钮 */}
     </div>
   );

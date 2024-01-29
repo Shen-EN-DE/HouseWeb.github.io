@@ -1,0 +1,52 @@
+/* MyCompany.css */
+.company-container {
+    margin: 0 auto;
+    max-width: 800px; /* 根據你的設計需求調整寬度 */
+    padding: 40px;
+    background: #fff; /* 用白色或其他淺色作為背景 */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1); /* 添加陰影給予立體感 */
+    border-top: 4px solid #0a175f; /* Fintech風格的顏色條 */
+  }
+  
+  .company-title {
+    font-size: 2rem; /* 大標題的字體大小 */
+    color: #333; /* 標題顏色，選擇一種深色調 */
+    margin-bottom: 20px; /* 標題下方的間隔 */
+    text-align: center; /* 標題置中 */
+  }
+  
+  .company-description {
+    font-size: 1rem; /* 描述文本的字體大小 */
+    color: #666; /* 描述文本顏色，選擇一種中性灰色調 */
+    line-height: 1.6; /* 行高，增加可讀性 */
+    text-align: justify; /* 文本對齊 */
+    border-bottom: 1px solid #ddd; /* 下方邊框，根據需要可移除 */
+    padding-bottom: 20px; /* 和下方邊框的間隔 */
+  }
+  
+  /* 小於或等於 600px 的螢幕 */
+@media screen and (max-width: 600px) {
+    .process-images-container {
+      grid-template-columns: repeat(2, 1fr); /* 改為兩列 */
+    }
+  
+    .homeHeader h1 {
+      font-size: 2em; /* 調小字體大小 */
+    }
+  
+    /* 其他針對小屏幕的樣式調整 */
+  }
+  
+  /* 中型螢幕，例如平板 */
+  @media screen and (min-width: 601px) and (max-width: 1024px) {
+    .process-images-container {
+      grid-template-columns: repeat(3, 1fr); /* 改為三列 */
+    }
+  
+    /* 其他針對中型屏幕的樣式調整 */
+  }
+  
+  /* 大型螢幕 */
+  @media screen and (min-width: 1025px) {
+    /* 這裡可以放置針對大螢幕的樣式，如果需要 */
+  }

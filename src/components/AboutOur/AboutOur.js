@@ -61,8 +61,6 @@ function AboutOurItem({ icon, title, description, path }) {
           '誠信正直 (守信與注重客戶隱私)',
           '互信互惠 (以共享與負責態度，建立良好合作關係)'
         ],
-        
-        path: '/company', // 這裡指定導航的路徑
 
       },
       

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './LoanConsuit.css'; // 请确保引入了CSS文件
 import { Link } from 'react-router-dom';
 
@@ -38,7 +38,7 @@ const FlexContainer = () => {
 
 const LoanConsuit = () => {
   // 默认显示不动产二顺位的流程图
-  const [activeService, setActiveService] = useState('second-mortgage');
+  // const [activeService, setActiveService] = useState('second-mortgage');
 
   // const services = {
   //   // 'motorcycle-loan': {
@@ -58,7 +58,7 @@ const LoanConsuit = () => {
   return (
       <div className="second-mortgage-page">
         <div className="service-title">
-            <h2> 銀行貸款諮詢業務 </h2>
+            <h2> 碳管理平台 </h2>
         </div>
 
         {/* 現有的流程圖容器 */}
