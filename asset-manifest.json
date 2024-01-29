@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/HouseWeb.github.io/static/css/main.eb01c502.css",
-    "main.js": "/HouseWeb.github.io/static/js/main.67bd564a.js",
+    "main.js": "/HouseWeb.github.io/static/js/main.cb4f8810.js",
     "static/js/787.d4aba7ab.chunk.js": "/HouseWeb.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/大數據服務2.png": "/HouseWeb.github.io/static/media/大數據服務2.24064c83785c65531932.png",
-    "static/media/二順位貸款1.png": "/HouseWeb.github.io/static/media/二順位貸款1.941cd56e70284a9630ba.png",
     "static/media/箭頭.png": "/HouseWeb.github.io/static/media/箭頭.177e21392201f98860e2.png",
     "static/media/二順位貸款3.png": "/HouseWeb.github.io/static/media/二順位貸款3.c4a6a4c2462e922d3443.png",
     "static/media/銀行貸款諮詢服務1.png": "/HouseWeb.github.io/static/media/銀行貸款諮詢服務1.a07f570fc8066254e232.png",
@@ -24,11 +23,11 @@
     "index.html": "/HouseWeb.github.io/index.html",
     "static/media/facebook-hover.svg": "/HouseWeb.github.io/static/media/facebook-hover.b2b2fa607cab4f78002f99a1019f0448.svg",
     "main.eb01c502.css.map": "/HouseWeb.github.io/static/css/main.eb01c502.css.map",
-    "main.67bd564a.js.map": "/HouseWeb.github.io/static/js/main.67bd564a.js.map",
+    "main.cb4f8810.js.map": "/HouseWeb.github.io/static/js/main.cb4f8810.js.map",
     "787.d4aba7ab.chunk.js.map": "/HouseWeb.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb01c502.css",
-    "static/js/main.67bd564a.js"
+    "static/js/main.cb4f8810.js"
   ]
 }
