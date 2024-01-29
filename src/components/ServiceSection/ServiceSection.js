@@ -6,9 +6,9 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 import './ServiceSection.css';
-import slick1 from '../../pictures/slick1.jpg';
-import slick2 from '../../pictures/slick2.jpg';
-import slick3 from '../../pictures/slick3.jpg';
+import slick1 from '../../pictures/WT/首頁icon/大數據服務/大數據服務2.png';
+import slick2 from '../../pictures/WT/首頁icon/二順位貸款/二順位貸款3.png';
+import slick3 from '../../pictures/WT/首頁icon/銀行貸款諮詢服務/銀行貸款諮詢服務4.png';
 
 
 const SlideItem = ({ icon, title, description, path }) => {
@@ -39,14 +39,14 @@ const ServiceSection = () => {
     {
       icon: slick1,
       title: '大數據FinTech',
-      description: '大數據FinTech服務描述...',
+      description: '本公司利用人工智慧(Artificial Intelligence)技術來為國外中小型企業提供服務',
       path: '/DataFinTech', // 路徑對應到導航條中的路徑
 
     },
     {
       icon: slick2,
       title: '二順位貸款',
-      description: '二順位貸款服務描述...',
+      description: '金融機構也可以導入ChatGPT和生成式AI，協助客戶調整投資布局策略。',
       path: '/SecondMortgagePage',
     
     },

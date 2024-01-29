@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import './LoanConsuit.css'; // 请确保引入了CSS文件
 import { Link } from 'react-router-dom';
 
-import HouseIcon from '../../pictures/房貸.png'; 
-import CarIcon from '../../pictures/車貸.png'; 
-import OtherIcon from '../../pictures/其他貸款.png'; 
+// import HouseIcon from '../../pictures/房貸.png'; 
+// import CarIcon from '../../pictures/車貸.png'; 
+// import OtherIcon from '../../pictures/其他貸款.png'; 
 
 
 const FlexContainer = () => {
@@ -40,36 +40,36 @@ const LoanConsuit = () => {
   // 默认显示不动产二顺位的流程图
   const [activeService, setActiveService] = useState('second-mortgage');
 
-  const services = {
-    // 'motorcycle-loan': {
-    //   title: '機車貸款',
-    //   processImages: [HouseIcon, CarIcon, OtherIcon, HouseIcon, CarIcon, OtherIcon, HouseIcon],
-    //   processDescriptions: ['步骤1描述', '步骤2描述', '步骤3描述', '步骤4描述', '步骤5描述', '步骤6描述', '步骤7描述']
-    // },
-    'second-mortgage': {
-      title: '不動產二順位',
-      processImages: [HouseIcon, CarIcon, OtherIcon, HouseIcon, CarIcon, OtherIcon, HouseIcon],
-      processDescriptions: ['步骤1描述', '步骤2描述', '步骤3描述', '步骤4描述', '步骤5描述', '步骤6描述', '步骤7描述']
-    },
+  // const services = {
+  //   // 'motorcycle-loan': {
+  //   //   title: '機車貸款',
+  //   //   processImages: [HouseIcon, CarIcon, OtherIcon, HouseIcon, CarIcon, OtherIcon, HouseIcon],
+  //   //   processDescriptions: ['步骤1描述', '步骤2描述', '步骤3描述', '步骤4描述', '步骤5描述', '步骤6描述', '步骤7描述']
+  //   // },
+  //   'second-mortgage': {
+  //     title: '不動產二順位',
+  //     processImages: [HouseIcon, CarIcon, OtherIcon, HouseIcon, CarIcon, OtherIcon, HouseIcon],
+  //     processDescriptions: ['步骤1描述', '步骤2描述', '步骤3描述', '步骤4描述', '步骤5描述', '步骤6描述', '步骤7描述']
+  //   },
 
-  };
+  // };
   
 
   return (
       <div className="second-mortgage-page">
         <div className="service-title">
-            <h2>{services[activeService].title}</h2>
+            <h2> 銀行貸款諮詢業務 </h2>
         </div>
 
         {/* 現有的流程圖容器 */}
-        <div className="process-images-container">
+        {/* <div className="process-images-container">
         {services[activeService].processImages.map((image, index) => (
         <div key={index} className="process-step">
             <img src={image} alt={`流程 ${index + 1}`} className="process-image" />
             <p className="process-description">{services[activeService].processDescriptions[index]}</p>
         </div>
         ))}
-        </div>
+        </div> */}
 
         <FlexContainer />
 

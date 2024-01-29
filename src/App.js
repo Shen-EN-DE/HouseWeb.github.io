@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './pages/HomePage/HomePage';
 import Navbar from './components/Navbar/Navbar';
 import Footer from './components/Footer/Footer';
+import ContactUsButton from './components/ContactUsButton/ContactUsButton';
+
+
 import SecondMortgagePage from './pages/SecondMortgagePage/SecondMortgagePage';
 import DataFinTech from './pages/DataFinTech/DataFinTech';
 import LoanConsuit from './pages/LoanConsuit/LoanConsuit';
@@ -24,14 +27,14 @@ function App() {
           <Route path="/support-center" element={<Support />} /> 
           <Route path="/company" element={<MyCompany />} /> 
           <Route path="/contact-us" element={<Contact />} /> 
-
-
-
+          <Route path="/contact-us" element={<Contact />} /> 
           {/* 確保你為每個頁面配置了相對應的路由 */}
           {/* 例如: */}
           {/* <Route path="/about" element={<AboutPage />} /> */}
         </Routes>
         <Footer />
+        <ContactUsButton /> {/* 这将在每个页面上显示联系我们按钮 */}
+
       </div>
     </Router>
   );

@@ -18,6 +18,10 @@
   gap: 40px; /* 圖標和文本之間的間距 */
 }
 
+.process-description {
+  white-space: pre-line; /* 保证换行符被渲染 */
+}
+
 .AboutOurItem:nth-child(odd) {
   flex-direction: row; /* 奇數項目，文本在左圖片在右 */
 }

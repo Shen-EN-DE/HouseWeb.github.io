@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';  // 確保您已經安裝並設定了 R
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Nav, Navbar as BootstrapNavbar, NavDropdown } from 'react-bootstrap';
 import './Navbar.css'
-import HouseIcon from '../../pictures/房貸.png'; 
-import CarIcon from '../../pictures/車貸.png'; 
-import OtherIcon from '../../pictures/其他貸款.png'; 
+import HouseIcon from '../../pictures/二順位貸款/二順位貸款1.png'; 
+import CarIcon from '../../pictures/WT/首頁icon/銀行貸款諮詢服務/銀行貸款諮詢服務1.png'; 
+import OtherIcon from '../../pictures/WT/首頁icon/大數據服務/大數據服務2.png'; 
 
 
 
