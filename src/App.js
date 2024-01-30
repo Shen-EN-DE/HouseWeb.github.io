@@ -20,25 +20,27 @@ import Contact from './pages/Contact/Contact';
 function App() {
   return (
     <Router>
-      <div>
+      <div className='main-container'>
         <Navbar />
-        <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/SecondMortgagePage" element={<SecondMortgagePage />} />
-          <Route path="/DataFinTech" element={<DataFinTech />} />
-          <Route path="/LoanConsuit" element={<LoanConsuit />} />
-          <Route path="/ESGtech" element={<ESGtech />} />
+        <div className='content-wrapper'>
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/SecondMortgagePage" element={<SecondMortgagePage />} />
+            <Route path="/DataFinTech" element={<DataFinTech />} />
+            <Route path="/LoanConsuit" element={<LoanConsuit />} />
+            <Route path="/ESGtech" element={<ESGtech />} />
 
-          <Route path="/support-center" element={<Support />} /> 
-          <Route path="/company" element={<MyCompany />} /> 
-          <Route path="/BrandStory" element={<BrandStory />} /> 
+            <Route path="/support-center" element={<Support />} /> 
+            <Route path="/company" element={<MyCompany />} /> 
+            <Route path="/BrandStory" element={<BrandStory />} /> 
 
-          <Route path="/contact-us" element={<Contact />} /> 
-          <Route path="/contact-us" element={<Contact />} /> 
-          {/* 確保你為每個頁面配置了相對應的路由 */}
-          {/* 例如: */}
-          {/* <Route path="/about" element={<AboutPage />} /> */}
-        </Routes>
+            <Route path="/contact-us" element={<Contact />} /> 
+            <Route path="/contact-us" element={<Contact />} /> 
+            {/* 確保你為每個頁面配置了相對應的路由 */}
+            {/* 例如: */}
+            {/* <Route path="/about" element={<AboutPage />} /> */}
+          </Routes>
+        </div>
         <Footer />
         <ContactUsButton /> {/* 这将在每个页面上显示联系我们按钮 */}
 

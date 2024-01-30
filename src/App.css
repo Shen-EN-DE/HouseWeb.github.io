@@ -1,3 +1,19 @@
+/* 設置主要容器的 display 為 flex */
+.main-container {
+  display: flex;
+  flex-direction: column; /* 子元素垂直堆疊 */
+  min-height: 100vh; /* 至少和視窗高度一樣 */
+}
+
+/* 內容容器應該根據需要伸縮，推動頁尾向下 */
+.content-wrapper {
+  flex: 1; /* 這會使內容伸縮並填滿可用空間 */
+  padding-top: 20px; /* 與 Navbar 的間距 */
+  padding-bottom: 20px; /* 與 Footer 的間距 */
+  /* 根據需要，你也可以添加左右的 padding */
+}
+
+
 .App {
   text-align: center;
 }

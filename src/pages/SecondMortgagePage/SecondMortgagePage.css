@@ -7,10 +7,10 @@
 }
 
 .process-row {
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: center;
-  margin: 20px 0; /* 增加上下间距 */
+  margin: 50px 0; /* 增加上下间距 */
 }
 
 .process-step {
@@ -20,11 +20,13 @@
   align-items: center;
 }
 
+/*
 .process-image {
-  width: 300px; /* 设置所有图片的固定宽度 */
-  height: 200px; /* 设置所有图片的固定高度 */
-  object-fit: cover; /* 裁剪并保持纵横比填充容器 */
+  width: 300px; /* 设置所有图片的固定宽度
+  height: 200px; /* 设置所有图片的固定高度
+  object-fit: cover; /* 裁剪并保持纵横比填充容器
 }
+*/
 
 .process-description {
   font-size: 1.2em; /* 增加字体大小 */

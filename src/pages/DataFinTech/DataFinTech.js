@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './DataFinTech.css'; // 请确保引入了CSS文件
 import { Link } from 'react-router-dom';
 
@@ -38,7 +38,7 @@ const FlexContainer = () => {
 
 const DataFinTech = () => {
   // 默认显示不动产二顺位的流程图
-  const [activeService, setActiveService] = useState('second-mortgage');
+  // const [activeService, setActiveService] = useState('second-mortgage');
 
   // const services = {
   //   // 'motorcycle-loan': {
