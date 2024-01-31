@@ -2,14 +2,14 @@ import React, { useState } from 'react';
 import'./SecondMortgagePage.css'; // 请确保引入了CSS文件
 import { Link } from 'react-router-dom';
 
-import HouseIcon1 from '../../pictures/WT/房貸流程p/2提供資料1.png'; 
-import HouseIcon2 from '../../pictures/WT/房貸流程p/3確認貸款.png'; 
-import HouseIcon3 from '../../pictures/二順位貸款/二順位貸款3.png'; 
-import HouseIcon4 from '../../pictures/WT/房貸流程p/4協商條件2.png'; 
-import HouseIcon5 from '../../pictures/WT/房貸流程p/6走政府流程2.png'; 
-import HouseIcon6 from '../../pictures/WT/房貸流程p/5通知裕融.png'; 
+import HouseIcon1 from '../../pictures/WT/房貸流程icon/2提供資料.png'; 
+import HouseIcon2 from '../../pictures/WT/房貸流程icon/1意願確認.png'; 
+import HouseIcon3 from '../../pictures/WT/房貸流程icon/3確認貸款.png'; 
+import HouseIcon4 from '../../pictures/WT/房貸流程icon/4協商條件.png'; 
+import HouseIcon5 from '../../pictures/WT/房貸流程icon/設定質押.png'; 
+import HouseIcon6 from '../../pictures/WT/房貸流程icon/6撥款.png'; 
 
-import arrow from '../../pictures/箭頭.png'; 
+import arrow from '../../pictures/WT/房貸流程icon/arrow-right.png'; 
 
 
 const FlexContainer = () => {
@@ -17,14 +17,21 @@ const FlexContainer = () => {
     <div className={"content-container"}>
       <div className="flex-container top-row">
         {/* 上方的四個小方格子，請根據需要填充內容 */}
-        <div className="flex-item small-box">好房再貸一波，房屋價值再活化。利率也較高！好房再貸一波，房屋價值再活化。利率也較高</div>
-        <div className="flex-item small-box">小方格2</div>
-
-
+        <div className="flex-item small-box">與上市公司合作，透過完整流程來提供專業服務來協助中小企業進行資金服務
+                                             及其他用途。確保流程皆符合相關的合規性要求以提高與客戶間之信任。
+        </div>
+        <div className="flex-item small-box">
+          <p>可提供服務:</p>
+          <ul>
+            <li>中小企業資金服務</li>
+            <li>客制化服務</li>
+          </ul>
+        </div>
       </div>
-      <div className="flex-container bottom-row">
+
+      {/* <div className="flex-container bottom-row"> */}
         {/* 下方的兩個大方格子，請根據需要填充內容 */}
-        <div className="flex-item large-box">
+        {/* <div className="flex-item large-box">
           <h3>貸款金額</h3>
           <p>最高可貸金額</p>
           <div className="highlight">110%</div>
@@ -33,11 +40,11 @@ const FlexContainer = () => {
           <h3>優點</h3>
           <p>1. 信用條件要求低: 擁有房產作擔保品，對其他證明要求較低。</p>
           <p>2. 貸款額度較高: 相比其他貸款項目，不動產二順位能獲得較高貸款額度。</p>
-          <p>3. 還款年限較長: 擁有較長還款期限，讓申貸人財務壓力減少。</p>
+          <p>3. 還款年限較長: 擁有較長還款期限，讓申貸人財務壓力減少。</p> */}
 
           {/* <div className="highlight">120月</div> */}
-        </div>
-      </div>
+        {/* </div> */}
+      {/* </div> */}
     </div>
   );
 };

@@ -12,14 +12,28 @@ const FlexContainer = () => {
     <div className="content-container">
       <div className="flex-container top-row">
         {/* 上方的四個小方格子，請根據需要填充內容 */}
-        <div className="flex-item small-box">好房再貸一波，房屋價值再活化。利率也較高！好房再貸一波，房屋價值再活化。利率也較高</div>
-        <div className="flex-item small-box">小方格2</div>
-
-
+          <div className="flex-item small-box">
+            <p>
+              協助企業建置碳排放模型，協助企業透過簡單進行人員、廠房設備的盤查，建
+              立碳排計算量模型。<br/>
+              企業可以透過模型掌握自身企業的排碳量。同時，也提供
+              碳管理服務，除了可以固定於每月底提供詳細分析報告，也可以提供建議以改
+              善目前企業的碳排表現。
+            </p>
+          </div>
+        <div className="flex-item small-box">
+          <p>可提供服務:</p>
+          <ul>
+            <li>1. 建置碳排放模型</li>
+            <li>2. 提供報告及建議</li>
+          </ul>
+        </div>
       </div>
-      <div className="flex-container bottom-row">
+
+
+      {/* <div className="flex-container bottom-row"> */}
         {/* 下方的兩個大方格子，請根據需要填充內容 */}
-        <div className="flex-item large-box">
+        {/* <div className="flex-item large-box">
           <h3>貸款金額</h3>
           <p>最高可貸金額</p>
           <div className="highlight">110%</div>
@@ -29,7 +43,7 @@ const FlexContainer = () => {
           <p>最高可貸期限</p>
           <div className="highlight">120月</div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

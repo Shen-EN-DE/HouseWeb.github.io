@@ -7,9 +7,9 @@ import "slick-carousel/slick/slick-theme.css";
 
 import './ServiceSection.css';
 import slick1 from '../../pictures/WT/首頁icon/大數據服務/大數據服務2.png';
-import slick2 from '../../pictures/WT/首頁icon/二順位貸款/二順位貸款3.png';
-import slick3 from '../../pictures/WT/首頁icon/銀行貸款諮詢服務/銀行貸款諮詢服務4.png';
-import slick4 from '../../pictures/WT/首頁icon/銀行貸款諮詢服務/銀行貸款諮詢服務1.png';
+import slick2 from '../../pictures/WT/首頁icon/二順位貸款/二順位貸款6.png';
+import slick3 from '../../pictures/WT/首頁icon/碳權/碳權3.jpg';
+import slick4 from '../../pictures/WT/首頁icon/ESG綠色金融科技/ESG.png';
 
 
 const SlideItem = ({ icon, title, description, path }) => {

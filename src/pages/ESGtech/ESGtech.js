@@ -7,14 +7,27 @@ const FlexContainer = () => {
       <div className="content-container">
         <div className="flex-container top-row">
           {/* 上方的四個小方格子，請根據需要填充內容 */}
-          <div className="flex-item small-box">好房再貸一波，房屋價值再活化。利率也較高！好房再貸一波，房屋價值再活化。利率也較高</div>
-          <div className="flex-item small-box">小方格2</div>
-  
-  
+          <div className="flex-item small-box">
+            <p>
+              希望能為客戶建立在氣候變遷相關的因應方案，為更多企業能落實 ESG 並帶來
+              新契機。<br/>
+              以此之外本公司也會蒐集國內外公司之永續報告書，並將其剖析建立
+              資料庫，以此來掌握 ESG 最新趨勢。
+            </p>
+          </div>
+          <div className="flex-item small-box">
+            <p>可提供服務:</p>
+            <ul>
+              <li>1. 客戶客制化方案</li>
+              <li>2. 建立永續資料庫</li>
+            </ul>      
+          </div>
         </div>
-        <div className="flex-container bottom-row">
+
+
+        {/* <div className="flex-container bottom-row"> */}
           {/* 下方的兩個大方格子，請根據需要填充內容 */}
-          <div className="flex-item large-box">
+          {/* <div className="flex-item large-box">
             <h3>貸款金額</h3>
             <p>最高可貸金額</p>
             <div className="highlight">110%</div>
@@ -24,7 +37,7 @@ const FlexContainer = () => {
             <p>最高可貸期限</p>
             <div className="highlight">120月</div>
           </div>
-        </div>
+        </div> */}
       </div>
     );
   };

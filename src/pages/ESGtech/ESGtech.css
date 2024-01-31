@@ -29,24 +29,20 @@
   margin: 10px 0; /* 添加適當的間距 */
 }
 
-
 .process-image {
-  width: 200px; /* 设置所有图片的固定宽度*/
-  height: 200px; /* 设置所有图片的固定高度*/
+  width: 100px; /* 设置所有图片的固定宽度*/
+  height: 100px; /* 设置所有图片的固定高度*/
   margin-bottom: 20px; /* 圖標和文字之間的距離 */
   border: 1px solid #ccc; /* 如果需要圖標邊框 */
-  border-radius: 60%; /* 如果圖標是圓形的 */
+  /* border-radius: 60%; 如果圖標是圓形的 */
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
-
 
 .process-description {
   font-size: 1em;
   color: #666; /* 適當的文字顏色 */
-
 }
 
 .process-description-list {

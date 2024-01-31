@@ -12,14 +12,31 @@ const FlexContainer = () => {
     <div className="content-container">
       <div className="flex-container top-row">
         {/* 上方的四個小方格子，請根據需要填充內容 */}
-        <div className="flex-item small-box">好房再貸一波，房屋價值再活化。利率也較高！好房再貸一波，房屋價值再活化。利率也較高</div>
-        <div className="flex-item small-box">小方格2</div>
+        <div className=
+        "flex-item small-box">
+          <p>
+          為了簡化企業貸款所需的時間，本公司利用人工智慧(Artificial Intelligence)技術
+          來為國外中小型企業提供服務。<br/>
+          主要使用機器學習(Machine Learning)以及大數
+          據分析( Data Analysis)，來大幅縮短申貸所需時間。<br/>
+          同時根據國外廠商所需商業
+          決策或多元金融產品來建置模型，以滿足企業需求。
+          </p>
 
+        </div>
 
+        <div className="flex-item small-box">
+          <p>可提供服務:</p>
+            <ul>
+              <li>1. 人工智慧技術位國外企業提供服務</li>
+              <li>2. 客制化金融模型</li>
+            </ul>                   
+        </div>
       </div>
-      <div className="flex-container bottom-row">
+      
+      {/* <div className="flex-container bottom-row"> */}
         {/* 下方的兩個大方格子，請根據需要填充內容 */}
-        <div className="flex-item large-box">
+        {/* <div className="flex-item large-box">
           <h3>貸款金額</h3>
           <p>最高可貸金額</p>
           <div className="highlight">110%</div>
@@ -28,8 +45,8 @@ const FlexContainer = () => {
           <h3>還款期限</h3>
           <p>最高可貸期限</p>
           <div className="highlight">120月</div>
-        </div>
-      </div>
+        </div> */}
+      {/* </div> */}
     </div>
   );
 };

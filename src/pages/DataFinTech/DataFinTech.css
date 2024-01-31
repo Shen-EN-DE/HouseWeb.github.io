@@ -66,13 +66,15 @@
     border: 1px solid #ddd;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.7);
-    text-align: center;
-    word-wrap: break-word; /* 確保文字換行 */
-    overflow-wrap: break-word; /* 在長單詞或 URL 地址等不可分割的連續字符無法完全顯示時換行 */
-    max-width: 100%; /* 防止容器寬度超出 */
-    overflow: hidden; /*來防止內容溢出容器。*/
+    text-align: left; /* 修改這裡將文字對齊方式改為左對齊 */
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    overflow: hidden;
     white-space: normal;
-    word-break: break-all; /* 會在任何字符之間換行，即使是在單詞內部 */
+    word-break: break-all;
+    letter-spacing: 0.05em; /* 增加字符間距 */
+    line-height: 3; /* 增加行高 */
 
   }
   
