@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/HouseWeb.github.io/static/css/main.4df94b02.css",
-    "main.js": "/HouseWeb.github.io/static/js/main.c0407a83.js",
+    "main.css": "/HouseWeb.github.io/static/css/main.8de8a3bc.css",
+    "main.js": "/HouseWeb.github.io/static/js/main.48da99a1.js",
     "static/js/787.d4aba7ab.chunk.js": "/HouseWeb.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/大數據服務2.png": "/HouseWeb.github.io/static/media/大數據服務2.24064c83785c65531932.png",
     "static/media/ESG.png": "/HouseWeb.github.io/static/media/ESG.d445904c3fb528571478.png",
     "static/media/二順位貸款6.png": "/HouseWeb.github.io/static/media/二順位貸款6.6e062118a54478b8b4fe.png",
-    "static/media/office.jpg": "/HouseWeb.github.io/static/media/office.b8a6c62d64c49eb06eeb.jpg",
+    "static/media/碳權3.png": "/HouseWeb.github.io/static/media/碳權3.89fda5d8c54fe6081233.png",
+    "static/media/碳權3.jpg": "/HouseWeb.github.io/static/media/碳權3.3958ece7a0f818ab4249.jpg",
+    "static/media/algorithm.png": "/HouseWeb.github.io/static/media/algorithm.a88133d7fa783b437c1d.png",
     "static/media/品牌故事3.jpg": "/HouseWeb.github.io/static/media/品牌故事3.2330e84f294dae38d3c3.jpg",
     "static/media/品牌故事1.jpg": "/HouseWeb.github.io/static/media/品牌故事1.fc94e530adfb7e8e4b22.jpg",
+    "static/media/corporate.png": "/HouseWeb.github.io/static/media/corporate.e9d504c8566cf25884d3.png",
     "static/media/WHY3.jpg": "/HouseWeb.github.io/static/media/WHY3.db6406305c85203b710d.jpg",
-    "static/media/碳權3.jpg": "/HouseWeb.github.io/static/media/碳權3.6352f1dae8e4584aaf1a.jpg",
     "static/media/slick.svg": "/HouseWeb.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/HouseWeb.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/HouseWeb.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
@@ -18,12 +20,12 @@
     "static/media/slick.woff": "/HouseWeb.github.io/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/HouseWeb.github.io/index.html",
     "static/media/facebook-hover.svg": "/HouseWeb.github.io/static/media/facebook-hover.b2b2fa607cab4f78002f99a1019f0448.svg",
-    "main.4df94b02.css.map": "/HouseWeb.github.io/static/css/main.4df94b02.css.map",
-    "main.c0407a83.js.map": "/HouseWeb.github.io/static/js/main.c0407a83.js.map",
+    "main.8de8a3bc.css.map": "/HouseWeb.github.io/static/css/main.8de8a3bc.css.map",
+    "main.48da99a1.js.map": "/HouseWeb.github.io/static/js/main.48da99a1.js.map",
     "787.d4aba7ab.chunk.js.map": "/HouseWeb.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4df94b02.css",
-    "static/js/main.c0407a83.js"
+    "static/css/main.8de8a3bc.css",
+    "static/js/main.48da99a1.js"
   ]
 }
