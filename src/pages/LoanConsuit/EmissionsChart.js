@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import { Line } from 'react-chartjs-2';
 import { MenuItem, FormControl, Select, Card, CardContent, Typography } from '@mui/material';
 
-import './EmissionsChart.css'; // 请确保引入了CSS文件
+import Chart from 'chart.js/auto';
 
 // 假設 data 是從您的 JSON 文件中讀取的數據
 import initialData  from '../LoanConsuit/LoanData/國家溫室氣體排放清冊報告.json'
