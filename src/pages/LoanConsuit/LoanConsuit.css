@@ -53,6 +53,8 @@ p {
   align-items: center;
   text-align: center;
   margin-bottom: 50px;
+  background-color: #F9F9F9; /* 非圖片部分的背景色 */
+
 }
 
 .service-item {
@@ -93,6 +95,33 @@ p {
 .service-item:hover {
   box-shadow: 0 8px 16px rgba(0,0,0,0.7); /* 增加陰影 */
   transform: translateY(-5px); /* 輕微向上移動 */
+}
+
+
+.middleText {
+  display: flex; /* 使用 Flexbox */
+  flex-direction: column; /* 子元素垂直排列 */
+  align-items: center; /* 子元素水平居中 */
+  justify-content: center; /* 子元素垂直居中 */
+  text-align: center; /* 文字對齊居中 */
+  margin: 50px 0; /* 上下邊距，根據需要進行調整 */
+}
+
+.middleText h1, 
+.middleText p {
+  color: #555555; /* 文本顏色，視您的需求而定 */
+  margin: 0; /* 移除邊距 */
+}
+
+.middleText h1 {
+  font-size: 2em; /* 調整標題的大小，視您的需求而定 */
+  margin-bottom: 0.5em; /* 標題下方的間隙 */
+}
+
+.middleText p {
+  font-size: 1em; /* 段落文字的大小，視您的需求而定 */
+  max-width: 600px; /* 段落最大寬度，確保在大螢幕上也能保持可讀性 */
+  margin-bottom: 1em; /* 段落之間的間隙 */
 }
 
 /* 您可能需要根據您的品牌指南調整字體大小、顏色和其他樣式。 */

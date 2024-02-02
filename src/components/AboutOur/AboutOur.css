@@ -69,7 +69,7 @@
 .readMore {
   padding: 10px 20px;
   background-color: #a51140; /* 按鈕背景顏色 */
-  color: white;
+  color: rgb(255, 255, 255);
   border: none;
   border-radius: 5px;
   cursor: pointer;
