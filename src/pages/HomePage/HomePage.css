@@ -1,90 +1,78 @@
 /* HomePage.css */
 .homePage {
   font-family: 'Arial', sans-serif;
+  background-color: #fffbf7; /* Updated background color */
+  color: #fff8f8; /* Light text for contrast */
 }
 
 .homeHeader {
-  text-align: center;
-  padding: 50px;
-  position: relative; /* 添加相對定位，為偽元素定位做準備 */
-  color: rgb(0, 0, 0); /* 這將確保文字可見 */
-  /* background-color: #a1dba9; 你可能需要調整這個顏色來與你的圖片搭配 */
-}
-
-.homeHeader::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(
-      rgba(0, 0, 0, 0.5), /* 調整這裡的透明度來控制暗度 */
-      rgba(0, 0, 0, 0.5)
-    ),
-    url('../../pictures/office.jpg'); /* 你的圖片路徑 */
-  background-size: cover;
-  background-position: center;
-  opacity: 0.2; /*設置背景圖片的透明度 */
-  z-index: -1;
-}
-
-/* 確保其他元素在偽元素之上 */
-.homeHeader * {
   position: relative;
-  z-index: 1;
+  text-align: left; /* 將文字對齊至左側，類似於第二張圖片 */
+  padding-top: 100px; /* 添加上邊距以向下調整文字位置 */
+  padding-left: 10%; /* 添加左邊距以從左側調整文字位置 */
+  color: #F9F9F9; /* 調整文字顏色以符合您的設計 */
+  background-color: #1F2B37; /* 非圖片部分的背景色 */
+  height: 450px; /* 根據需要調整高度 */
+  overflow: hidden; /* 隱藏斜切後的溢出部分 */
 }
+
 
 .homeHeader h1 {
-  margin-bottom: 20px;
-  font-size: 2.5em;
+  font-size: 3em; /* 更大的標題字體大小 */
+  font-weight: bold; /* 標題文字加粗 */
+  margin: 0 0 0.5em 0; /* 根據需要調整邊距 */
+  color: #77F2A1; /* 文字顏色，您可以根據您的配色方案進行更改 */
 }
 
 .homeHeader p {
-  margin-bottom: 30px;
-  color: #666666;
+  font-size: 1.5em; /* 調整大小 */
+  margin-bottom: 2em; /* 按鈕前的空間 */
+  max-width: 600px; /* 段落的最大寬度 */
+  line-height: 1.4; /* 調整行高以提高可讀性 */
 }
 
-.homeHeader button {
-  padding: 10px 20px;
-  background-color: #123456;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
+/* 新增中間文字部分的樣式 */
+.middleText {
+  text-align: center; /* 文字置中 */
+  font-size: 1.2em; /* 適當的字體大小 */
+  color: #000000; /* 文字顏色 */
+  padding: 20px 0; /* 上下內距 */
+  background-color: #fffdfa; /* 背景顏色 */
+  height: 350px; /* 根據需要調整高度 */
+  overflow: hidden; /* 隱藏斜切後的溢出部分 */
 }
 
-/* 小於或等於 600px 的螢幕 */
+.middleText h1 {
+  font-size: 3em; /* 更大的標題字體大小 */
+  margin: 0 0 0.5em 0; /* 根據需要調整邊距 */
+  color: #000000; /* 文字顏色，您可以根據您的配色方案進行更改 */
+}
+
+.middleText p {
+  text-align: center; /* 文字置中 */
+  font-size: 1.5em; /* 調整大小 */
+  margin-bottom: 2em; /* 按鈕前的空間 */
+  max-width: 600px; /* 段落的最大寬度 */
+  line-height: 1.4; /* 調整行高以提高可讀性 */
+}
+
+
+/* 響應式設計調整 */
 @media screen and (max-width: 600px) {
-  .process-images-container {
-    grid-template-columns: repeat(2, 1fr); /* 改為兩列 */
+  .homeHeader {
+    text-align: center; /* 小屏幕中央對齊 */
+    padding-left: 0; /* 小屏幕移除左邊距 */
   }
 
-  .homeHeader h1 {
-    font-size: 2em; /* 調小字體大小 */
+  .homeHeader h1, .homeHeader p {
+    text-align: center; /* 小屏幕文字中央對齊 */
   }
 
-  /* 其他針對小屏幕的樣式調整 */
-}
-
-/* 中型螢幕，例如平板 */
-@media screen and (min-width: 601px) and (max-width: 1024px) {
-  .process-images-container {
-    grid-template-columns: repeat(3, 1fr); /* 改為三列 */
+  .homeHeader::before {
+    transform: skewX(-10deg); /* 小屏幕使用較小的斜切角度 */
   }
-
-  /* 其他針對中型屏幕的樣式調整 */
 }
 
-/* 大型螢幕 */
-@media screen and (min-width: 1025px) {
-  /* 這裡可以放置針對大螢幕的樣式，如果需要 */
-}
+/* Remove unused media query styles related to .process-images-container if not needed */
 
-
-/* Ensure that .header is not too generic; possibly rename to .homeHeaderBackground if it's only used there */
-/* .header {
-
-} */
-
-/* ... other styles ... */
+/* Remove commented out styles and ensure CSS is clean and specific to current needs */
