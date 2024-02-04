@@ -61,9 +61,9 @@
   margin-bottom: 0.5em;
 }
 
-.AboutOurInfo p {
-  margin-bottom: 1em; /* 段落與按鈕之間的間距 */
-  color: #666; /* 段落文字顏色 */
+.AboutOurInfo p,
+.AboutOurInfo ol li {
+  color: #666; /* 或您選擇的任何顏色 */
 }
 
 .readMore {

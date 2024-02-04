@@ -45,7 +45,7 @@ function AboutOurItem({ icon, title, description, path }) {
       {
         icon: serviceIcon1, // 路徑替換為你的圖標路徑
         title: '公司環境&照片',
-        description: 'description...',
+        description: '這裡填入公司環境...',
         path: '/company', // 這裡指定導航的路徑
 
       },

@@ -6,10 +6,10 @@ import Footer from './components/Footer/Footer';
 import ContactUsButton from './components/ContactUsButton/ContactUsButton';
 
 
-import SecondMortgagePage from './pages/SecondMortgagePage/SecondMortgagePage';
-import DataFinTech from './pages/DataFinTech/DataFinTech';
-import LoanConsuit from './pages/LoanConsuit/LoanConsuit';
-import ESGtech from './pages/ESGtech/ESGtech';
+import SecondMortgagePage from './pages/ServiceItem/SecondMortgagePage/SecondMortgagePage';
+import DataFinTech from './pages/ServiceItem/DataFinTech/DataFinTech';
+import LoanConsuit from './pages/ServiceItem/LoanConsuit/LoanConsuit';
+import ESGtech from './pages/ServiceItem/ESGtech/ESGtech';
 
 import Support from './pages/Support/Support';
 import MyCompany from './pages/MyCompany/MyCompany';

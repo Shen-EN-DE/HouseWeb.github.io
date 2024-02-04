@@ -22,7 +22,7 @@ class HomePage extends Component {
         <header className="homeHeader">
           <div className="overlay"></div> {/* 遮罩層 */}
           <h1>白樹金融科技</h1>
-          <p>Financial Consulting. Let Us Do The Math.</p>
+          <p className="white-text">Financial Consulting. Let Us Do The Math.</p>
         </header>
         <div className="middleText"> {/* 新增中間文字 */}
           <h1>為何選擇白樹金融科技</h1>

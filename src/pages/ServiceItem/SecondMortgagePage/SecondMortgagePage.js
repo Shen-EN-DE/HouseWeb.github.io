@@ -1,65 +1,46 @@
 import React, { useState } from 'react';
-import'./SecondMortgagePage.css'; // 请确保引入了CSS文件
+import'../ServiceStyle.css'; // 请确保引入了CSS文件
 import { Link } from 'react-router-dom';
 
-import HouseIcon1 from '../../pictures/WT/房貸流程icon/2提供資料.png'; 
-import HouseIcon2 from '../../pictures/WT/房貸流程icon/1意願確認.png'; 
-import HouseIcon3 from '../../pictures/WT/房貸流程icon/3確認貸款.png'; 
-import HouseIcon4 from '../../pictures/WT/房貸流程icon/4協商條件.png'; 
-import HouseIcon5 from '../../pictures/WT/房貸流程icon/設定質押.png'; 
-import HouseIcon6 from '../../pictures/WT/房貸流程icon/6撥款.png'; 
+import HouseIcon1 from '../../../pictures/WT/房貸流程icon/2提供資料.png'; 
+import HouseIcon2 from '../../../pictures/WT/房貸流程icon/1意願確認.png'; 
+import HouseIcon3 from '../../../pictures/WT/房貸流程icon/3確認貸款.png'; 
+import HouseIcon4 from '../../../pictures/WT/房貸流程icon/4協商條件.png'; 
+import HouseIcon5 from '../../../pictures/WT/房貸流程icon/設定質押.png'; 
+import HouseIcon6 from '../../../pictures/WT/房貸流程icon/6撥款.png'; 
 
-import arrow from '../../pictures/WT/房貸流程icon/arrow-right.png'; 
+import arrow from '../../../pictures/WT/房貸流程icon/arrow-right.png'; 
 
+// 引入DataFintech特有的图片
+import AnalyticsIcon from '../../../pictures/WT/首頁icon/二順位貸款/personal.png'; 
+import InsightsIcon from '../../../pictures/WT/首頁icon/二順位貸款/valuation.png'; 
 
 const FlexContainer = () => {
+  // 调整为DataFintech页面特有的服务项
   return (
-    <div className={"content-container"}>
-      <div className="flex-container top-row">
-        {/* 上方的四個小方格子，請根據需要填充內容 */}
-        <div className="flex-item small-box">與上市公司合作，透過完整流程來提供專業服務來協助中小企業進行資金服務
-                                             及其他用途。確保流程皆符合相關的合規性要求以提高與客戶間之信任。
+    <div className="content-container">
+      <div className="flex-container services-row">
+        <div className="service-item">
+          <img src={AnalyticsIcon} alt="数据分析" className="service-icon" />
+          <h3>協助資產評估</h3>
         </div>
-        <div className="flex-item small-box">
-          <p>可提供服務:</p>
-          <ul>
-            <li>中小企業資金服務</li>
-            <li>客制化服務</li>
-          </ul>
+        <div className="service-item">
+          <img src={InsightsIcon} alt="市场洞察" className="service-icon" />
+          <h3>協助貸款諮詢</h3>
         </div>
+
       </div>
-
-      {/* <div className="flex-container bottom-row"> */}
-        {/* 下方的兩個大方格子，請根據需要填充內容 */}
-        {/* <div className="flex-item large-box">
-          <h3>貸款金額</h3>
-          <p>最高可貸金額</p>
-          <div className="highlight">110%</div>
-        </div>
-        <div className="flex-item large-box">
-          <h3>優點</h3>
-          <p>1. 信用條件要求低: 擁有房產作擔保品，對其他證明要求較低。</p>
-          <p>2. 貸款額度較高: 相比其他貸款項目，不動產二順位能獲得較高貸款額度。</p>
-          <p>3. 還款年限較長: 擁有較長還款期限，讓申貸人財務壓力減少。</p> */}
-
-          {/* <div className="highlight">120月</div> */}
-        {/* </div> */}
-      {/* </div> */}
     </div>
   );
 };
 
-const ProcessStep = ({ image, title, descriptions }) => {
+const ProcessStep = ({ image, title}) => {
 
   return (
     <div className="process-step">
       <img src={image} alt={title} className="process-image" />
       <h3 className="process-step-title">{title}</h3>
-      <ul className="process-description-list">
-        {descriptions.map((description, index) => (
-          <li key={index} className="process-description-item">{description}</li>
-        ))}
-      </ul>
+
     </div>
   );
 };
@@ -115,8 +96,18 @@ const SecondMortgagePage = () => {
   return (
       <div className="second-mortgage-page">
         <div className="service-title">
-            <h2>{services[activeService].title}</h2>
-        </div>
+          <h2> 二順位貸款 </h2>
+          <p className="white-text">協助資金需求者取得投資或是創業的基金。可以透過房屋活化，將持有多年的房屋或是建物，透過其他方式擴大收益率。</p>
+      </div>
+      <div className="middleText">
+        <h1>ABOUT US...</h1>
+        <p>
+          協助屋主進行資產活化，屋主可以利用貸款進行資本配置。我們致力於協助資金需求者取得投資或是創業的基金。
+          可以透過房屋活化，將持有多年的房屋或是建物，透過其他方式擴大收益率。
+          特別是閒置或是停用的建築，透過規劃與管理，可以提升這些資產價值。
+
+        </p>
+      </div>
 
 
         <FlexContainer />
@@ -124,6 +115,11 @@ const SecondMortgagePage = () => {
 
         {/* 現有的流程圖容器 */}
         <div className="process-images-container">
+
+          <div className="process-title">
+            <h2>流程图</h2>
+          </div>
+
           {/* 第一行流程步骤与箭头 */}
           <div className="process-row">
             {services[activeService].processSteps.slice(0, 3).map((step, index, array) => (
@@ -133,10 +129,7 @@ const SecondMortgagePage = () => {
                   title={step.title} 
                   descriptions={step.descriptions} 
                 />
-                {/* <div className="process-step">
-                  <img src={image} alt={`步骤 ${index + 1}`} className="process-image" />
-                  <p className="process-description">{services[activeService].processDescriptions[index]}</p>
-                </div> */}
+
                 {index < array.length - 1 && ( // 只有在非最后一个元素后才添加箭头
                   <div className="arrow">
                     <img src= {arrow} alt="箭头" />
@@ -155,10 +148,7 @@ const SecondMortgagePage = () => {
                 title={step.title} 
                 descriptions={step.descriptions} 
               />
-                {/* <div className="process-step">
-                  <img src={image} alt={`步骤 ${index + 4}`} className="process-image" />
-                  <p className="process-description">{services[activeService].processDescriptions[index + 3]}</p>
-                </div> */}
+
                 {index < array.length - 1 && ( // 只有在非最后一个元素后才添加箭头
                   <div className="arrow">
                     <img src= {arrow} alt="箭头" />
@@ -168,18 +158,7 @@ const SecondMortgagePage = () => {
             ))}
           </div>
         </div>
-        
-        {/* <div className="service-selection">
-            {Object.keys(services).map((serviceKey) => (
-            <button
-                key={serviceKey}
-                onClick={() => setActiveService(serviceKey)}
-                className={`service-button ${activeService === serviceKey ? 'active' : ''}`}
-            >
-                {services[serviceKey].title}
-            </button>
-            ))}
-        </div> */}
+      
 
         {/* 回首頁與線上申貸按鈕 */}
         <div className="buttons-container">

@@ -1,0 +1,246 @@
+/* 全局样式变量 */
+:root {
+  --primary-text-color: #F9F9F9;
+  --secondary-text-color: #555555;
+  --white-text-color: #FFFFFF;
+  --title-color: #77F2A1;
+  --background-color: #1F2B37;
+  --button-border-color: #4F76F6;
+  --button-text-color: #4F76F6;
+  --button-hover-bg-color: #4F76F6;
+  --button-hover-text-color: #F9F9F9;
+  
+}
+
+/* 全局字体 */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--primary-text-color);
+}
+
+/* 标题 */
+h2, h3 {
+  color: var(--primary-text-color);
+}
+
+/* 段落文字 */
+p {
+  color: var(--secondary-text-color);
+}
+
+.white-text {
+  color: var(--white-text-color); /* 使用白色文字变量 */
+}
+
+/* 服务标题样式 */
+.service-title {
+  position: relative;
+  text-align: left;
+  background-color: var(--background-color);
+  background-position: right center;
+  padding: 120px 0;
+  padding-top: 100px;
+  padding-left: 10%;
+  overflow: hidden;
+  height: 450px;
+  margin: 0 0 0.5em 0;
+}
+
+/* h2 标题的样式 */
+.service-title h2 {
+  font-size: 3em;
+  font-weight: bold;
+  color: var(--title-color);
+}
+
+.service-title p {
+  
+  font-size: 1.5em;
+  margin-bottom: 2em;
+  max-width: 600px;
+  line-height: 1.4;
+}
+
+/* 服务项目样式 */
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 50px;
+  background-color: var(--primary-text-color);
+}
+
+.service-item {
+  background-color: var(--primary-text-color);
+  color: var(--background-color);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+  width: 300px;
+  margin: 10px;
+  transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.service-item img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.service-item:hover img {
+  transform: scale(1.05);
+}
+
+.service-icon {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.service-item h3 {
+  color: var(--secondary-text-color);
+  margin-bottom: 10px;
+}
+
+.service-item p {
+  color: var(--secondary-text-color);
+  font-size: 14px;
+}
+
+.service-item:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.7);
+  transform: translateY(-5px);
+}
+
+/* 中间文本样式 */
+.middleText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 50px 0;
+}
+
+.middleText h1, .middleText p {
+  color: var(--secondary-text-color);
+  margin: 0;
+}
+
+.middleText h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.middleText p {
+  font-size: 1em;
+  max-width: 600px;
+  margin-bottom: 1em;
+}
+
+/* 按钮样式 */
+.buttons-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.button-link button {
+  background: none;
+  border: 2px solid var(--button-border-color);
+  border-radius: 5px;
+  color: var(--button-text-color);
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+  box-shadow: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.button-link button:hover {
+  background-color: var(--button-hover-bg-color);
+  color: var(--button-hover-text-color);
+}
+
+
+/*二胎房貸流程圖的css*/
+
+/* 流程图标题样式 */
+.process-title h2 {
+  color: #000; /* 将标题颜色设置为黑色 */
+}
+
+/* 流程图容器样式 */
+.process-images-container {
+  border: 2px solid #ffffff; /* 添加边框 */
+  padding: 20px;
+  margin: 20px auto; /* 居中显示 */
+  width: fit-content; /* 宽度适应内容 */
+  text-align: center; /* 文字居中 */
+  border-radius: 10px; /* 圆角 */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4); /* 阴影 */
+}
+
+/* 单个流程行样式 */
+.process-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px; /* 根据需要调整间距 */
+}
+
+/* 单个流程步骤样式 */
+.process-step {
+  background-color: #FFFFFF; /* 若步骤背景为白色 */
+  border-radius: 5px; /* 步骤自身的圆角 */
+  margin: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2); /* 步骤自身的阴影 */
+  width: 250px; /* 步骤宽度，根据需要调整 */
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+/* 流程图中图像样式 */
+.process-image {
+  width: 100px; /* 增加图标尺寸，根据需要调整 */
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+/* 流程步骤标题样式 */
+.process-step-title {
+  color: #000; /* 文字颜色设置为黑色 */
+  font-size: 1.2rem; /* 根据需求调整大小 */
+  margin-bottom: 10px; /* 下方间距 */
+}
+
+/* 流程步骤描述列表样式 */
+.process-description-list {
+  list-style: none; /* 去掉列表符号 */
+  padding-left: 0; /* 移除默认的padding */
+  margin: 0;
+  text-align: left;
+}
+
+/* 流程步骤描述项样式 */
+.process-description-item {
+  font-size: 1rem;
+  color: var(--secondary-text-color);
+}
+
+/* 箭头图像容器样式 */
+.arrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 20px; /* 左右间距 */
+}
+
+/* 箭头图像样式 */
+.arrow img {
+  width: 60px; /* 箭头图标的宽度，根据需要调整 */
+  height: auto; /* 保持图标的长宽比 */
+}
+

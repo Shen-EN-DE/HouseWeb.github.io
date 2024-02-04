@@ -1,52 +1,32 @@
 import React, { useState } from 'react';
-import './BrandStory.css'; // 確保這個CSS包含所有需要的樣式
+import './BrandStory.css'; // 确保这个CSS包含所有需要的样式
 
-const contentData = {
-  我們的使命: "我們期望成為金融科技領域的領先者，為客戶提供更智慧、更便捷的金融科技 服務。",
-  核心價值: [
-    "提供文件 - 土地權狀、聯徵紀錄、其他有利審查之資料(薪資單等)",
-    "審查評估資料 - 審查資格與抵押品估價",
-    "申請書填寫 - 填寫貸款申請書",
-    "協商條件 - 確認貸款額度以及利率條件",
-    "設定質押 - 前往地政辦理質押",
-    "專戶撥款 - 撥款至戶頭"
-  ],
-  我們的願景: "期待在未來，本公司能夠持續以人工智慧技術為核心創造更多價值。",
-  品牌故事: "我們是致力於機器學習及資料科學在商業金融領域的青創團隊。透過深入研究行為模式和精密的資料剖析並構築分析模型"+
-  "，本團隊期望利用機器學習技術提供多元的金融科技服務。 我們期望成為金融科技領域的領先者，為客戶提供更"+
-  "智慧、更便捷的金融科技 服務。期待在未來，本公司能夠持續以人工智慧技術為核心創造更多價值。"
-};
+import MissionImage from '../../pictures/WT/首頁icon/品牌故事/我們的品牌故事.jpg';
+import ValuesImage from '../../pictures/WT/首頁icon/品牌故事/核心價值.jpg';
+import VisionImage from '../../pictures/WT/首頁icon/品牌故事/我們的願景.jpg';
+import StoryImage from '../../pictures/WT/首頁icon/品牌故事/品牌故事.jpg';
 
 const BrandStory = () => {
-  const [activeContent, setActiveContent] = useState('我們的使命'); // 預設載入時顯示的是'我們的使命'
+  const [activeContent, setActiveContent] = useState('我們的使命'); // 默认载入时显示的是'我们的使命'
 
-  // 這個函數更新激活的按鈕樣式
+  // 这个函数更新激活的按钮样式
   const setActiveButtonClass = (contentName) => {
-      return activeContent === contentName ? 'active-btn' : '';
-      };
+    return activeContent === contentName ? 'active-btn' : '';
+  };
 
+  // 渲染内容的函数
   const renderContent = () => {
-    if (activeContent === '核心價值') {
-      return (
-        <div className="company-description">
-          {contentData.核心價值.map((value, index) => (
-            <p key={index}>{value}</p>
-          ))}
-        </div>
-      );
-    }
-
     switch (activeContent) {
       case '我們的使命':
-        return <p className="company-description">{contentData.我們的使命}</p>;
+        return <img src={MissionImage} alt="我們的使命" className="content-image" />;
       case '核心價值':
-        return <p className="company-description">{contentData.核心價值}</p>;
+        return <img src={ValuesImage} alt="核心價值" className="content-image" />;
       case '我們的願景':
-        return <p className="company-description">{contentData.我們的願景}</p>;
+        return <img src={VisionImage} alt="我們的願景" className="content-image" />;
       case '品牌故事':
-        return <p className="company-description">{contentData.品牌故事}</p>;
+        return <img src={StoryImage} alt="品牌故事" className="content-image" />;
       default:
-        return <p className="company-description">內容選擇錯誤。</p>;
+        return <p>内容选择错误。</p>;
     }
   };
 
@@ -59,7 +39,6 @@ const BrandStory = () => {
         <button className={setActiveButtonClass('品牌故事')} onClick={() => setActiveContent('品牌故事')}>品牌故事</button>
       </div>
       <div className="content">
-        <h1 className="company-title">{activeContent === 'story' ? '品牌故事' : activeContent}</h1>
         {renderContent()}
       </div>
     </div>
