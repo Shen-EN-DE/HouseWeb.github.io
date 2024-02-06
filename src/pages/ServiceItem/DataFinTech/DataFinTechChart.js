@@ -34,8 +34,8 @@ const countryFieldNames = {
 
 function DataChart() {
     const [currentCountry, setCurrentCountry] = useState('丹麥');
-    const [startDate, setStartDate] = useState(new Date(new Date().setMonth(new Date().getMonth() - 80)));
-    const [endDate, setEndDate] = useState(new Date());
+    const [startDate, setStartDate] = useState(new Date(new Date().setMonth(new Date().getMonth() - 200)));
+    const [endDate, setEndDate] = useState(new Date(new Date().setMonth(new Date().getMonth() - 100)));
     const [chartData, setChartData] = useState({
       labels: [],
       datasets: [{
