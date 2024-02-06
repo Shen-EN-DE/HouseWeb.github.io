@@ -37,9 +37,11 @@ const LoanConsuit = () => {
 
   return (
       <div className="loan-page">
-        <div className="service-title">
+        <div className="service-title loan-consult-background">
+          <div className="text-mask"> {/* 添加这个新的容器 */}
             <h2> 碳管理工具 </h2>
             <p className="white-text">協助企業建立碳排計算量模型，企業可以透過模型掌握自身擁有排碳量。同時提供碳管理服務於每月底提供詳細分析報告，來改善企業碳排表現。</p>
+          </div>
         </div>
         <div className="middleText"> {/* 新增中間文字 */}
           <h1>ABOUT US...</h1>

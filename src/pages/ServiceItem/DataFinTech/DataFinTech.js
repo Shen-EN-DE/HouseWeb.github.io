@@ -6,6 +6,7 @@ import AnalyticsIcon from '../../../pictures/WT/首頁icon/大數據服務/geome
 import InsightsIcon from '../../../pictures/WT/首頁icon/大數據服務/machine-learning.png'; 
 import StrategyIcon from '../../../pictures/WT/首頁icon/大數據服務/operational.png'; 
 
+
 const FlexContainer = () => {
   // 调整为DataFintech页面特有的服务项
   return (
@@ -32,19 +33,21 @@ const DataFintech = () => {
   // 调整页面内容以反映DataFintech的特点
   return (
     <div className="fintech-page">
-      <div className="service-title">
+      <div className="service-title data-fintech-background">
+        <div className="text-mask"> {/* 添加这个新的容器 */}
           <h2> 大數據分析 </h2>
           <p className="white-text">利用人工智慧技術來為國外中小型企業提供服務。使用機器學習及大數據分析，來大幅縮短申貸所需時間
           。同時根據國外廠商所需商業決策或金融產品來
           建置模型，以滿足企業需求。</p>
+        </div>
       </div>
       <div className="middleText">
-        <h1>ABOUT US...</h1>
-        <p>
-          在科技化時代，大數據相關技術已被廣泛運用到各領域。利用演算法及數據相
-          關技術可以擁有更安全的風險管理以及節省時間及人力成本來提高效率。同
-          時，可針對客戶對金融產品的建置模型，進而提供更貼近客戶的實際狀況。
-        </p>
+          <h1>ABOUT US...</h1>
+          <p>
+            在科技化時代，大數據相關技術已被廣泛運用到各領域。利用演算法及數據相
+            關技術可以擁有更安全的風險管理以及節省時間及人力成本來提高效率。同
+            時，可針對客戶對金融產品的建置模型，進而提供更貼近客戶的實際狀況。
+          </p>
       </div>
 
       <FlexContainer />

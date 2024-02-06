@@ -3,7 +3,7 @@
   --primary-text-color: #F9F9F9;
   --secondary-text-color: #555555;
   --white-text-color: #FFFFFF;
-  --title-color: #77F2A1;
+  --title-color: #0f4b23;
   --background-color: #1F2B37;
   --button-border-color: #4F76F6;
   --button-text-color: #4F76F6;
@@ -28,16 +28,58 @@ p {
   color: var(--secondary-text-color);
 }
 
+/*
 .white-text {
-  color: var(--white-text-color); /* 使用白色文字变量 */
+  color: var(--white-text-color);
 }
+*/
+
+/* ESG背景圖片 */
+.esgtech-background {
+  background-image: url('../../pictures/WT/首頁icon/ESG綠色金融科技/ESG2.png');
+}
+
+/* 二胎頁面背景圖片 */
+.secondMortgagePage-background {
+  background-image: url('../../pictures/WT/首頁icon/二順位貸款//二順位貸款8.png');
+}
+
+/* 碳權背景圖片 */
+.loan-consult-background {
+  background-image: url('../../pictures/WT/首頁icon/碳權/CO.png');
+}
+
+/* 大數據頁面背景圖片 */
+.data-fintech-background {
+  background-image: url('../../pictures/WT/首頁icon/大數據服務/大數據服務14.png');
+  background-size: contain; /* 图片完整显示在容器内 */
+  background-position: top right; /* 图片位置调整到容器的右上角 */
+  
+}
+
+/* 通过调整rgba中的透明度(alpha)，可以控制遮罩的深浅 */
+.data-fintech-background::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.3); /* 白色遮罩，增加亮度 */
+  z-index: 0;
+}
+
+
 
 /* 服务标题样式 */
 .service-title {
   position: relative;
-  text-align: left;
-  background-color: var(--background-color);
-  background-position: right center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* 保留您之前的样式设置 */
+  position: relative;
+  text-align: right;
   padding: 120px 0;
   padding-top: 100px;
   padding-left: 10%;
@@ -46,11 +88,90 @@ p {
   margin: 0 0 0.5em 0;
 }
 
+.service-title:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 0, 0, 0.5) 30%, /* 开始的颜色，透明度为0.5 */
+    rgba(0, 0, 0, 0.3) 45%, /* 中间的过渡颜色，透明度降低 */
+    transparent 60% /* 结束的颜色，完全透明 */
+  );
+}
+
+
+.text-mask {
+  text-align: left;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px; /* 增加padding值以放大遮罩 */
+  border-radius: 5px;
+  margin-left: 50px; /* 或者任何其他希望的值 */
+}
+
+/* 添加pseudo-element的樣式來顯示圖片 (在css設計圖片在文字左右邊*/ 
+.middleText h1::before,
+.middleText h1::after {
+  content: '';
+  display: inline-block;
+  width: 4em; /* 調整成適當的大小 */
+  height: 4em; /* 調整成適當的大小 */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-timing-function: ease-out;
+  vertical-align: middle; /* 垂直居中對齊 */
+  opacity: 1; /* 圖片完全不透明 */
+}
+
+.middleText h1::before {
+  background-image: url('../../pictures/WT/首頁icon/About\ us的頁面左.png'); /* 替換成左側圖片的路徑 */
+  animation-name: floatInLeft;
+  margin-right: 0.5em; /* 在圖片和文字之間增加一些空間 */
+}
+
+.middleText h1::after {
+  background-image: url('../../pictures/WT/首頁icon/About\ us的頁面右.png'); /* 替換成右側圖片的路徑 */
+  animation-name: floatInRight;
+  margin-left: 0.5em; /* 在圖片和文字之間增加一些空間 */
+}
+
+.middleText {
+  text-align: center;
+  margin: 50px 0;
+}
+
+.middleText h1 {
+  font-size: 2em; /* 設定文本大小 */
+  line-height: 1em; /* 確保行高與圖片高度一致 */
+  display: inline-block; /* 使h1以內聯塊的方式顯示 */
+  position: relative; /* 為pseudo-elements定位 */
+}
+
+.middleText h1 span{
+  padding: 0 50px; /* 左右內邊距，根據圖片大小調整 */
+  background-size: 1em 1em; /* 背景圖片的大小 */
+}
+
+.about-us-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
 /* h2 标题的样式 */
 .service-title h2 {
   font-size: 3em;
   font-weight: bold;
   color: var(--title-color);
+  
 }
 
 .service-title p {
@@ -243,4 +364,36 @@ p {
   width: 60px; /* 箭头图标的宽度，根据需要调整 */
   height: auto; /* 保持图标的长宽比 */
 }
+
+
+/* 定義左邊圖片進入的動畫 */
+@keyframes floatInLeft {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* 定義右邊圖片進入的動畫 */
+@keyframes floatInRight {
+  0% {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-us-section {
+    flex-direction: column;
+  }
+}
+
 

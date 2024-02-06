@@ -95,9 +95,11 @@ const SecondMortgagePage = () => {
 
   return (
       <div className="second-mortgage-page">
-        <div className="service-title">
-          <h2> 二順位貸款 </h2>
-          <p className="white-text">協助資金需求者取得投資或是創業的基金。可以透過房屋活化，將持有多年的房屋或是建物，透過其他方式擴大收益率。</p>
+        <div className="service-title secondMortgagePage-background">
+          <div className="text-mask"> {/* 添加这个新的容器 */}
+            <h2> 二順位貸款 </h2>
+            <p className="white-text">協助資金需求者取得投資或是創業的基金。可以透過房屋活化，將持有多年的房屋或是建物，透過其他方式擴大收益率。</p>
+          </div>
       </div>
       <div className="middleText">
         <h1>ABOUT US...</h1>
@@ -117,7 +119,7 @@ const SecondMortgagePage = () => {
         <div className="process-images-container">
 
           <div className="process-title">
-            <h2>流程图</h2>
+            <h2>流程圖</h2>
           </div>
 
           {/* 第一行流程步骤与箭头 */}

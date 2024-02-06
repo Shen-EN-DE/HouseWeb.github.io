@@ -1,8 +1,8 @@
 import React from 'react';
 import './AboutOur.css';
-import serviceIcon1 from '../../pictures/WT/首頁icon/品牌故事/品牌故事1.jpg'; 
-import serviceIcon2 from '../../pictures/WT/首頁icon/品牌故事/品牌故事3.jpg'; 
-import serviceIcon3 from '../../pictures/WT/首頁icon/為何選擇白樹/WHY3.jpg'; 
+import serviceIcon1 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環境.png'; 
+import serviceIcon2 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環2.png'; 
+import serviceIcon3 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環境3.png'; 
 
 import { useNavigate } from 'react-router-dom';
 
@@ -21,7 +21,7 @@ function AboutOurItem({ icon, title, description, path }) {
     return (
       <div className="AboutOurItem">
         <div className="AboutOurInfo">
-          <h2>{title}</h2>
+        <h2><span className="first-letter">{title.substring(0,1)}</span>{title.substring(1)}</h2>
           {Array.isArray(description) ? (
             <ol>
               {description.map((item, index) => (
@@ -44,7 +44,7 @@ function AboutOurItem({ icon, title, description, path }) {
     const services = [
       {
         icon: serviceIcon1, // 路徑替換為你的圖標路徑
-        title: '公司環境&照片',
+        title: '公司環境',
         description: '這裡填入公司環境...',
         path: '/company', // 這裡指定導航的路徑
 

@@ -34,9 +34,11 @@ const DataFintech = () => {
   // 调整页面内容以反映DataFintech的特点
   return (
     <div className="ESGtech-page">
-      <div className="service-title">
+      <div className="service-title esgtech-background">
+        <div className="text-mask"> {/* 添加这个新的容器 */}
           <h2> 綠色金融資料庫 </h2>
           <p className="white-text">協助業界人士建立永續量化指標。可以藉由本資料庫完成學術界上的研究，亦可以協助永續投資蓬勃發展。資料庫致力於降低資訊落差，定期更新資訊，讓使用者掌握企業在永續方面的成果與付出。</p>
+        </div>
       </div>
       <div className="middleText">
         <h1>ABOUT US...</h1>

@@ -3,25 +3,43 @@
   font-family: 'Arial', sans-serif;
   background-color: #fffbf7; /* Updated background color */
   color: #fff8f8; /* Light text for contrast */
+  
 }
 
 .homeHeader {
   position: relative;
-  text-align: left; /* 將文字對齊至左側，類似於第二張圖片 */
-  padding-top: 100px; /* 添加上邊距以向下調整文字位置 */
-  padding-left: 10%; /* 添加左邊距以從左側調整文字位置 */
-  color: #F9F9F9; /* 調整文字顏色以符合您的設計 */
-  background-color: #1F2B37; /* 非圖片部分的背景色 */
-  height: 450px; /* 根據需要調整高度 */
-  overflow: hidden; /* 隱藏斜切後的溢出部分 */
+  text-align: left;
+  padding-top: 100px;
+  padding-left: 10%;
+  color: #F9F9F9;
+  background-color: #1F2B37; /* 如果有背景图片，这个背景色可能就不必要了 */
+  height: 450px;
+  overflow: hidden;
+  background-image: url('../../pictures/首頁.jpg'); /* 确保路径正确 */
+  background-size: 80%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.homeHeader:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+
 }
 
 
 .homeHeader h1 {
-  font-size: 3em; /* 更大的標題字體大小 */
-  font-weight: bold; /* 標題文字加粗 */
-  margin: 0 0 0.5em 0; /* 根據需要調整邊距 */
-  color: #77F2A1; /* 文字顏色，您可以根據您的配色方案進行更改 */
+  position: absolute; /* 绝对定位 */
+  font-size: 45pt;
+  font-weight: bold;
+  top: 50%; /* 调整为背景图片中White Tree Capital的具体位置 */
+  left: 50%; /* 调整为背景图片中White Tree Capital的具体位置 */
+  transform: translate(-50%, 70%); /* 通过偏移量确保精准定位 */
+  color: #1a4153; /* 文字顏色，您可以根據您的配色方案進行更改 */
 }
 
 .homeHeader p {

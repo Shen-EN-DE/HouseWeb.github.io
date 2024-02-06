@@ -15,7 +15,9 @@
 .AboutOurItem {
   display: flex;
   align-items: center;
-  gap: 40px; /* 圖標和文本之間的間距 */
+  gap: 90px; /* 圖標和文本之間的間距 */
+  margin-top: 80px;
+  
 }
 
 .process-description {
@@ -40,7 +42,9 @@
 }
 
 .AboutOurGraphic {
-  padding: 0 20px; /* 為圖片容器增加內邊距 */
+  padding: 0 20px; /* 为图片容器增加内边距 */
+  display: flex;
+  justify-content: center; /* 图标居中显示 */
 }
 
 .AboutOurInfo {
@@ -51,18 +55,31 @@
 }
 
 .AboutOurIcon {
-  max-width: 100%; /* 圖標寬度最大為其容器的100% */
-  height: auto;
+  width: 500px; /* 统一图标宽度，可以根据实际情况调整 */
+  height: auto; /* 保持图标的比例 */
+  margin-bottom: 20px; /* 图标下方间距 */
+}
+
+.first-letter {
+  font-size: 2em; /* 第一个字母放大 */
+  font-weight: bold; /* 如果需要，可以使其更加粗体 */
 }
 
 .AboutOurInfo h2 {
-  font-size: 2em; /* 標題大小 */
+  font-size: 3em; /* 標題大小 */
   color: #333; /* 標題顏色 */
   margin-bottom: 0.5em;
 }
 
+.AboutOurInfo ol {
+  list-style-type: disc; /* 设置为圆点 */
+  padding-left: 40px; /* 增加缩进以便清晰显示圆点 */
+}
+
 .AboutOurInfo p,
 .AboutOurInfo ol li {
+  font-size: 1.5em;
+  line-height: 2; /* 增加行距 */
   color: #666; /* 或您選擇的任何顏色 */
 }
 
@@ -80,13 +97,24 @@
   background-color: #c81e4e; /* 鼠標懸停時的顏色變化 */
 }
 
-/* 响应式设计 */
+/* 响应式设计调整 */
 @media screen and (max-width: 1024px) {
-  .AboutOurItem {
-    flex-direction: column; /* 小屏幕上改为垂直排列 */
+  .AboutOurList {
+    gap: 20px; /* 小屏幕上减少间距 */
   }
 
+  .AboutOurItem {
+    flex-direction: column; /* 小屏幕上改为垂直排列 */
+    gap: 20px; /* 为每个服务项目增加垂直间距 */
+  }
+
+  .AboutOurGraphic {
+    padding: 0; /* 小屏幕上移除图片容器的内边距 */
+  }
+  
   .AboutOurIcon {
-    order: 0; /* 小屏幕上恢复图标顺序 */
+    width: 100%; /* 小屏幕上图标宽度占满容器宽度 */
+    max-width: 200px; /* 设置图标的最大宽度，防止过大 */
+    margin-bottom: 10px; /* 图标下方间距 */
   }
 }
