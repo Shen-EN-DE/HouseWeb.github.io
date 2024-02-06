@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import { Line } from 'react-chartjs-2';
 import { MenuItem, FormControl, Select, Card, CardContent, Typography } from '@mui/material';
 
+
 import Chart from 'chart.js/auto';
 
 // 假設 data 是從您的 JSON 文件中讀取的數據
@@ -54,35 +55,37 @@ const EmissionsChart = () => {
   const uniqueYears = [...new Set(years)].sort();
 
   return (
-    <div style={{margin: '16px'}}>
-      <Card>
+    <div style={{ margin: '16px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+      <Card style={{ margin: '50px', flexGrow: 1, overflow: 'hidden' }}> {/* Adjust these styles as needed */}
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
             溫室氣體排放趨勢
           </Typography>
-          <FormControl style={{ minWidth: '120px', margin: '0 8px' }}>
-            <Select
-              value={startYear}
-              onChange={e => setStartYear(e.target.value)}
-              displayEmpty
-            >
-              {uniqueYears.map(year => (
-                <MenuItem key={year} value={year}>{year}</MenuItem>
-              ))}
-            </Select>
-          </FormControl>
-          <FormControl style={{ minWidth: '120px', margin: '0 8px' }}>
-            <Select
-              value={endYear}
-              onChange={e => setEndYear(e.target.value)}
-              displayEmpty
-            >
-              {uniqueYears.map(year => (
-                <MenuItem key={year} value={year}>{year}</MenuItem>
-              ))}
-            </Select>
-          </FormControl>
-          <Line data={chartData} />
+          <div style={{ display: 'flex', justifyContent: 'center', margin: '16px 0' }}>
+            <FormControl style={{ minWidth: '120px', margin: '0 8px' }}>
+              <Select
+                value={startYear}
+                onChange={e => setStartYear(e.target.value)}
+                displayEmpty
+              >
+                {uniqueYears.map(year => (
+                  <MenuItem key={year} value={year}>{year}</MenuItem>
+                ))}
+              </Select>
+            </FormControl>
+            <FormControl style={{ minWidth: '120px', margin: '0 8px' }}>
+              <Select
+                value={endYear}
+                onChange={e => setEndYear(e.target.value)}
+                displayEmpty
+              >
+                {uniqueYears.map(year => (
+                  <MenuItem key={year} value={year}>{year}</MenuItem>
+                ))}
+              </Select>
+            </FormControl>
+          </div>
+          <Line data={chartData} options={options} />
         </CardContent>
       </Card>
     </div>

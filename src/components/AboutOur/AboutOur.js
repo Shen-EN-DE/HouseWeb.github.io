@@ -2,7 +2,7 @@ import React from 'react';
 import './AboutOur.css';
 import serviceIcon1 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環境.png'; 
 import serviceIcon2 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環2.png'; 
-import serviceIcon3 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環境3.png'; 
+import serviceIcon3 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環境.png'; 
 
 import { useNavigate } from 'react-router-dom';
 

@@ -1,0 +1,606 @@
+[
+ {
+  "observation_date": "1980-07-01",
+  "AUSCPIHOUQINMEI": 23.0728229621652
+ },
+ {
+  "observation_date": "1980-10-01",
+  "AUSCPIHOUQINMEI": 23.3773613917928
+ },
+ {
+  "observation_date": "1981-01-01",
+  "AUSCPIHOUQINMEI": 23.8598049143121
+ },
+ {
+  "observation_date": "1981-04-01",
+  "AUSCPIHOUQINMEI": 24.3038805115842
+ },
+ {
+  "observation_date": "1981-07-01",
+  "AUSCPIHOUQINMEI": 24.9384214651781
+ },
+ {
+  "observation_date": "1981-10-01",
+  "AUSCPIHOUQINMEI": 25.4965701357562
+ },
+ {
+  "observation_date": "1982-01-01",
+  "AUSCPIHOUQINMEI": 26.1694790145971
+ },
+ {
+  "observation_date": "1982-04-01",
+  "AUSCPIHOUQINMEI": 27.1341942758964
+ },
+ {
+  "observation_date": "1982-07-01",
+  "AUSCPIHOUQINMEI": 28.225714657671
+ },
+ {
+  "observation_date": "1982-10-01",
+  "AUSCPIHOUQINMEI": 28.7585710176497
+ },
+ {
+  "observation_date": "1983-01-01",
+  "AUSCPIHOUQINMEI": 29.3172350394455
+ },
+ {
+  "observation_date": "1983-04-01",
+  "AUSCPIHOUQINMEI": 29.8375311359942
+ },
+ {
+  "observation_date": "1983-07-01",
+  "AUSCPIHOUQINMEI": 30.2561426389278
+ },
+ {
+  "observation_date": "1983-10-01",
+  "AUSCPIHOUQINMEI": 30.7638784720464
+ },
+ {
+  "observation_date": "1984-01-01",
+  "AUSCPIHOUQINMEI": 31.3480065881807
+ },
+ {
+  "observation_date": "1984-04-01",
+  "AUSCPIHOUQINMEI": 32.0205718995432
+ },
+ {
+  "observation_date": "1984-07-01",
+  "AUSCPIHOUQINMEI": 32.5406962123527
+ },
+ {
+  "observation_date": "1984-10-01",
+  "AUSCPIHOUQINMEI": 32.9335000534693
+ },
+ {
+  "observation_date": "1985-01-01",
+  "AUSCPIHOUQINMEI": 33.4026961776016
+ },
+ {
+  "observation_date": "1985-04-01",
+  "AUSCPIHOUQINMEI": 34.0625294417949
+ },
+ {
+  "observation_date": "1985-07-01",
+  "AUSCPIHOUQINMEI": 35.0392896153066
+ },
+ {
+  "observation_date": "1985-10-01",
+  "AUSCPIHOUQINMEI": 35.8899318032999
+ },
+ {
+  "observation_date": "1986-01-01",
+  "AUSCPIHOUQINMEI": 36.740402207554
+ },
+ {
+  "observation_date": "1986-04-01",
+  "AUSCPIHOUQINMEI": 37.4374009108199
+ },
+ {
+  "observation_date": "1986-07-01",
+  "AUSCPIHOUQINMEI": 38.1980598499322
+ },
+ {
+  "observation_date": "1986-10-01",
+  "AUSCPIHOUQINMEI": 38.9337700459235
+ },
+ {
+  "observation_date": "1987-01-01",
+  "AUSCPIHOUQINMEI": 39.7075045996834
+ },
+ {
+  "observation_date": "1987-04-01",
+  "AUSCPIHOUQINMEI": 40.5319955583813
+ },
+ {
+  "observation_date": "1987-07-01",
+  "AUSCPIHOUQINMEI": 41.6861454735671
+ },
+ {
+  "observation_date": "1987-10-01",
+  "AUSCPIHOUQINMEI": 42.4850005541872
+ },
+ {
+  "observation_date": "1988-01-01",
+  "AUSCPIHOUQINMEI": 43.5631017538356
+ },
+ {
+  "observation_date": "1988-04-01",
+  "AUSCPIHOUQINMEI": 44.5525939745166
+ },
+ {
+  "observation_date": "1988-07-01",
+  "AUSCPIHOUQINMEI": 45.8720887191639
+ },
+ {
+  "observation_date": "1988-10-01",
+  "AUSCPIHOUQINMEI": 46.9507052700299
+ },
+ {
+  "observation_date": "1989-01-01",
+  "AUSCPIHOUQINMEI": 47.7490449994324
+ },
+ {
+  "observation_date": "1989-04-01",
+  "AUSCPIHOUQINMEI": 48.7899807600082
+ },
+ {
+  "observation_date": "1989-07-01",
+  "AUSCPIHOUQINMEI": 49.6523242927356
+ },
+ {
+  "observation_date": "1989-10-01",
+  "AUSCPIHOUQINMEI": 50.5151831766806
+ },
+ {
+  "observation_date": "1990-01-01",
+  "AUSCPIHOUQINMEI": 51.0735036309979
+ },
+ {
+  "observation_date": "1990-04-01",
+  "AUSCPIHOUQINMEI": 51.8226330091154
+ },
+ {
+  "observation_date": "1990-07-01",
+  "AUSCPIHOUQINMEI": 52.5586867725851
+ },
+ {
+  "observation_date": "1990-10-01",
+  "AUSCPIHOUQINMEI": 53.1039316122547
+ },
+ {
+  "observation_date": "1991-01-01",
+  "AUSCPIHOUQINMEI": 53.5103264192367
+ },
+ {
+  "observation_date": "1991-04-01",
+  "AUSCPIHOUQINMEI": 53.9673058474173
+ },
+ {
+  "observation_date": "1991-07-01",
+  "AUSCPIHOUQINMEI": 54.3995083162163
+ },
+ {
+  "observation_date": "1991-10-01",
+  "AUSCPIHOUQINMEI": 54.5392172676
+ },
+ {
+  "observation_date": "1992-01-01",
+  "AUSCPIHOUQINMEI": 54.5643377944602
+ },
+ {
+  "observation_date": "1992-04-01",
+  "AUSCPIHOUQINMEI": 54.7296826239217
+ },
+ {
+  "observation_date": "1992-07-01",
+  "AUSCPIHOUQINMEI": 54.8821236224747
+ },
+ {
+  "observation_date": "1992-10-01",
+  "AUSCPIHOUQINMEI": 54.9456120745819
+ },
+ {
+  "observation_date": "1993-01-01",
+  "AUSCPIHOUQINMEI": 54.8819518387355
+ },
+ {
+  "observation_date": "1993-04-01",
+  "AUSCPIHOUQINMEI": 55.1107851203042
+ },
+ {
+  "observation_date": "1993-07-01",
+  "AUSCPIHOUQINMEI": 55.3015940441043
+ },
+ {
+  "observation_date": "1993-10-01",
+  "AUSCPIHOUQINMEI": 55.5173517110254
+ },
+ {
+  "observation_date": "1994-01-01",
+  "AUSCPIHOUQINMEI": 55.4917158329476
+ },
+ {
+  "observation_date": "1994-04-01",
+  "AUSCPIHOUQINMEI": 55.7714773031935
+ },
+ {
+  "observation_date": "1994-07-01",
+  "AUSCPIHOUQINMEI": 55.8729901130694
+ },
+ {
+  "observation_date": "1994-10-01",
+  "AUSCPIHOUQINMEI": 55.9363067814374
+ },
+ {
+  "observation_date": "1995-01-01",
+  "AUSCPIHOUQINMEI": 56.0121837132355
+ },
+ {
+  "observation_date": "1995-04-01",
+  "AUSCPIHOUQINMEI": 56.379867027492
+ },
+ {
+  "observation_date": "1995-07-01",
+  "AUSCPIHOUQINMEI": 56.6715016262111
+ },
+ {
+  "observation_date": "1995-10-01",
+  "AUSCPIHOUQINMEI": 57.1413848853003
+ },
+ {
+  "observation_date": "1996-01-01",
+  "AUSCPIHOUQINMEI": 57.4072118222024
+ },
+ {
+  "observation_date": "1996-04-01",
+  "AUSCPIHOUQINMEI": 57.8385553723053
+ },
+ {
+  "observation_date": "1996-07-01",
+  "AUSCPIHOUQINMEI": 58.3717552997625
+ },
+ {
+  "observation_date": "1996-10-01",
+  "AUSCPIHOUQINMEI": 58.6504860675732
+ },
+ {
+  "observation_date": "1997-01-01",
+  "AUSCPIHOUQINMEI": 58.9040963085236
+ },
+ {
+  "observation_date": "1997-04-01",
+  "AUSCPIHOUQINMEI": 59.4114885741638
+ },
+ {
+  "observation_date": "1997-07-01",
+  "AUSCPIHOUQINMEI": 59.8175398136674
+ },
+ {
+  "observation_date": "1997-10-01",
+  "AUSCPIHOUQINMEI": 60.2488833637702
+ },
+ {
+  "observation_date": "1998-01-01",
+  "AUSCPIHOUQINMEI": 60.476857726643
+ },
+ {
+  "observation_date": "1998-04-01",
+  "AUSCPIHOUQINMEI": 61.073202538729
+ },
+ {
+  "observation_date": "1998-07-01",
+  "AUSCPIHOUQINMEI": 61.5171445712572
+ },
+ {
+  "observation_date": "1998-10-01",
+  "AUSCPIHOUQINMEI": 61.920240181605
+ },
+ {
+  "observation_date": "1999-01-01",
+  "AUSCPIHOUQINMEI": 62.5700368171563
+ },
+ {
+  "observation_date": "1999-04-01",
+  "AUSCPIHOUQINMEI": 62.9642239976492
+ },
+ {
+  "observation_date": "1999-07-01",
+  "AUSCPIHOUQINMEI": 63.7656098960874
+ },
+ {
+  "observation_date": "1999-10-01",
+  "AUSCPIHOUQINMEI": 64.9719823520371
+ },
+ {
+  "observation_date": "2000-01-01",
+  "AUSCPIHOUQINMEI": 65.7870820025876
+ },
+ {
+  "observation_date": "2000-04-01",
+  "AUSCPIHOUQINMEI": 66.1949829351927
+ },
+ {
+  "observation_date": "2000-07-01",
+  "AUSCPIHOUQINMEI": 69.8629542268371
+ },
+ {
+  "observation_date": "2000-10-01",
+  "AUSCPIHOUQINMEI": 70.1356255687184
+ },
+ {
+  "observation_date": "2001-01-01",
+  "AUSCPIHOUQINMEI": 70.5260308548838
+ },
+ {
+  "observation_date": "2001-04-01",
+  "AUSCPIHOUQINMEI": 70.7124724851898
+ },
+ {
+  "observation_date": "2001-07-01",
+  "AUSCPIHOUQINMEI": 71.3053842396677
+ },
+ {
+  "observation_date": "2001-10-01",
+  "AUSCPIHOUQINMEI": 71.9254286642137
+ },
+ {
+  "observation_date": "2002-01-01",
+  "AUSCPIHOUQINMEI": 72.3590050793402
+ },
+ {
+  "observation_date": "2002-04-01",
+  "AUSCPIHOUQINMEI": 72.9823976385968
+ },
+ {
+  "observation_date": "2002-07-01",
+  "AUSCPIHOUQINMEI": 73.5378111056049
+ },
+ {
+  "observation_date": "2002-10-01",
+  "AUSCPIHOUQINMEI": 73.9498151458075
+ },
+ {
+  "observation_date": "2003-01-01",
+  "AUSCPIHOUQINMEI": 74.6349242875086
+ },
+ {
+  "observation_date": "2003-04-01",
+  "AUSCPIHOUQINMEI": 75.6410024355795
+ },
+ {
+  "observation_date": "2003-07-01",
+  "AUSCPIHOUQINMEI": 76.5709216553203
+ },
+ {
+  "observation_date": "2003-10-01",
+  "AUSCPIHOUQINMEI": 77.2091903200796
+ },
+ {
+  "observation_date": "2004-01-01",
+  "AUSCPIHOUQINMEI": 77.8073411564318
+ },
+ {
+  "observation_date": "2004-04-01",
+  "AUSCPIHOUQINMEI": 78.6495734770504
+ },
+ {
+  "observation_date": "2004-07-01",
+  "AUSCPIHOUQINMEI": 79.3851660645602
+ },
+ {
+  "observation_date": "2004-10-01",
+  "AUSCPIHOUQINMEI": 80.1988085275639
+ },
+ {
+  "observation_date": "2005-01-01",
+  "AUSCPIHOUQINMEI": 80.9117789331064
+ },
+ {
+  "observation_date": "2005-04-01",
+  "AUSCPIHOUQINMEI": 81.584197750625
+ },
+ {
+  "observation_date": "2005-07-01",
+  "AUSCPIHOUQINMEI": 82.346923008203
+ },
+ {
+  "observation_date": "2005-10-01",
+  "AUSCPIHOUQINMEI": 82.9703155674596
+ },
+ {
+  "observation_date": "2006-01-01",
+  "AUSCPIHOUQINMEI": 83.4027296291958
+ },
+ {
+  "observation_date": "2006-04-01",
+  "AUSCPIHOUQINMEI": 84.2308144380851
+ },
+ {
+  "observation_date": "2006-07-01",
+  "AUSCPIHOUQINMEI": 84.7040749220018
+ },
+ {
+  "observation_date": "2006-10-01",
+  "AUSCPIHOUQINMEI": 85.2282526113441
+ },
+ {
+  "observation_date": "2007-01-01",
+  "AUSCPIHOUQINMEI": 86.1221043520484
+ },
+ {
+  "observation_date": "2007-04-01",
+  "AUSCPIHOUQINMEI": 87.0779675093534
+ },
+ {
+  "observation_date": "2007-07-01",
+  "AUSCPIHOUQINMEI": 88.1378508588302
+ },
+ {
+  "observation_date": "2007-10-01",
+  "AUSCPIHOUQINMEI": 89.3771847350353
+ },
+ {
+  "observation_date": "2008-01-01",
+  "AUSCPIHOUQINMEI": 90.8394351010864
+ },
+ {
+  "observation_date": "2008-04-01",
+  "AUSCPIHOUQINMEI": 92.152281985571
+ },
+ {
+  "observation_date": "2008-07-01",
+  "AUSCPIHOUQINMEI": 93.5520871754043
+ },
+ {
+  "observation_date": "2008-10-01",
+  "AUSCPIHOUQINMEI": 94.4320862385358
+ },
+ {
+  "observation_date": "2009-01-01",
+  "AUSCPIHOUQINMEI": 94.9316118732867
+ },
+ {
+  "observation_date": "2009-04-01",
+  "AUSCPIHOUQINMEI": 96.0011322463918
+ },
+ {
+  "observation_date": "2009-07-01",
+  "AUSCPIHOUQINMEI": 97.0168210389775
+ },
+ {
+  "observation_date": "2009-10-01",
+  "AUSCPIHOUQINMEI": 97.8393455527225
+ },
+ {
+  "observation_date": "2010-01-01",
+  "AUSCPIHOUQINMEI": 98.897043120879
+ },
+ {
+  "observation_date": "2010-04-01",
+  "AUSCPIHOUQINMEI": 99.6054766592072
+ },
+ {
+  "observation_date": "2010-07-01",
+  "AUSCPIHOUQINMEI": 100.338423326666
+ },
+ {
+  "observation_date": "2010-10-01",
+  "AUSCPIHOUQINMEI": 101.159056893248
+ },
+ {
+  "observation_date": "2011-01-01",
+  "AUSCPIHOUQINMEI": 102.102663485987
+ },
+ {
+  "observation_date": "2011-04-01",
+  "AUSCPIHOUQINMEI": 102.83633874722
+ },
+ {
+  "observation_date": "2011-07-01",
+  "AUSCPIHOUQINMEI": 103.315133147167
+ },
+ {
+  "observation_date": "2011-10-01",
+  "AUSCPIHOUQINMEI": 104.135478245633
+ },
+ {
+  "observation_date": "2012-01-01",
+  "AUSCPIHOUQINMEI": 104.143581765336
+ },
+ {
+  "observation_date": "2012-04-01",
+  "AUSCPIHOUQINMEI": 105.15894313111
+ },
+ {
+  "observation_date": "2012-07-01",
+  "AUSCPIHOUQINMEI": 105.455714856564
+ },
+ {
+  "observation_date": "2012-10-01",
+  "AUSCPIHOUQINMEI": 106.392428212146
+ },
+ {
+  "observation_date": "2013-01-01",
+  "AUSCPIHOUQINMEI": 107.430523646419
+ },
+ {
+  "observation_date": "2013-04-01",
+  "AUSCPIHOUQINMEI": 108.646627921461
+ },
+ {
+  "observation_date": "2013-07-01",
+  "AUSCPIHOUQINMEI": 109.051997608958
+ },
+ {
+  "observation_date": "2013-10-01",
+  "AUSCPIHOUQINMEI": 109.364120363938
+ },
+ {
+  "observation_date": "2014-01-01",
+  "AUSCPIHOUQINMEI": 110.702452063592
+ },
+ {
+  "observation_date": "2014-04-01",
+  "AUSCPIHOUQINMEI": 111.617691365117
+ },
+ {
+  "observation_date": "2014-07-01",
+  "AUSCPIHOUQINMEI": 112.421959060479
+ },
+ {
+  "observation_date": "2014-10-01",
+  "AUSCPIHOUQINMEI": 113.50904612061
+ },
+ {
+  "observation_date": "2015-01-01",
+  "AUSCPIHOUQINMEI": 114.066229539396
+ },
+ {
+  "observation_date": "2015-04-01",
+  "AUSCPIHOUQINMEI": 114.458943332381
+ },
+ {
+  "observation_date": "2015-07-01",
+  "AUSCPIHOUQINMEI": 115.003951338229
+ },
+ {
+  "observation_date": "2015-10-01",
+  "AUSCPIHOUQINMEI": 115.95396239646
+ },
+ {
+  "observation_date": "2016-01-01",
+  "AUSCPIHOUQINMEI": 117.546755171511
+ },
+ {
+  "observation_date": "2016-04-01",
+  "AUSCPIHOUQINMEI": 118.070465763698
+ },
+ {
+  "observation_date": "2016-07-01",
+  "AUSCPIHOUQINMEI": 118.025594553322
+ },
+ {
+  "observation_date": "2016-10-01",
+  "AUSCPIHOUQINMEI": 118.112761876448
+ },
+ {
+  "observation_date": "2017-01-01",
+  "AUSCPIHOUQINMEI": 118.73129712367
+ },
+ {
+  "observation_date": "2017-04-01",
+  "AUSCPIHOUQINMEI": 119.250379981442
+ },
+ {
+  "observation_date": "2017-07-01",
+  "AUSCPIHOUQINMEI": 120.505314171625
+ },
+ {
+  "observation_date": "2017-10-01",
+  "AUSCPIHOUQINMEI": 121.317275134844
+ },
+ {
+  "observation_date": "2018-01-01",
+  "AUSCPIHOUQINMEI": 121.937034004466
+ }
+]

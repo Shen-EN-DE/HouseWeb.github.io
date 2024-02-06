@@ -6,6 +6,8 @@ import AnalyticsIcon from '../../../pictures/WT/首頁icon/大數據服務/geome
 import InsightsIcon from '../../../pictures/WT/首頁icon/大數據服務/machine-learning.png'; 
 import StrategyIcon from '../../../pictures/WT/首頁icon/大數據服務/operational.png'; 
 
+import DataChart from './DataFinTechChart';
+
 
 const FlexContainer = () => {
   // 调整为DataFintech页面特有的服务项
@@ -51,6 +53,8 @@ const DataFintech = () => {
       </div>
 
       <FlexContainer />
+      <DataChart />
+
 
       {/* 保持或调整页面底部的链接和按钮 */}
       <div className="buttons-container">

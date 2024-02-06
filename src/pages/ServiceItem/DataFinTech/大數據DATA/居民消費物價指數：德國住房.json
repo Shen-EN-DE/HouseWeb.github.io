@@ -1,0 +1,2806 @@
+[
+ {
+  "observation_date": "1960-01-01",
+  "DEUCPIHOUMINMEI": 13.7111525493235
+ },
+ {
+  "observation_date": "1960-02-01",
+  "DEUCPIHOUMINMEI": 13.7111525493235
+ },
+ {
+  "observation_date": "1960-03-01",
+  "DEUCPIHOUMINMEI": 13.7111525493235
+ },
+ {
+  "observation_date": "1960-04-01",
+  "DEUCPIHOUMINMEI": 13.7911476050371
+ },
+ {
+  "observation_date": "1960-05-01",
+  "DEUCPIHOUMINMEI": 13.7911476050371
+ },
+ {
+  "observation_date": "1960-06-01",
+  "DEUCPIHOUMINMEI": 13.7911476050371
+ },
+ {
+  "observation_date": "1960-07-01",
+  "DEUCPIHOUMINMEI": 13.919139694179
+ },
+ {
+  "observation_date": "1960-08-01",
+  "DEUCPIHOUMINMEI": 15.0390704741704
+ },
+ {
+  "observation_date": "1960-09-01",
+  "DEUCPIHOUMINMEI": 15.1990605855978
+ },
+ {
+  "observation_date": "1960-10-01",
+  "DEUCPIHOUMINMEI": 15.3590506970251
+ },
+ {
+  "observation_date": "1960-11-01",
+  "DEUCPIHOUMINMEI": 15.3590506970251
+ },
+ {
+  "observation_date": "1960-12-01",
+  "DEUCPIHOUMINMEI": 15.3590506970251
+ },
+ {
+  "observation_date": "1961-01-01",
+  "DEUCPIHOUMINMEI": 15.4710437750243
+ },
+ {
+  "observation_date": "1961-02-01",
+  "DEUCPIHOUMINMEI": 15.4710437750243
+ },
+ {
+  "observation_date": "1961-03-01",
+  "DEUCPIHOUMINMEI": 15.4710437750243
+ },
+ {
+  "observation_date": "1961-04-01",
+  "DEUCPIHOUMINMEI": 15.6150348753089
+ },
+ {
+  "observation_date": "1961-05-01",
+  "DEUCPIHOUMINMEI": 15.6150348753089
+ },
+ {
+  "observation_date": "1961-06-01",
+  "DEUCPIHOUMINMEI": 15.6150348753089
+ },
+ {
+  "observation_date": "1961-07-01",
+  "DEUCPIHOUMINMEI": 15.7110289421653
+ },
+ {
+  "observation_date": "1961-08-01",
+  "DEUCPIHOUMINMEI": 15.7110289421653
+ },
+ {
+  "observation_date": "1961-09-01",
+  "DEUCPIHOUMINMEI": 15.7110289421653
+ },
+ {
+  "observation_date": "1961-10-01",
+  "DEUCPIHOUMINMEI": 15.7430269644508
+ },
+ {
+  "observation_date": "1961-11-01",
+  "DEUCPIHOUMINMEI": 15.7430269644508
+ },
+ {
+  "observation_date": "1961-12-01",
+  "DEUCPIHOUMINMEI": 15.7430269644508
+ },
+ {
+  "observation_date": "1962-01-01",
+  "DEUCPIHOUMINMEI": 15.8264804530242
+ },
+ {
+  "observation_date": "1962-02-01",
+  "DEUCPIHOUMINMEI": 15.8264804530242
+ },
+ {
+  "observation_date": "1962-03-01",
+  "DEUCPIHOUMINMEI": 15.8264804530242
+ },
+ {
+  "observation_date": "1962-04-01",
+  "DEUCPIHOUMINMEI": 15.9468339165453
+ },
+ {
+  "observation_date": "1962-05-01",
+  "DEUCPIHOUMINMEI": 15.9468339165453
+ },
+ {
+  "observation_date": "1962-06-01",
+  "DEUCPIHOUMINMEI": 15.9468339165453
+ },
+ {
+  "observation_date": "1962-07-01",
+  "DEUCPIHOUMINMEI": 16.0671873800664
+ },
+ {
+  "observation_date": "1962-08-01",
+  "DEUCPIHOUMINMEI": 16.0671873800664
+ },
+ {
+  "observation_date": "1962-09-01",
+  "DEUCPIHOUMINMEI": 16.0671873800664
+ },
+ {
+  "observation_date": "1962-10-01",
+  "DEUCPIHOUMINMEI": 16.1875408435875
+ },
+ {
+  "observation_date": "1962-11-01",
+  "DEUCPIHOUMINMEI": 16.1875408435875
+ },
+ {
+  "observation_date": "1962-12-01",
+  "DEUCPIHOUMINMEI": 16.1875408435875
+ },
+ {
+  "observation_date": "1963-01-01",
+  "DEUCPIHOUMINMEI": 16.5486012341508
+ },
+ {
+  "observation_date": "1963-02-01",
+  "DEUCPIHOUMINMEI": 16.6087779659114
+ },
+ {
+  "observation_date": "1963-03-01",
+  "DEUCPIHOUMINMEI": 16.6689546976719
+ },
+ {
+  "observation_date": "1963-04-01",
+  "DEUCPIHOUMINMEI": 16.8494848929536
+ },
+ {
+  "observation_date": "1963-05-01",
+  "DEUCPIHOUMINMEI": 16.8494848929536
+ },
+ {
+  "observation_date": "1963-06-01",
+  "DEUCPIHOUMINMEI": 16.8494848929536
+ },
+ {
+  "observation_date": "1963-07-01",
+  "DEUCPIHOUMINMEI": 16.9698383564747
+ },
+ {
+  "observation_date": "1963-08-01",
+  "DEUCPIHOUMINMEI": 16.9698383564747
+ },
+ {
+  "observation_date": "1963-09-01",
+  "DEUCPIHOUMINMEI": 16.9698383564747
+ },
+ {
+  "observation_date": "1963-10-01",
+  "DEUCPIHOUMINMEI": 17.0300150882352
+ },
+ {
+  "observation_date": "1963-11-01",
+  "DEUCPIHOUMINMEI": 17.0901918199958
+ },
+ {
+  "observation_date": "1963-12-01",
+  "DEUCPIHOUMINMEI": 17.2105452835168
+ },
+ {
+  "observation_date": "1964-01-01",
+  "DEUCPIHOUMINMEI": 17.451252210559
+ },
+ {
+  "observation_date": "1964-02-01",
+  "DEUCPIHOUMINMEI": 17.5114289423196
+ },
+ {
+  "observation_date": "1964-03-01",
+  "DEUCPIHOUMINMEI": 17.5114289423196
+ },
+ {
+  "observation_date": "1964-04-01",
+  "DEUCPIHOUMINMEI": 17.7521358693618
+ },
+ {
+  "observation_date": "1964-05-01",
+  "DEUCPIHOUMINMEI": 17.7521358693618
+ },
+ {
+  "observation_date": "1964-06-01",
+  "DEUCPIHOUMINMEI": 17.7521358693618
+ },
+ {
+  "observation_date": "1964-07-01",
+  "DEUCPIHOUMINMEI": 17.8724893328829
+ },
+ {
+  "observation_date": "1964-08-01",
+  "DEUCPIHOUMINMEI": 17.9326660646434
+ },
+ {
+  "observation_date": "1964-09-01",
+  "DEUCPIHOUMINMEI": 17.9326660646434
+ },
+ {
+  "observation_date": "1964-10-01",
+  "DEUCPIHOUMINMEI": 18.1733729916856
+ },
+ {
+  "observation_date": "1964-11-01",
+  "DEUCPIHOUMINMEI": 18.2937264552067
+ },
+ {
+  "observation_date": "1964-12-01",
+  "DEUCPIHOUMINMEI": 18.2937264552067
+ },
+ {
+  "observation_date": "1965-01-01",
+  "DEUCPIHOUMINMEI": 18.5344333822489
+ },
+ {
+  "observation_date": "1965-02-01",
+  "DEUCPIHOUMINMEI": 18.5344333822489
+ },
+ {
+  "observation_date": "1965-03-01",
+  "DEUCPIHOUMINMEI": 18.5344333822489
+ },
+ {
+  "observation_date": "1965-04-01",
+  "DEUCPIHOUMINMEI": 18.65478684577
+ },
+ {
+  "observation_date": "1965-05-01",
+  "DEUCPIHOUMINMEI": 18.65478684577
+ },
+ {
+  "observation_date": "1965-06-01",
+  "DEUCPIHOUMINMEI": 18.65478684577
+ },
+ {
+  "observation_date": "1965-07-01",
+  "DEUCPIHOUMINMEI": 18.8954937728122
+ },
+ {
+  "observation_date": "1965-08-01",
+  "DEUCPIHOUMINMEI": 18.9556705045727
+ },
+ {
+  "observation_date": "1965-09-01",
+  "DEUCPIHOUMINMEI": 18.9556705045727
+ },
+ {
+  "observation_date": "1965-10-01",
+  "DEUCPIHOUMINMEI": 19.1963774316149
+ },
+ {
+  "observation_date": "1965-11-01",
+  "DEUCPIHOUMINMEI": 19.1963774316149
+ },
+ {
+  "observation_date": "1965-12-01",
+  "DEUCPIHOUMINMEI": 19.2565541633755
+ },
+ {
+  "observation_date": "1966-01-01",
+  "DEUCPIHOUMINMEI": 19.7379680174599
+ },
+ {
+  "observation_date": "1966-02-01",
+  "DEUCPIHOUMINMEI": 19.9184982127415
+ },
+ {
+  "observation_date": "1966-03-01",
+  "DEUCPIHOUMINMEI": 19.9184982127415
+ },
+ {
+  "observation_date": "1966-04-01",
+  "DEUCPIHOUMINMEI": 20.1592051397837
+ },
+ {
+  "observation_date": "1966-05-01",
+  "DEUCPIHOUMINMEI": 20.2193818715443
+ },
+ {
+  "observation_date": "1966-06-01",
+  "DEUCPIHOUMINMEI": 20.2193818715443
+ },
+ {
+  "observation_date": "1966-07-01",
+  "DEUCPIHOUMINMEI": 20.3999120668259
+ },
+ {
+  "observation_date": "1966-08-01",
+  "DEUCPIHOUMINMEI": 20.4600887985865
+ },
+ {
+  "observation_date": "1966-09-01",
+  "DEUCPIHOUMINMEI": 20.520265530347
+ },
+ {
+  "observation_date": "1966-10-01",
+  "DEUCPIHOUMINMEI": 20.7007957256287
+ },
+ {
+  "observation_date": "1966-11-01",
+  "DEUCPIHOUMINMEI": 20.7609724573892
+ },
+ {
+  "observation_date": "1966-12-01",
+  "DEUCPIHOUMINMEI": 20.8211491891497
+ },
+ {
+  "observation_date": "1967-01-01",
+  "DEUCPIHOUMINMEI": 21.0618561161919
+ },
+ {
+  "observation_date": "1967-02-01",
+  "DEUCPIHOUMINMEI": 21.1220328479525
+ },
+ {
+  "observation_date": "1967-03-01",
+  "DEUCPIHOUMINMEI": 21.182209579713
+ },
+ {
+  "observation_date": "1967-04-01",
+  "DEUCPIHOUMINMEI": 21.4229165067552
+ },
+ {
+  "observation_date": "1967-05-01",
+  "DEUCPIHOUMINMEI": 21.4830932385158
+ },
+ {
+  "observation_date": "1967-06-01",
+  "DEUCPIHOUMINMEI": 21.723800165558
+ },
+ {
+  "observation_date": "1967-07-01",
+  "DEUCPIHOUMINMEI": 21.8441536290791
+ },
+ {
+  "observation_date": "1967-08-01",
+  "DEUCPIHOUMINMEI": 21.9645070926002
+ },
+ {
+  "observation_date": "1967-09-01",
+  "DEUCPIHOUMINMEI": 22.0848605561213
+ },
+ {
+  "observation_date": "1967-10-01",
+  "DEUCPIHOUMINMEI": 22.0848605561213
+ },
+ {
+  "observation_date": "1967-11-01",
+  "DEUCPIHOUMINMEI": 22.2052140196424
+ },
+ {
+  "observation_date": "1967-12-01",
+  "DEUCPIHOUMINMEI": 22.2653907514029
+ },
+ {
+  "observation_date": "1968-01-01",
+  "DEUCPIHOUMINMEI": 22.5662744102057
+ },
+ {
+  "observation_date": "1968-02-01",
+  "DEUCPIHOUMINMEI": 22.8069813372478
+ },
+ {
+  "observation_date": "1968-03-01",
+  "DEUCPIHOUMINMEI": 22.9273348007689
+ },
+ {
+  "observation_date": "1968-04-01",
+  "DEUCPIHOUMINMEI": 23.04768826429
+ },
+ {
+  "observation_date": "1968-05-01",
+  "DEUCPIHOUMINMEI": 23.2282184595717
+ },
+ {
+  "observation_date": "1968-06-01",
+  "DEUCPIHOUMINMEI": 23.2282184595717
+ },
+ {
+  "observation_date": "1968-07-01",
+  "DEUCPIHOUMINMEI": 23.4087486548533
+ },
+ {
+  "observation_date": "1968-08-01",
+  "DEUCPIHOUMINMEI": 23.4689253866139
+ },
+ {
+  "observation_date": "1968-09-01",
+  "DEUCPIHOUMINMEI": 23.5291021183744
+ },
+ {
+  "observation_date": "1968-10-01",
+  "DEUCPIHOUMINMEI": 23.6494555818955
+ },
+ {
+  "observation_date": "1968-11-01",
+  "DEUCPIHOUMINMEI": 23.7096323136561
+ },
+ {
+  "observation_date": "1968-12-01",
+  "DEUCPIHOUMINMEI": 23.8901625089377
+ },
+ {
+  "observation_date": "1969-01-01",
+  "DEUCPIHOUMINMEI": 24.1910461677405
+ },
+ {
+  "observation_date": "1969-02-01",
+  "DEUCPIHOUMINMEI": 24.3715763630221
+ },
+ {
+  "observation_date": "1969-03-01",
+  "DEUCPIHOUMINMEI": 24.5521065583038
+ },
+ {
+  "observation_date": "1969-04-01",
+  "DEUCPIHOUMINMEI": 24.6724600218248
+ },
+ {
+  "observation_date": "1969-05-01",
+  "DEUCPIHOUMINMEI": 24.7326367535854
+ },
+ {
+  "observation_date": "1969-06-01",
+  "DEUCPIHOUMINMEI": 24.7928134853459
+ },
+ {
+  "observation_date": "1969-07-01",
+  "DEUCPIHOUMINMEI": 24.8529902171065
+ },
+ {
+  "observation_date": "1969-08-01",
+  "DEUCPIHOUMINMEI": 24.913166948867
+ },
+ {
+  "observation_date": "1969-09-01",
+  "DEUCPIHOUMINMEI": 24.9733436806276
+ },
+ {
+  "observation_date": "1969-10-01",
+  "DEUCPIHOUMINMEI": 25.0335204123881
+ },
+ {
+  "observation_date": "1969-11-01",
+  "DEUCPIHOUMINMEI": 25.0936971441487
+ },
+ {
+  "observation_date": "1969-12-01",
+  "DEUCPIHOUMINMEI": 25.1538738759092
+ },
+ {
+  "observation_date": "1970-01-01",
+  "DEUCPIHOUMINMEI": 25.2742273394303
+ },
+ {
+  "observation_date": "1970-02-01",
+  "DEUCPIHOUMINMEI": 25.3945808029514
+ },
+ {
+  "observation_date": "1970-03-01",
+  "DEUCPIHOUMINMEI": 25.5751109982331
+ },
+ {
+  "observation_date": "1970-04-01",
+  "DEUCPIHOUMINMEI": 25.6352877299936
+ },
+ {
+  "observation_date": "1970-05-01",
+  "DEUCPIHOUMINMEI": 25.7556411935147
+ },
+ {
+  "observation_date": "1970-06-01",
+  "DEUCPIHOUMINMEI": 25.8158179252753
+ },
+ {
+  "observation_date": "1970-07-01",
+  "DEUCPIHOUMINMEI": 25.9361713887964
+ },
+ {
+  "observation_date": "1970-08-01",
+  "DEUCPIHOUMINMEI": 25.9963481205569
+ },
+ {
+  "observation_date": "1970-09-01",
+  "DEUCPIHOUMINMEI": 26.116701584078
+ },
+ {
+  "observation_date": "1970-10-01",
+  "DEUCPIHOUMINMEI": 26.2370550475991
+ },
+ {
+  "observation_date": "1970-11-01",
+  "DEUCPIHOUMINMEI": 26.3574085111202
+ },
+ {
+  "observation_date": "1970-12-01",
+  "DEUCPIHOUMINMEI": 26.4777619746413
+ },
+ {
+  "observation_date": "1971-01-01",
+  "DEUCPIHOUMINMEI": 26.5981154381624
+ },
+ {
+  "observation_date": "1971-02-01",
+  "DEUCPIHOUMINMEI": 26.778645633444
+ },
+ {
+  "observation_date": "1971-03-01",
+  "DEUCPIHOUMINMEI": 26.9591758287257
+ },
+ {
+  "observation_date": "1971-04-01",
+  "DEUCPIHOUMINMEI": 27.1998827557679
+ },
+ {
+  "observation_date": "1971-05-01",
+  "DEUCPIHOUMINMEI": 27.320236219289
+ },
+ {
+  "observation_date": "1971-06-01",
+  "DEUCPIHOUMINMEI": 27.3804129510495
+ },
+ {
+  "observation_date": "1971-07-01",
+  "DEUCPIHOUMINMEI": 27.5609431463312
+ },
+ {
+  "observation_date": "1971-08-01",
+  "DEUCPIHOUMINMEI": 27.6211198780917
+ },
+ {
+  "observation_date": "1971-09-01",
+  "DEUCPIHOUMINMEI": 27.7414733416128
+ },
+ {
+  "observation_date": "1971-10-01",
+  "DEUCPIHOUMINMEI": 27.982180268655
+ },
+ {
+  "observation_date": "1971-11-01",
+  "DEUCPIHOUMINMEI": 28.0423570004156
+ },
+ {
+  "observation_date": "1971-12-01",
+  "DEUCPIHOUMINMEI": 28.1627104639367
+ },
+ {
+  "observation_date": "1972-01-01",
+  "DEUCPIHOUMINMEI": 28.3432406592183
+ },
+ {
+  "observation_date": "1972-02-01",
+  "DEUCPIHOUMINMEI": 28.4635941227394
+ },
+ {
+  "observation_date": "1972-03-01",
+  "DEUCPIHOUMINMEI": 28.644124318021
+ },
+ {
+  "observation_date": "1972-04-01",
+  "DEUCPIHOUMINMEI": 28.7644777815421
+ },
+ {
+  "observation_date": "1972-05-01",
+  "DEUCPIHOUMINMEI": 28.8246545133027
+ },
+ {
+  "observation_date": "1972-06-01",
+  "DEUCPIHOUMINMEI": 28.9450079768238
+ },
+ {
+  "observation_date": "1972-07-01",
+  "DEUCPIHOUMINMEI": 29.0653614403449
+ },
+ {
+  "observation_date": "1972-08-01",
+  "DEUCPIHOUMINMEI": 29.2458916356265
+ },
+ {
+  "observation_date": "1972-09-01",
+  "DEUCPIHOUMINMEI": 29.4264218309082
+ },
+ {
+  "observation_date": "1972-10-01",
+  "DEUCPIHOUMINMEI": 29.6069520261898
+ },
+ {
+  "observation_date": "1972-11-01",
+  "DEUCPIHOUMINMEI": 29.7273054897109
+ },
+ {
+  "observation_date": "1972-12-01",
+  "DEUCPIHOUMINMEI": 29.7273054897109
+ },
+ {
+  "observation_date": "1973-01-01",
+  "DEUCPIHOUMINMEI": 30.0883658802742
+ },
+ {
+  "observation_date": "1973-02-01",
+  "DEUCPIHOUMINMEI": 30.1485426120348
+ },
+ {
+  "observation_date": "1973-03-01",
+  "DEUCPIHOUMINMEI": 30.389249539077
+ },
+ {
+  "observation_date": "1973-04-01",
+  "DEUCPIHOUMINMEI": 30.4494262708375
+ },
+ {
+  "observation_date": "1973-05-01",
+  "DEUCPIHOUMINMEI": 30.6299564661191
+ },
+ {
+  "observation_date": "1973-06-01",
+  "DEUCPIHOUMINMEI": 30.7503099296402
+ },
+ {
+  "observation_date": "1973-07-01",
+  "DEUCPIHOUMINMEI": 30.8104866614008
+ },
+ {
+  "observation_date": "1973-08-01",
+  "DEUCPIHOUMINMEI": 30.9308401249219
+ },
+ {
+  "observation_date": "1973-09-01",
+  "DEUCPIHOUMINMEI": 31.051193588443
+ },
+ {
+  "observation_date": "1973-10-01",
+  "DEUCPIHOUMINMEI": 31.1113703202035
+ },
+ {
+  "observation_date": "1973-11-01",
+  "DEUCPIHOUMINMEI": 31.2317237837246
+ },
+ {
+  "observation_date": "1973-12-01",
+  "DEUCPIHOUMINMEI": 31.3520772472457
+ },
+ {
+  "observation_date": "1974-01-01",
+  "DEUCPIHOUMINMEI": 31.6529609060485
+ },
+ {
+  "observation_date": "1974-02-01",
+  "DEUCPIHOUMINMEI": 31.7733143695696
+ },
+ {
+  "observation_date": "1974-03-01",
+  "DEUCPIHOUMINMEI": 31.8936678330907
+ },
+ {
+  "observation_date": "1974-04-01",
+  "DEUCPIHOUMINMEI": 32.0140212966118
+ },
+ {
+  "observation_date": "1974-05-01",
+  "DEUCPIHOUMINMEI": 32.1343747601329
+ },
+ {
+  "observation_date": "1974-06-01",
+  "DEUCPIHOUMINMEI": 32.1945514918934
+ },
+ {
+  "observation_date": "1974-07-01",
+  "DEUCPIHOUMINMEI": 32.3149049554145
+ },
+ {
+  "observation_date": "1974-08-01",
+  "DEUCPIHOUMINMEI": 32.4352584189356
+ },
+ {
+  "observation_date": "1974-09-01",
+  "DEUCPIHOUMINMEI": 32.5556118824567
+ },
+ {
+  "observation_date": "1974-10-01",
+  "DEUCPIHOUMINMEI": 32.5556118824567
+ },
+ {
+  "observation_date": "1974-11-01",
+  "DEUCPIHOUMINMEI": 32.6157886142172
+ },
+ {
+  "observation_date": "1974-12-01",
+  "DEUCPIHOUMINMEI": 32.7361420777383
+ },
+ {
+  "observation_date": "1975-01-01",
+  "DEUCPIHOUMINMEI": 33.0370257365411
+ },
+ {
+  "observation_date": "1975-02-01",
+  "DEUCPIHOUMINMEI": 33.2175559318227
+ },
+ {
+  "observation_date": "1975-03-01",
+  "DEUCPIHOUMINMEI": 33.578616322386
+ },
+ {
+  "observation_date": "1975-04-01",
+  "DEUCPIHOUMINMEI": 33.9396767129493
+ },
+ {
+  "observation_date": "1975-05-01",
+  "DEUCPIHOUMINMEI": 34.240560371752
+ },
+ {
+  "observation_date": "1975-06-01",
+  "DEUCPIHOUMINMEI": 34.4210905670337
+ },
+ {
+  "observation_date": "1975-07-01",
+  "DEUCPIHOUMINMEI": 34.4812672987942
+ },
+ {
+  "observation_date": "1975-08-01",
+  "DEUCPIHOUMINMEI": 34.6016207623153
+ },
+ {
+  "observation_date": "1975-09-01",
+  "DEUCPIHOUMINMEI": 34.782150957597
+ },
+ {
+  "observation_date": "1975-10-01",
+  "DEUCPIHOUMINMEI": 34.8423276893575
+ },
+ {
+  "observation_date": "1975-11-01",
+  "DEUCPIHOUMINMEI": 34.9626811528786
+ },
+ {
+  "observation_date": "1975-12-01",
+  "DEUCPIHOUMINMEI": 35.0228578846392
+ },
+ {
+  "observation_date": "1976-01-01",
+  "DEUCPIHOUMINMEI": 35.2033880799208
+ },
+ {
+  "observation_date": "1976-02-01",
+  "DEUCPIHOUMINMEI": 35.3237415434419
+ },
+ {
+  "observation_date": "1976-03-01",
+  "DEUCPIHOUMINMEI": 35.6246252022447
+ },
+ {
+  "observation_date": "1976-04-01",
+  "DEUCPIHOUMINMEI": 35.7449786657658
+ },
+ {
+  "observation_date": "1976-05-01",
+  "DEUCPIHOUMINMEI": 35.9255088610474
+ },
+ {
+  "observation_date": "1976-06-01",
+  "DEUCPIHOUMINMEI": 35.985685592808
+ },
+ {
+  "observation_date": "1976-07-01",
+  "DEUCPIHOUMINMEI": 36.0458623245685
+ },
+ {
+  "observation_date": "1976-08-01",
+  "DEUCPIHOUMINMEI": 36.106039056329
+ },
+ {
+  "observation_date": "1976-09-01",
+  "DEUCPIHOUMINMEI": 36.2263925198501
+ },
+ {
+  "observation_date": "1976-10-01",
+  "DEUCPIHOUMINMEI": 36.2865692516107
+ },
+ {
+  "observation_date": "1976-11-01",
+  "DEUCPIHOUMINMEI": 36.4069227151318
+ },
+ {
+  "observation_date": "1976-12-01",
+  "DEUCPIHOUMINMEI": 36.4069227151318
+ },
+ {
+  "observation_date": "1977-01-01",
+  "DEUCPIHOUMINMEI": 36.647629642174
+ },
+ {
+  "observation_date": "1977-02-01",
+  "DEUCPIHOUMINMEI": 36.7078063739345
+ },
+ {
+  "observation_date": "1977-03-01",
+  "DEUCPIHOUMINMEI": 36.8281598374556
+ },
+ {
+  "observation_date": "1977-04-01",
+  "DEUCPIHOUMINMEI": 36.9485133009767
+ },
+ {
+  "observation_date": "1977-05-01",
+  "DEUCPIHOUMINMEI": 37.0688667644978
+ },
+ {
+  "observation_date": "1977-06-01",
+  "DEUCPIHOUMINMEI": 37.0688667644978
+ },
+ {
+  "observation_date": "1977-07-01",
+  "DEUCPIHOUMINMEI": 37.1892202280189
+ },
+ {
+  "observation_date": "1977-08-01",
+  "DEUCPIHOUMINMEI": 37.30957369154
+ },
+ {
+  "observation_date": "1977-09-01",
+  "DEUCPIHOUMINMEI": 37.3697504233006
+ },
+ {
+  "observation_date": "1977-10-01",
+  "DEUCPIHOUMINMEI": 37.4901038868217
+ },
+ {
+  "observation_date": "1977-11-01",
+  "DEUCPIHOUMINMEI": 37.5502806185822
+ },
+ {
+  "observation_date": "1977-12-01",
+  "DEUCPIHOUMINMEI": 37.6706340821033
+ },
+ {
+  "observation_date": "1978-01-01",
+  "DEUCPIHOUMINMEI": 37.7308108138639
+ },
+ {
+  "observation_date": "1978-02-01",
+  "DEUCPIHOUMINMEI": 37.9113410091455
+ },
+ {
+  "observation_date": "1978-03-01",
+  "DEUCPIHOUMINMEI": 38.0316944726666
+ },
+ {
+  "observation_date": "1978-04-01",
+  "DEUCPIHOUMINMEI": 38.0918712044271
+ },
+ {
+  "observation_date": "1978-05-01",
+  "DEUCPIHOUMINMEI": 38.1520479361877
+ },
+ {
+  "observation_date": "1978-06-01",
+  "DEUCPIHOUMINMEI": 38.2724013997088
+ },
+ {
+  "observation_date": "1978-07-01",
+  "DEUCPIHOUMINMEI": 38.3325781314693
+ },
+ {
+  "observation_date": "1978-08-01",
+  "DEUCPIHOUMINMEI": 38.3927548632299
+ },
+ {
+  "observation_date": "1978-09-01",
+  "DEUCPIHOUMINMEI": 38.4529315949904
+ },
+ {
+  "observation_date": "1978-10-01",
+  "DEUCPIHOUMINMEI": 38.513108326751
+ },
+ {
+  "observation_date": "1978-11-01",
+  "DEUCPIHOUMINMEI": 38.5732850585115
+ },
+ {
+  "observation_date": "1978-12-01",
+  "DEUCPIHOUMINMEI": 38.6936385220326
+ },
+ {
+  "observation_date": "1979-01-01",
+  "DEUCPIHOUMINMEI": 38.8139919855537
+ },
+ {
+  "observation_date": "1979-02-01",
+  "DEUCPIHOUMINMEI": 38.8741687173143
+ },
+ {
+  "observation_date": "1979-03-01",
+  "DEUCPIHOUMINMEI": 38.9945221808354
+ },
+ {
+  "observation_date": "1979-04-01",
+  "DEUCPIHOUMINMEI": 39.1148756443565
+ },
+ {
+  "observation_date": "1979-05-01",
+  "DEUCPIHOUMINMEI": 39.175052376117
+ },
+ {
+  "observation_date": "1979-06-01",
+  "DEUCPIHOUMINMEI": 39.2954058396381
+ },
+ {
+  "observation_date": "1979-07-01",
+  "DEUCPIHOUMINMEI": 39.4759360349198
+ },
+ {
+  "observation_date": "1979-08-01",
+  "DEUCPIHOUMINMEI": 39.6564662302014
+ },
+ {
+  "observation_date": "1979-09-01",
+  "DEUCPIHOUMINMEI": 39.8369964254831
+ },
+ {
+  "observation_date": "1979-10-01",
+  "DEUCPIHOUMINMEI": 40.0777033525252
+ },
+ {
+  "observation_date": "1979-11-01",
+  "DEUCPIHOUMINMEI": 40.1980568160463
+ },
+ {
+  "observation_date": "1979-12-01",
+  "DEUCPIHOUMINMEI": 40.378587011328
+ },
+ {
+  "observation_date": "1980-01-01",
+  "DEUCPIHOUMINMEI": 40.5591172066096
+ },
+ {
+  "observation_date": "1980-02-01",
+  "DEUCPIHOUMINMEI": 40.7998241336518
+ },
+ {
+  "observation_date": "1980-03-01",
+  "DEUCPIHOUMINMEI": 40.9803543289335
+ },
+ {
+  "observation_date": "1980-04-01",
+  "DEUCPIHOUMINMEI": 41.2210612559757
+ },
+ {
+  "observation_date": "1980-05-01",
+  "DEUCPIHOUMINMEI": 41.3414147194968
+ },
+ {
+  "observation_date": "1980-06-01",
+  "DEUCPIHOUMINMEI": 41.4015914512573
+ },
+ {
+  "observation_date": "1980-07-01",
+  "DEUCPIHOUMINMEI": 41.582121646539
+ },
+ {
+  "observation_date": "1980-08-01",
+  "DEUCPIHOUMINMEI": 41.70247511006
+ },
+ {
+  "observation_date": "1980-09-01",
+  "DEUCPIHOUMINMEI": 41.8228285735811
+ },
+ {
+  "observation_date": "1980-10-01",
+  "DEUCPIHOUMINMEI": 41.9431820371022
+ },
+ {
+  "observation_date": "1980-11-01",
+  "DEUCPIHOUMINMEI": 42.0033587688628
+ },
+ {
+  "observation_date": "1980-12-01",
+  "DEUCPIHOUMINMEI": 42.1838889641444
+ },
+ {
+  "observation_date": "1981-01-01",
+  "DEUCPIHOUMINMEI": 42.244065695905
+ },
+ {
+  "observation_date": "1981-02-01",
+  "DEUCPIHOUMINMEI": 42.4245958911866
+ },
+ {
+  "observation_date": "1981-03-01",
+  "DEUCPIHOUMINMEI": 42.6653028182288
+ },
+ {
+  "observation_date": "1981-04-01",
+  "DEUCPIHOUMINMEI": 42.906009745271
+ },
+ {
+  "observation_date": "1981-05-01",
+  "DEUCPIHOUMINMEI": 43.0865399405527
+ },
+ {
+  "observation_date": "1981-06-01",
+  "DEUCPIHOUMINMEI": 43.2670701358343
+ },
+ {
+  "observation_date": "1981-07-01",
+  "DEUCPIHOUMINMEI": 43.3874235993554
+ },
+ {
+  "observation_date": "1981-08-01",
+  "DEUCPIHOUMINMEI": 43.5679537946371
+ },
+ {
+  "observation_date": "1981-09-01",
+  "DEUCPIHOUMINMEI": 43.7484839899187
+ },
+ {
+  "observation_date": "1981-10-01",
+  "DEUCPIHOUMINMEI": 43.9891909169609
+ },
+ {
+  "observation_date": "1981-11-01",
+  "DEUCPIHOUMINMEI": 44.109544380482
+ },
+ {
+  "observation_date": "1981-12-01",
+  "DEUCPIHOUMINMEI": 44.2298978440031
+ },
+ {
+  "observation_date": "1982-01-01",
+  "DEUCPIHOUMINMEI": 44.4706047710453
+ },
+ {
+  "observation_date": "1982-02-01",
+  "DEUCPIHOUMINMEI": 44.6511349663269
+ },
+ {
+  "observation_date": "1982-03-01",
+  "DEUCPIHOUMINMEI": 44.8316651616086
+ },
+ {
+  "observation_date": "1982-04-01",
+  "DEUCPIHOUMINMEI": 45.0121953568902
+ },
+ {
+  "observation_date": "1982-05-01",
+  "DEUCPIHOUMINMEI": 45.1927255521719
+ },
+ {
+  "observation_date": "1982-06-01",
+  "DEUCPIHOUMINMEI": 45.3732557474535
+ },
+ {
+  "observation_date": "1982-07-01",
+  "DEUCPIHOUMINMEI": 45.6139626744957
+ },
+ {
+  "observation_date": "1982-08-01",
+  "DEUCPIHOUMINMEI": 45.7343161380168
+ },
+ {
+  "observation_date": "1982-09-01",
+  "DEUCPIHOUMINMEI": 45.9148463332984
+ },
+ {
+  "observation_date": "1982-10-01",
+  "DEUCPIHOUMINMEI": 46.0953765285801
+ },
+ {
+  "observation_date": "1982-11-01",
+  "DEUCPIHOUMINMEI": 46.3962601873828
+ },
+ {
+  "observation_date": "1982-12-01",
+  "DEUCPIHOUMINMEI": 46.5767903826645
+ },
+ {
+  "observation_date": "1983-01-01",
+  "DEUCPIHOUMINMEI": 46.9378507732278
+ },
+ {
+  "observation_date": "1983-02-01",
+  "DEUCPIHOUMINMEI": 47.17855770027
+ },
+ {
+  "observation_date": "1983-03-01",
+  "DEUCPIHOUMINMEI": 47.4794413590727
+ },
+ {
+  "observation_date": "1983-04-01",
+  "DEUCPIHOUMINMEI": 47.6599715543543
+ },
+ {
+  "observation_date": "1983-05-01",
+  "DEUCPIHOUMINMEI": 47.840501749636
+ },
+ {
+  "observation_date": "1983-06-01",
+  "DEUCPIHOUMINMEI": 47.840501749636
+ },
+ {
+  "observation_date": "1983-07-01",
+  "DEUCPIHOUMINMEI": 48.0812086766782
+ },
+ {
+  "observation_date": "1983-08-01",
+  "DEUCPIHOUMINMEI": 48.2015621401993
+ },
+ {
+  "observation_date": "1983-09-01",
+  "DEUCPIHOUMINMEI": 48.3219156037204
+ },
+ {
+  "observation_date": "1983-10-01",
+  "DEUCPIHOUMINMEI": 48.502445799002
+ },
+ {
+  "observation_date": "1983-11-01",
+  "DEUCPIHOUMINMEI": 48.5626225307626
+ },
+ {
+  "observation_date": "1983-12-01",
+  "DEUCPIHOUMINMEI": 48.6829759942837
+ },
+ {
+  "observation_date": "1984-01-01",
+  "DEUCPIHOUMINMEI": 48.9236829213259
+ },
+ {
+  "observation_date": "1984-02-01",
+  "DEUCPIHOUMINMEI": 49.044036384847
+ },
+ {
+  "observation_date": "1984-03-01",
+  "DEUCPIHOUMINMEI": 49.2245665801286
+ },
+ {
+  "observation_date": "1984-04-01",
+  "DEUCPIHOUMINMEI": 49.4050967754102
+ },
+ {
+  "observation_date": "1984-05-01",
+  "DEUCPIHOUMINMEI": 49.5254502389313
+ },
+ {
+  "observation_date": "1984-06-01",
+  "DEUCPIHOUMINMEI": 49.6458037024524
+ },
+ {
+  "observation_date": "1984-07-01",
+  "DEUCPIHOUMINMEI": 49.705980434213
+ },
+ {
+  "observation_date": "1984-08-01",
+  "DEUCPIHOUMINMEI": 49.9466873612552
+ },
+ {
+  "observation_date": "1984-09-01",
+  "DEUCPIHOUMINMEI": 50.1272175565368
+ },
+ {
+  "observation_date": "1984-10-01",
+  "DEUCPIHOUMINMEI": 50.367924483579
+ },
+ {
+  "observation_date": "1984-11-01",
+  "DEUCPIHOUMINMEI": 50.5484546788607
+ },
+ {
+  "observation_date": "1984-12-01",
+  "DEUCPIHOUMINMEI": 50.6086314106212
+ },
+ {
+  "observation_date": "1985-01-01",
+  "DEUCPIHOUMINMEI": 50.7891616059029
+ },
+ {
+  "observation_date": "1985-02-01",
+  "DEUCPIHOUMINMEI": 50.909515069424
+ },
+ {
+  "observation_date": "1985-03-01",
+  "DEUCPIHOUMINMEI": 51.029868532945
+ },
+ {
+  "observation_date": "1985-04-01",
+  "DEUCPIHOUMINMEI": 51.1502219964662
+ },
+ {
+  "observation_date": "1985-05-01",
+  "DEUCPIHOUMINMEI": 51.2103987282267
+ },
+ {
+  "observation_date": "1985-06-01",
+  "DEUCPIHOUMINMEI": 51.2705754599873
+ },
+ {
+  "observation_date": "1985-07-01",
+  "DEUCPIHOUMINMEI": 51.3307521917478
+ },
+ {
+  "observation_date": "1985-08-01",
+  "DEUCPIHOUMINMEI": 51.4511056552689
+ },
+ {
+  "observation_date": "1985-09-01",
+  "DEUCPIHOUMINMEI": 51.5112823870294
+ },
+ {
+  "observation_date": "1985-10-01",
+  "DEUCPIHOUMINMEI": 51.6316358505505
+ },
+ {
+  "observation_date": "1985-11-01",
+  "DEUCPIHOUMINMEI": 51.6316358505505
+ },
+ {
+  "observation_date": "1985-12-01",
+  "DEUCPIHOUMINMEI": 51.6918125823111
+ },
+ {
+  "observation_date": "1986-01-01",
+  "DEUCPIHOUMINMEI": 51.7519893140716
+ },
+ {
+  "observation_date": "1986-02-01",
+  "DEUCPIHOUMINMEI": 51.8723427775927
+ },
+ {
+  "observation_date": "1986-03-01",
+  "DEUCPIHOUMINMEI": 51.9926962411138
+ },
+ {
+  "observation_date": "1986-04-01",
+  "DEUCPIHOUMINMEI": 51.9926962411138
+ },
+ {
+  "observation_date": "1986-05-01",
+  "DEUCPIHOUMINMEI": 52.1130497046349
+ },
+ {
+  "observation_date": "1986-06-01",
+  "DEUCPIHOUMINMEI": 52.1732264363955
+ },
+ {
+  "observation_date": "1986-07-01",
+  "DEUCPIHOUMINMEI": 52.2935798999166
+ },
+ {
+  "observation_date": "1986-08-01",
+  "DEUCPIHOUMINMEI": 52.3537566316771
+ },
+ {
+  "observation_date": "1986-09-01",
+  "DEUCPIHOUMINMEI": 52.4139333634377
+ },
+ {
+  "observation_date": "1986-10-01",
+  "DEUCPIHOUMINMEI": 52.4741100951982
+ },
+ {
+  "observation_date": "1986-11-01",
+  "DEUCPIHOUMINMEI": 52.4741100951982
+ },
+ {
+  "observation_date": "1986-12-01",
+  "DEUCPIHOUMINMEI": 52.5342868269588
+ },
+ {
+  "observation_date": "1987-01-01",
+  "DEUCPIHOUMINMEI": 52.5944635587193
+ },
+ {
+  "observation_date": "1987-02-01",
+  "DEUCPIHOUMINMEI": 52.7148170222404
+ },
+ {
+  "observation_date": "1987-03-01",
+  "DEUCPIHOUMINMEI": 52.8351704857615
+ },
+ {
+  "observation_date": "1987-04-01",
+  "DEUCPIHOUMINMEI": 52.8953472175221
+ },
+ {
+  "observation_date": "1987-05-01",
+  "DEUCPIHOUMINMEI": 52.9555239492826
+ },
+ {
+  "observation_date": "1987-06-01",
+  "DEUCPIHOUMINMEI": 53.0157006810432
+ },
+ {
+  "observation_date": "1987-07-01",
+  "DEUCPIHOUMINMEI": 53.0758774128037
+ },
+ {
+  "observation_date": "1987-08-01",
+  "DEUCPIHOUMINMEI": 53.1360541445642
+ },
+ {
+  "observation_date": "1987-09-01",
+  "DEUCPIHOUMINMEI": 53.1962308763248
+ },
+ {
+  "observation_date": "1987-10-01",
+  "DEUCPIHOUMINMEI": 53.2564076080854
+ },
+ {
+  "observation_date": "1987-11-01",
+  "DEUCPIHOUMINMEI": 53.3165843398459
+ },
+ {
+  "observation_date": "1987-12-01",
+  "DEUCPIHOUMINMEI": 53.3767610716064
+ },
+ {
+  "observation_date": "1988-01-01",
+  "DEUCPIHOUMINMEI": 53.436937803367
+ },
+ {
+  "observation_date": "1988-02-01",
+  "DEUCPIHOUMINMEI": 53.6174679986486
+ },
+ {
+  "observation_date": "1988-03-01",
+  "DEUCPIHOUMINMEI": 53.7378214621697
+ },
+ {
+  "observation_date": "1988-04-01",
+  "DEUCPIHOUMINMEI": 53.7979981939303
+ },
+ {
+  "observation_date": "1988-05-01",
+  "DEUCPIHOUMINMEI": 53.9183516574514
+ },
+ {
+  "observation_date": "1988-06-01",
+  "DEUCPIHOUMINMEI": 54.0387051209725
+ },
+ {
+  "observation_date": "1988-07-01",
+  "DEUCPIHOUMINMEI": 54.1590585844936
+ },
+ {
+  "observation_date": "1988-08-01",
+  "DEUCPIHOUMINMEI": 54.3997655115358
+ },
+ {
+  "observation_date": "1988-09-01",
+  "DEUCPIHOUMINMEI": 54.5802957068174
+ },
+ {
+  "observation_date": "1988-10-01",
+  "DEUCPIHOUMINMEI": 54.7608259020991
+ },
+ {
+  "observation_date": "1988-11-01",
+  "DEUCPIHOUMINMEI": 54.8811793656202
+ },
+ {
+  "observation_date": "1988-12-01",
+  "DEUCPIHOUMINMEI": 54.9413560973807
+ },
+ {
+  "observation_date": "1989-01-01",
+  "DEUCPIHOUMINMEI": 55.1218862926623
+ },
+ {
+  "observation_date": "1989-02-01",
+  "DEUCPIHOUMINMEI": 55.2422397561834
+ },
+ {
+  "observation_date": "1989-03-01",
+  "DEUCPIHOUMINMEI": 55.4227699514651
+ },
+ {
+  "observation_date": "1989-04-01",
+  "DEUCPIHOUMINMEI": 55.5431234149862
+ },
+ {
+  "observation_date": "1989-05-01",
+  "DEUCPIHOUMINMEI": 55.6634768785073
+ },
+ {
+  "observation_date": "1989-06-01",
+  "DEUCPIHOUMINMEI": 55.7838303420284
+ },
+ {
+  "observation_date": "1989-07-01",
+  "DEUCPIHOUMINMEI": 55.9041838055495
+ },
+ {
+  "observation_date": "1989-08-01",
+  "DEUCPIHOUMINMEI": 56.0245372690706
+ },
+ {
+  "observation_date": "1989-09-01",
+  "DEUCPIHOUMINMEI": 56.1448907325917
+ },
+ {
+  "observation_date": "1989-10-01",
+  "DEUCPIHOUMINMEI": 56.2050674643522
+ },
+ {
+  "observation_date": "1989-11-01",
+  "DEUCPIHOUMINMEI": 56.3855976596339
+ },
+ {
+  "observation_date": "1989-12-01",
+  "DEUCPIHOUMINMEI": 56.505951123155
+ },
+ {
+  "observation_date": "1990-01-01",
+  "DEUCPIHOUMINMEI": 56.7466580501972
+ },
+ {
+  "observation_date": "1990-02-01",
+  "DEUCPIHOUMINMEI": 56.9271882454788
+ },
+ {
+  "observation_date": "1990-03-01",
+  "DEUCPIHOUMINMEI": 57.1077184407604
+ },
+ {
+  "observation_date": "1990-04-01",
+  "DEUCPIHOUMINMEI": 57.2882486360421
+ },
+ {
+  "observation_date": "1990-05-01",
+  "DEUCPIHOUMINMEI": 57.4687788313237
+ },
+ {
+  "observation_date": "1990-06-01",
+  "DEUCPIHOUMINMEI": 57.5891322948448
+ },
+ {
+  "observation_date": "1990-07-01",
+  "DEUCPIHOUMINMEI": 57.829839221887
+ },
+ {
+  "observation_date": "1990-08-01",
+  "DEUCPIHOUMINMEI": 58.0103694171687
+ },
+ {
+  "observation_date": "1990-09-01",
+  "DEUCPIHOUMINMEI": 58.1908996124503
+ },
+ {
+  "observation_date": "1990-10-01",
+  "DEUCPIHOUMINMEI": 58.2510763442109
+ },
+ {
+  "observation_date": "1990-11-01",
+  "DEUCPIHOUMINMEI": 58.4316065394925
+ },
+ {
+  "observation_date": "1990-12-01",
+  "DEUCPIHOUMINMEI": 58.6121367347742
+ },
+ {
+  "observation_date": "1991-01-01",
+  "DEUCPIHOUMINMEI": 58.7926669300558
+ },
+ {
+  "observation_date": "1991-02-01",
+  "DEUCPIHOUMINMEI": 59.0373814646242
+ },
+ {
+  "observation_date": "1991-03-01",
+  "DEUCPIHOUMINMEI": 59.3432746328347
+ },
+ {
+  "observation_date": "1991-04-01",
+  "DEUCPIHOUMINMEI": 59.5879891674031
+ },
+ {
+  "observation_date": "1991-05-01",
+  "DEUCPIHOUMINMEI": 59.8938823356136
+ },
+ {
+  "observation_date": "1991-06-01",
+  "DEUCPIHOUMINMEI": 60.138596870182
+ },
+ {
+  "observation_date": "1991-07-01",
+  "DEUCPIHOUMINMEI": 60.3833114047503
+ },
+ {
+  "observation_date": "1991-08-01",
+  "DEUCPIHOUMINMEI": 60.5668473056766
+ },
+ {
+  "observation_date": "1991-09-01",
+  "DEUCPIHOUMINMEI": 60.7503832066029
+ },
+ {
+  "observation_date": "1991-10-01",
+  "DEUCPIHOUMINMEI": 65.0328875615498
+ },
+ {
+  "observation_date": "1991-11-01",
+  "DEUCPIHOUMINMEI": 65.216423462476
+ },
+ {
+  "observation_date": "1991-12-01",
+  "DEUCPIHOUMINMEI": 65.3999593634024
+ },
+ {
+  "observation_date": "1992-01-01",
+  "DEUCPIHOUMINMEI": 65.7670311652549
+ },
+ {
+  "observation_date": "1992-02-01",
+  "DEUCPIHOUMINMEI": 66.1341029671075
+ },
+ {
+  "observation_date": "1992-03-01",
+  "DEUCPIHOUMINMEI": 66.439996135318
+ },
+ {
+  "observation_date": "1992-04-01",
+  "DEUCPIHOUMINMEI": 66.8070679371706
+ },
+ {
+  "observation_date": "1992-05-01",
+  "DEUCPIHOUMINMEI": 67.1129611053811
+ },
+ {
+  "observation_date": "1992-06-01",
+  "DEUCPIHOUMINMEI": 67.3576756399495
+ },
+ {
+  "observation_date": "1992-07-01",
+  "DEUCPIHOUMINMEI": 67.6023901745178
+ },
+ {
+  "observation_date": "1992-08-01",
+  "DEUCPIHOUMINMEI": 67.9082833427284
+ },
+ {
+  "observation_date": "1992-09-01",
+  "DEUCPIHOUMINMEI": 68.1529978772968
+ },
+ {
+  "observation_date": "1992-10-01",
+  "DEUCPIHOUMINMEI": 68.5200696791493
+ },
+ {
+  "observation_date": "1992-11-01",
+  "DEUCPIHOUMINMEI": 68.948320114644
+ },
+ {
+  "observation_date": "1992-12-01",
+  "DEUCPIHOUMINMEI": 69.1318560155703
+ },
+ {
+  "observation_date": "1993-01-01",
+  "DEUCPIHOUMINMEI": 72.9249313013804
+ },
+ {
+  "observation_date": "1993-02-01",
+  "DEUCPIHOUMINMEI": 73.2308244695908
+ },
+ {
+  "observation_date": "1993-03-01",
+  "DEUCPIHOUMINMEI": 73.6590749050855
+ },
+ {
+  "observation_date": "1993-04-01",
+  "DEUCPIHOUMINMEI": 73.9037894396539
+ },
+ {
+  "observation_date": "1993-05-01",
+  "DEUCPIHOUMINMEI": 74.1485039742223
+ },
+ {
+  "observation_date": "1993-06-01",
+  "DEUCPIHOUMINMEI": 74.3320398751486
+ },
+ {
+  "observation_date": "1993-07-01",
+  "DEUCPIHOUMINMEI": 74.576754409717
+ },
+ {
+  "observation_date": "1993-08-01",
+  "DEUCPIHOUMINMEI": 74.8214689442854
+ },
+ {
+  "observation_date": "1993-09-01",
+  "DEUCPIHOUMINMEI": 75.0661834788538
+ },
+ {
+  "observation_date": "1993-10-01",
+  "DEUCPIHOUMINMEI": 75.3108980134222
+ },
+ {
+  "observation_date": "1993-11-01",
+  "DEUCPIHOUMINMEI": 75.5556125479906
+ },
+ {
+  "observation_date": "1993-12-01",
+  "DEUCPIHOUMINMEI": 75.6779698152748
+ },
+ {
+  "observation_date": "1994-01-01",
+  "DEUCPIHOUMINMEI": 76.9015424881167
+ },
+ {
+  "observation_date": "1994-02-01",
+  "DEUCPIHOUMINMEI": 77.2074356563272
+ },
+ {
+  "observation_date": "1994-03-01",
+  "DEUCPIHOUMINMEI": 77.6356860918219
+ },
+ {
+  "observation_date": "1994-04-01",
+  "DEUCPIHOUMINMEI": 77.9415792600324
+ },
+ {
+  "observation_date": "1994-05-01",
+  "DEUCPIHOUMINMEI": 78.1251151609586
+ },
+ {
+  "observation_date": "1994-06-01",
+  "DEUCPIHOUMINMEI": 78.3086510618849
+ },
+ {
+  "observation_date": "1994-07-01",
+  "DEUCPIHOUMINMEI": 78.5533655964533
+ },
+ {
+  "observation_date": "1994-08-01",
+  "DEUCPIHOUMINMEI": 78.7369014973796
+ },
+ {
+  "observation_date": "1994-09-01",
+  "DEUCPIHOUMINMEI": 78.9204373983059
+ },
+ {
+  "observation_date": "1994-10-01",
+  "DEUCPIHOUMINMEI": 79.1651519328743
+ },
+ {
+  "observation_date": "1994-11-01",
+  "DEUCPIHOUMINMEI": 79.4098664674427
+ },
+ {
+  "observation_date": "1994-12-01",
+  "DEUCPIHOUMINMEI": 79.593402368369
+ },
+ {
+  "observation_date": "1995-01-01",
+  "DEUCPIHOUMINMEI": 80.0216528038637
+ },
+ {
+  "observation_date": "1995-02-01",
+  "DEUCPIHOUMINMEI": 80.4216528038637
+ },
+ {
+  "observation_date": "1995-03-01",
+  "DEUCPIHOUMINMEI": 80.6137000268312
+ },
+ {
+  "observation_date": "1995-04-01",
+  "DEUCPIHOUMINMEI": 80.8977944727663
+ },
+ {
+  "observation_date": "1995-05-01",
+  "DEUCPIHOUMINMEI": 81.1137000268312
+ },
+ {
+  "observation_date": "1995-06-01",
+  "DEUCPIHOUMINMEI": 81.3057472497988
+ },
+ {
+  "observation_date": "1995-07-01",
+  "DEUCPIHOUMINMEI": 81.4898416957338
+ },
+ {
+  "observation_date": "1995-08-01",
+  "DEUCPIHOUMINMEI": 82.442125033539
+ },
+ {
+  "observation_date": "1995-09-01",
+  "DEUCPIHOUMINMEI": 82.442125033539
+ },
+ {
+  "observation_date": "1995-10-01",
+  "DEUCPIHOUMINMEI": 82.6341722565066
+ },
+ {
+  "observation_date": "1995-11-01",
+  "DEUCPIHOUMINMEI": 82.8262194794741
+ },
+ {
+  "observation_date": "1995-12-01",
+  "DEUCPIHOUMINMEI": 82.9182667024416
+ },
+ {
+  "observation_date": "1996-01-01",
+  "DEUCPIHOUMINMEI": 83.2864555943118
+ },
+ {
+  "observation_date": "1996-02-01",
+  "DEUCPIHOUMINMEI": 83.4785028172793
+ },
+ {
+  "observation_date": "1996-03-01",
+  "DEUCPIHOUMINMEI": 83.6705500402469
+ },
+ {
+  "observation_date": "1996-04-01",
+  "DEUCPIHOUMINMEI": 83.8546444861819
+ },
+ {
+  "observation_date": "1996-05-01",
+  "DEUCPIHOUMINMEI": 83.9466917091495
+ },
+ {
+  "observation_date": "1996-06-01",
+  "DEUCPIHOUMINMEI": 84.038738932117
+ },
+ {
+  "observation_date": "1996-07-01",
+  "DEUCPIHOUMINMEI": 84.1307861550845
+ },
+ {
+  "observation_date": "1996-08-01",
+  "DEUCPIHOUMINMEI": 84.2307861550845
+ },
+ {
+  "observation_date": "1996-09-01",
+  "DEUCPIHOUMINMEI": 84.4148806010196
+ },
+ {
+  "observation_date": "1996-10-01",
+  "DEUCPIHOUMINMEI": 84.6069278239871
+ },
+ {
+  "observation_date": "1996-11-01",
+  "DEUCPIHOUMINMEI": 84.7910222699222
+ },
+ {
+  "observation_date": "1996-12-01",
+  "DEUCPIHOUMINMEI": 84.9830694928897
+ },
+ {
+  "observation_date": "1997-01-01",
+  "DEUCPIHOUMINMEI": 85.4433056077274
+ },
+ {
+  "observation_date": "1997-02-01",
+  "DEUCPIHOUMINMEI": 85.6353528306949
+ },
+ {
+  "observation_date": "1997-03-01",
+  "DEUCPIHOUMINMEI": 85.7274000536625
+ },
+ {
+  "observation_date": "1997-04-01",
+  "DEUCPIHOUMINMEI": 85.81944727663
+ },
+ {
+  "observation_date": "1997-05-01",
+  "DEUCPIHOUMINMEI": 86.0035417225651
+ },
+ {
+  "observation_date": "1997-06-01",
+  "DEUCPIHOUMINMEI": 86.0035417225651
+ },
+ {
+  "observation_date": "1997-07-01",
+  "DEUCPIHOUMINMEI": 86.1876361685001
+ },
+ {
+  "observation_date": "1997-08-01",
+  "DEUCPIHOUMINMEI": 86.2955889455326
+ },
+ {
+  "observation_date": "1997-09-01",
+  "DEUCPIHOUMINMEI": 86.2955889455326
+ },
+ {
+  "observation_date": "1997-10-01",
+  "DEUCPIHOUMINMEI": 86.3876361685001
+ },
+ {
+  "observation_date": "1997-11-01",
+  "DEUCPIHOUMINMEI": 86.4717306144352
+ },
+ {
+  "observation_date": "1997-12-01",
+  "DEUCPIHOUMINMEI": 86.5637778374027
+ },
+ {
+  "observation_date": "1998-01-01",
+  "DEUCPIHOUMINMEI": 86.6558250603703
+ },
+ {
+  "observation_date": "1998-02-01",
+  "DEUCPIHOUMINMEI": 86.8478722833378
+ },
+ {
+  "observation_date": "1998-03-01",
+  "DEUCPIHOUMINMEI": 86.9478722833378
+ },
+ {
+  "observation_date": "1998-04-01",
+  "DEUCPIHOUMINMEI": 87.0399195063054
+ },
+ {
+  "observation_date": "1998-05-01",
+  "DEUCPIHOUMINMEI": 87.0796833914677
+ },
+ {
+  "observation_date": "1998-06-01",
+  "DEUCPIHOUMINMEI": 87.0876361685001
+ },
+ {
+  "observation_date": "1998-07-01",
+  "DEUCPIHOUMINMEI": 87.1796833914676
+ },
+ {
+  "observation_date": "1998-08-01",
+  "DEUCPIHOUMINMEI": 87.1796833914676
+ },
+ {
+  "observation_date": "1998-09-01",
+  "DEUCPIHOUMINMEI": 87.2796833914677
+ },
+ {
+  "observation_date": "1998-10-01",
+  "DEUCPIHOUMINMEI": 87.2796833914677
+ },
+ {
+  "observation_date": "1998-11-01",
+  "DEUCPIHOUMINMEI": 87.3035417225651
+ },
+ {
+  "observation_date": "1998-12-01",
+  "DEUCPIHOUMINMEI": 87.3035417225651
+ },
+ {
+  "observation_date": "1999-01-01",
+  "DEUCPIHOUMINMEI": 87.3955889455326
+ },
+ {
+  "observation_date": "1999-02-01",
+  "DEUCPIHOUMINMEI": 87.5796833914677
+ },
+ {
+  "observation_date": "1999-03-01",
+  "DEUCPIHOUMINMEI": 87.5796833914677
+ },
+ {
+  "observation_date": "1999-04-01",
+  "DEUCPIHOUMINMEI": 87.6717306144352
+ },
+ {
+  "observation_date": "1999-05-01",
+  "DEUCPIHOUMINMEI": 87.7717306144352
+ },
+ {
+  "observation_date": "1999-06-01",
+  "DEUCPIHOUMINMEI": 87.9558250603703
+ },
+ {
+  "observation_date": "1999-07-01",
+  "DEUCPIHOUMINMEI": 87.9558250603703
+ },
+ {
+  "observation_date": "1999-08-01",
+  "DEUCPIHOUMINMEI": 87.9558250603703
+ },
+ {
+  "observation_date": "1999-09-01",
+  "DEUCPIHOUMINMEI": 88.0478722833378
+ },
+ {
+  "observation_date": "1999-10-01",
+  "DEUCPIHOUMINMEI": 88.1478722833378
+ },
+ {
+  "observation_date": "1999-11-01",
+  "DEUCPIHOUMINMEI": 88.3319667292729
+ },
+ {
+  "observation_date": "1999-12-01",
+  "DEUCPIHOUMINMEI": 88.3319667292729
+ },
+ {
+  "observation_date": "2000-01-01",
+  "DEUCPIHOUMINMEI": 88.4240139522404
+ },
+ {
+  "observation_date": "2000-02-01",
+  "DEUCPIHOUMINMEI": 88.6081083981755
+ },
+ {
+  "observation_date": "2000-03-01",
+  "DEUCPIHOUMINMEI": 88.7081083981755
+ },
+ {
+  "observation_date": "2000-04-01",
+  "DEUCPIHOUMINMEI": 88.800155621143
+ },
+ {
+  "observation_date": "2000-05-01",
+  "DEUCPIHOUMINMEI": 88.8922028441106
+ },
+ {
+  "observation_date": "2000-06-01",
+  "DEUCPIHOUMINMEI": 88.8922028441106
+ },
+ {
+  "observation_date": "2000-07-01",
+  "DEUCPIHOUMINMEI": 88.900155621143
+ },
+ {
+  "observation_date": "2000-08-01",
+  "DEUCPIHOUMINMEI": 88.900155621143
+ },
+ {
+  "observation_date": "2000-09-01",
+  "DEUCPIHOUMINMEI": 88.9922028441106
+ },
+ {
+  "observation_date": "2000-10-01",
+  "DEUCPIHOUMINMEI": 89.100155621143
+ },
+ {
+  "observation_date": "2000-11-01",
+  "DEUCPIHOUMINMEI": 89.1683445130132
+ },
+ {
+  "observation_date": "2000-12-01",
+  "DEUCPIHOUMINMEI": 89.2603917359807
+ },
+ {
+  "observation_date": "2001-01-01",
+  "DEUCPIHOUMINMEI": 89.6222346418671
+ },
+ {
+  "observation_date": "2001-02-01",
+  "DEUCPIHOUMINMEI": 89.7222346418671
+ },
+ {
+  "observation_date": "2001-03-01",
+  "DEUCPIHOUMINMEI": 89.8170973799517
+ },
+ {
+  "observation_date": "2001-04-01",
+  "DEUCPIHOUMINMEI": 89.9119601180363
+ },
+ {
+  "observation_date": "2001-05-01",
+  "DEUCPIHOUMINMEI": 89.9273719037825
+ },
+ {
+  "observation_date": "2001-06-01",
+  "DEUCPIHOUMINMEI": 90.0222346418671
+ },
+ {
+  "observation_date": "2001-07-01",
+  "DEUCPIHOUMINMEI": 90.1170973799517
+ },
+ {
+  "observation_date": "2001-08-01",
+  "DEUCPIHOUMINMEI": 90.3068228561209
+ },
+ {
+  "observation_date": "2001-09-01",
+  "DEUCPIHOUMINMEI": 90.4119601180363
+ },
+ {
+  "observation_date": "2001-10-01",
+  "DEUCPIHOUMINMEI": 90.4170973799517
+ },
+ {
+  "observation_date": "2001-11-01",
+  "DEUCPIHOUMINMEI": 90.5068228561209
+ },
+ {
+  "observation_date": "2001-12-01",
+  "DEUCPIHOUMINMEI": 90.6068228561209
+ },
+ {
+  "observation_date": "2002-01-01",
+  "DEUCPIHOUMINMEI": 90.7965483322901
+ },
+ {
+  "observation_date": "2002-02-01",
+  "DEUCPIHOUMINMEI": 90.8965483322901
+ },
+ {
+  "observation_date": "2002-03-01",
+  "DEUCPIHOUMINMEI": 91.0914110703746
+ },
+ {
+  "observation_date": "2002-04-01",
+  "DEUCPIHOUMINMEI": 91.1862738084593
+ },
+ {
+  "observation_date": "2002-05-01",
+  "DEUCPIHOUMINMEI": 91.1759992846284
+ },
+ {
+  "observation_date": "2002-06-01",
+  "DEUCPIHOUMINMEI": 91.270862022713
+ },
+ {
+  "observation_date": "2002-07-01",
+  "DEUCPIHOUMINMEI": 91.3708620227131
+ },
+ {
+  "observation_date": "2002-08-01",
+  "DEUCPIHOUMINMEI": 91.4605874988822
+ },
+ {
+  "observation_date": "2002-09-01",
+  "DEUCPIHOUMINMEI": 91.4605874988822
+ },
+ {
+  "observation_date": "2002-10-01",
+  "DEUCPIHOUMINMEI": 91.5605874988822
+ },
+ {
+  "observation_date": "2002-11-01",
+  "DEUCPIHOUMINMEI": 91.6605874988822
+ },
+ {
+  "observation_date": "2002-12-01",
+  "DEUCPIHOUMINMEI": 91.7554502369668
+ },
+ {
+  "observation_date": "2003-01-01",
+  "DEUCPIHOUMINMEI": 91.8554502369668
+ },
+ {
+  "observation_date": "2003-02-01",
+  "DEUCPIHOUMINMEI": 91.9503129750514
+ },
+ {
+  "observation_date": "2003-03-01",
+  "DEUCPIHOUMINMEI": 92.045175713136
+ },
+ {
+  "observation_date": "2003-04-01",
+  "DEUCPIHOUMINMEI": 92.2349011893052
+ },
+ {
+  "observation_date": "2003-05-01",
+  "DEUCPIHOUMINMEI": 92.2605874988822
+ },
+ {
+  "observation_date": "2003-06-01",
+  "DEUCPIHOUMINMEI": 92.3605874988822
+ },
+ {
+  "observation_date": "2003-07-01",
+  "DEUCPIHOUMINMEI": 92.3605874988822
+ },
+ {
+  "observation_date": "2003-08-01",
+  "DEUCPIHOUMINMEI": 92.4605874988822
+ },
+ {
+  "observation_date": "2003-09-01",
+  "DEUCPIHOUMINMEI": 92.4605874988822
+ },
+ {
+  "observation_date": "2003-10-01",
+  "DEUCPIHOUMINMEI": 92.4605874988822
+ },
+ {
+  "observation_date": "2003-11-01",
+  "DEUCPIHOUMINMEI": 92.470862022713
+ },
+ {
+  "observation_date": "2003-12-01",
+  "DEUCPIHOUMINMEI": 92.470862022713
+ },
+ {
+  "observation_date": "2004-01-01",
+  "DEUCPIHOUMINMEI": 92.570862022713
+ },
+ {
+  "observation_date": "2004-02-01",
+  "DEUCPIHOUMINMEI": 92.6657247607976
+ },
+ {
+  "observation_date": "2004-03-01",
+  "DEUCPIHOUMINMEI": 92.7657247607976
+ },
+ {
+  "observation_date": "2004-04-01",
+  "DEUCPIHOUMINMEI": 92.870862022713
+ },
+ {
+  "observation_date": "2004-05-01",
+  "DEUCPIHOUMINMEI": 92.9657247607976
+ },
+ {
+  "observation_date": "2004-06-01",
+  "DEUCPIHOUMINMEI": 92.970862022713
+ },
+ {
+  "observation_date": "2004-07-01",
+  "DEUCPIHOUMINMEI": 93.070862022713
+ },
+ {
+  "observation_date": "2004-08-01",
+  "DEUCPIHOUMINMEI": 93.1657247607976
+ },
+ {
+  "observation_date": "2004-09-01",
+  "DEUCPIHOUMINMEI": 93.2605874988822
+ },
+ {
+  "observation_date": "2004-10-01",
+  "DEUCPIHOUMINMEI": 93.2657247607976
+ },
+ {
+  "observation_date": "2004-11-01",
+  "DEUCPIHOUMINMEI": 93.3605874988822
+ },
+ {
+  "observation_date": "2004-12-01",
+  "DEUCPIHOUMINMEI": 93.3605874988822
+ },
+ {
+  "observation_date": "2005-01-01",
+  "DEUCPIHOUMINMEI": 93.4657247607976
+ },
+ {
+  "observation_date": "2005-02-01",
+  "DEUCPIHOUMINMEI": 93.5657247607976
+ },
+ {
+  "observation_date": "2005-03-01",
+  "DEUCPIHOUMINMEI": 93.6657247607976
+ },
+ {
+  "observation_date": "2005-04-01",
+  "DEUCPIHOUMINMEI": 93.770862022713
+ },
+ {
+  "observation_date": "2005-05-01",
+  "DEUCPIHOUMINMEI": 93.8811365465439
+ },
+ {
+  "observation_date": "2005-06-01",
+  "DEUCPIHOUMINMEI": 93.8811365465439
+ },
+ {
+  "observation_date": "2005-07-01",
+  "DEUCPIHOUMINMEI": 93.9759992846284
+ },
+ {
+  "observation_date": "2005-08-01",
+  "DEUCPIHOUMINMEI": 94.0759992846284
+ },
+ {
+  "observation_date": "2005-09-01",
+  "DEUCPIHOUMINMEI": 94.0759992846284
+ },
+ {
+  "observation_date": "2005-10-01",
+  "DEUCPIHOUMINMEI": 94.1759992846284
+ },
+ {
+  "observation_date": "2005-11-01",
+  "DEUCPIHOUMINMEI": 94.2914110703747
+ },
+ {
+  "observation_date": "2005-12-01",
+  "DEUCPIHOUMINMEI": 94.3862738084593
+ },
+ {
+  "observation_date": "2006-01-01",
+  "DEUCPIHOUMINMEI": 94.4551640792042
+ },
+ {
+  "observation_date": "2006-02-01",
+  "DEUCPIHOUMINMEI": 94.5496606860649
+ },
+ {
+  "observation_date": "2006-03-01",
+  "DEUCPIHOUMINMEI": 94.6606674723436
+ },
+ {
+  "observation_date": "2006-04-01",
+  "DEUCPIHOUMINMEI": 94.7771776517616
+ },
+ {
+  "observation_date": "2006-05-01",
+  "DEUCPIHOUMINMEI": 94.8936878311797
+ },
+ {
+  "observation_date": "2006-06-01",
+  "DEUCPIHOUMINMEI": 94.9936878311797
+ },
+ {
+  "observation_date": "2006-07-01",
+  "DEUCPIHOUMINMEI": 95.0267081900158
+ },
+ {
+  "observation_date": "2006-08-01",
+  "DEUCPIHOUMINMEI": 95.1267081900158
+ },
+ {
+  "observation_date": "2006-09-01",
+  "DEUCPIHOUMINMEI": 95.2157014037371
+ },
+ {
+  "observation_date": "2006-10-01",
+  "DEUCPIHOUMINMEI": 95.2652319419913
+ },
+ {
+  "observation_date": "2006-11-01",
+  "DEUCPIHOUMINMEI": 95.4652319419913
+ },
+ {
+  "observation_date": "2006-12-01",
+  "DEUCPIHOUMINMEI": 95.4707353351306
+ },
+ {
+  "observation_date": "2007-01-01",
+  "DEUCPIHOUMINMEI": 95.6202658733848
+ },
+ {
+  "observation_date": "2007-02-01",
+  "DEUCPIHOUMINMEI": 95.7202658733848
+ },
+ {
+  "observation_date": "2007-03-01",
+  "DEUCPIHOUMINMEI": 95.8422794459422
+ },
+ {
+  "observation_date": "2007-04-01",
+  "DEUCPIHOUMINMEI": 96.0083201636144
+ },
+ {
+  "observation_date": "2007-05-01",
+  "DEUCPIHOUMINMEI": 96.1193269498931
+ },
+ {
+  "observation_date": "2007-06-01",
+  "DEUCPIHOUMINMEI": 96.2248303430324
+ },
+ {
+  "observation_date": "2007-07-01",
+  "DEUCPIHOUMINMEI": 96.3413405224505
+ },
+ {
+  "observation_date": "2007-08-01",
+  "DEUCPIHOUMINMEI": 96.5413405224505
+ },
+ {
+  "observation_date": "2007-09-01",
+  "DEUCPIHOUMINMEI": 96.6413405224505
+ },
+ {
+  "observation_date": "2007-10-01",
+  "DEUCPIHOUMINMEI": 96.7633540950079
+ },
+ {
+  "observation_date": "2007-11-01",
+  "DEUCPIHOUMINMEI": 96.7688574881472
+ },
+ {
+  "observation_date": "2007-12-01",
+  "DEUCPIHOUMINMEI": 96.8688574881472
+ },
+ {
+  "observation_date": "2008-01-01",
+  "DEUCPIHOUMINMEI": 97.0743608812866
+ },
+ {
+  "observation_date": "2008-02-01",
+  "DEUCPIHOUMINMEI": 97.1853676675653
+ },
+ {
+  "observation_date": "2008-03-01",
+  "DEUCPIHOUMINMEI": 97.296374453844
+ },
+ {
+  "observation_date": "2008-04-01",
+  "DEUCPIHOUMINMEI": 97.3183880264014
+ },
+ {
+  "observation_date": "2008-05-01",
+  "DEUCPIHOUMINMEI": 97.496374453844
+ },
+ {
+  "observation_date": "2008-06-01",
+  "DEUCPIHOUMINMEI": 97.596374453844
+ },
+ {
+  "observation_date": "2008-07-01",
+  "DEUCPIHOUMINMEI": 97.596374453844
+ },
+ {
+  "observation_date": "2008-08-01",
+  "DEUCPIHOUMINMEI": 97.6908710607047
+ },
+ {
+  "observation_date": "2008-09-01",
+  "DEUCPIHOUMINMEI": 97.8128846332621
+ },
+ {
+  "observation_date": "2008-10-01",
+  "DEUCPIHOUMINMEI": 98.0238914195408
+ },
+ {
+  "observation_date": "2008-11-01",
+  "DEUCPIHOUMINMEI": 98.0569117783769
+ },
+ {
+  "observation_date": "2008-12-01",
+  "DEUCPIHOUMINMEI": 98.1624151715162
+ },
+ {
+  "observation_date": "2009-01-01",
+  "DEUCPIHOUMINMEI": 98.2624151715162
+ },
+ {
+  "observation_date": "2009-02-01",
+  "DEUCPIHOUMINMEI": 98.5
+ },
+ {
+  "observation_date": "2009-03-01",
+  "DEUCPIHOUMINMEI": 98.6
+ },
+ {
+  "observation_date": "2009-04-01",
+  "DEUCPIHOUMINMEI": 98.7055033931394
+ },
+ {
+  "observation_date": "2009-05-01",
+  "DEUCPIHOUMINMEI": 98.7110067862787
+ },
+ {
+  "observation_date": "2009-06-01",
+  "DEUCPIHOUMINMEI": 98.8
+ },
+ {
+  "observation_date": "2009-07-01",
+  "DEUCPIHOUMINMEI": 98.8889932137213
+ },
+ {
+  "observation_date": "2009-08-01",
+  "DEUCPIHOUMINMEI": 98.9724830343032
+ },
+ {
+  "observation_date": "2009-09-01",
+  "DEUCPIHOUMINMEI": 98.9889932137213
+ },
+ {
+  "observation_date": "2009-10-01",
+  "DEUCPIHOUMINMEI": 99.0944966068606
+ },
+ {
+  "observation_date": "2009-11-01",
+  "DEUCPIHOUMINMEI": 99.1779864274426
+ },
+ {
+  "observation_date": "2009-12-01",
+  "DEUCPIHOUMINMEI": 99.1889932137213
+ },
+ {
+  "observation_date": "2010-01-01",
+  "DEUCPIHOUMINMEI": 99.3889932137213
+ },
+ {
+  "observation_date": "2010-02-01",
+  "DEUCPIHOUMINMEI": 99.5889932137213
+ },
+ {
+  "observation_date": "2010-03-01",
+  "DEUCPIHOUMINMEI": 99.6724830343032
+ },
+ {
+  "observation_date": "2010-04-01",
+  "DEUCPIHOUMINMEI": 99.8944966068606
+ },
+ {
+  "observation_date": "2010-05-01",
+  "DEUCPIHOUMINMEI": 99.8889932137213
+ },
+ {
+  "observation_date": "2010-06-01",
+  "DEUCPIHOUMINMEI": 99.983489820582
+ },
+ {
+  "observation_date": "2010-07-01",
+  "DEUCPIHOUMINMEI": 100.1
+ },
+ {
+  "observation_date": "2010-08-01",
+  "DEUCPIHOUMINMEI": 100.088993213721
+ },
+ {
+  "observation_date": "2010-09-01",
+  "DEUCPIHOUMINMEI": 100.2
+ },
+ {
+  "observation_date": "2010-10-01",
+  "DEUCPIHOUMINMEI": 100.333020358836
+ },
+ {
+  "observation_date": "2010-11-01",
+  "DEUCPIHOUMINMEI": 100.427516965697
+ },
+ {
+  "observation_date": "2010-12-01",
+  "DEUCPIHOUMINMEI": 100.527516965697
+ },
+ {
+  "observation_date": "2011-01-01",
+  "DEUCPIHOUMINMEI": 100.72972068064
+ },
+ {
+  "observation_date": "2011-02-01",
+  "DEUCPIHOUMINMEI": 100.82600559556
+ },
+ {
+  "observation_date": "2011-03-01",
+  "DEUCPIHOUMINMEI": 100.92600559556
+ },
+ {
+  "observation_date": "2011-04-01",
+  "DEUCPIHOUMINMEI": 101.05201119112
+ },
+ {
+  "observation_date": "2011-05-01",
+  "DEUCPIHOUMINMEI": 101.15201119112
+ },
+ {
+  "observation_date": "2011-06-01",
+  "DEUCPIHOUMINMEI": 101.25201119112
+ },
+ {
+  "observation_date": "2011-07-01",
+  "DEUCPIHOUMINMEI": 101.370586616521
+ },
+ {
+  "observation_date": "2011-08-01",
+  "DEUCPIHOUMINMEI": 101.474301701601
+ },
+ {
+  "observation_date": "2011-09-01",
+  "DEUCPIHOUMINMEI": 101.578016786681
+ },
+ {
+  "observation_date": "2011-10-01",
+  "DEUCPIHOUMINMEI": 101.689162041921
+ },
+ {
+  "observation_date": "2011-11-01",
+  "DEUCPIHOUMINMEI": 101.785446956841
+ },
+ {
+  "observation_date": "2011-12-01",
+  "DEUCPIHOUMINMEI": 101.881731871761
+ },
+ {
+  "observation_date": "2012-01-01",
+  "DEUCPIHOUMINMEI": 102.100307297161
+ },
+ {
+  "observation_date": "2012-02-01",
+  "DEUCPIHOUMINMEI": 102.192877127001
+ },
+ {
+  "observation_date": "2012-03-01",
+  "DEUCPIHOUMINMEI": 102.211452552401
+ },
+ {
+  "observation_date": "2012-04-01",
+  "DEUCPIHOUMINMEI": 102.333743062881
+ },
+ {
+  "observation_date": "2012-05-01",
+  "DEUCPIHOUMINMEI": 102.433743062881
+ },
+ {
+  "observation_date": "2012-06-01",
+  "DEUCPIHOUMINMEI": 102.526312892721
+ },
+ {
+  "observation_date": "2012-07-01",
+  "DEUCPIHOUMINMEI": 102.644888318121
+ },
+ {
+  "observation_date": "2012-08-01",
+  "DEUCPIHOUMINMEI": 102.741173233041
+ },
+ {
+  "observation_date": "2012-09-01",
+  "DEUCPIHOUMINMEI": 102.841173233041
+ },
+ {
+  "observation_date": "2012-10-01",
+  "DEUCPIHOUMINMEI": 102.952318488281
+ },
+ {
+  "observation_date": "2012-11-01",
+  "DEUCPIHOUMINMEI": 103.048603403201
+ },
+ {
+  "observation_date": "2012-12-01",
+  "DEUCPIHOUMINMEI": 103.044888318121
+ },
+ {
+  "observation_date": "2013-01-01",
+  "DEUCPIHOUMINMEI": 103.359748658442
+ },
+ {
+  "observation_date": "2013-02-01",
+  "DEUCPIHOUMINMEI": 103.456033573361
+ },
+ {
+  "observation_date": "2013-03-01",
+  "DEUCPIHOUMINMEI": 103.556033573361
+ },
+ {
+  "observation_date": "2013-04-01",
+  "DEUCPIHOUMINMEI": 103.648603403201
+ },
+ {
+  "observation_date": "2013-05-01",
+  "DEUCPIHOUMINMEI": 103.752318488281
+ },
+ {
+  "observation_date": "2013-06-01",
+  "DEUCPIHOUMINMEI": 103.848603403201
+ },
+ {
+  "observation_date": "2013-07-01",
+  "DEUCPIHOUMINMEI": 104.056033573361
+ },
+ {
+  "observation_date": "2013-08-01",
+  "DEUCPIHOUMINMEI": 104.156033573361
+ },
+ {
+  "observation_date": "2013-09-01",
+  "DEUCPIHOUMINMEI": 104.256033573361
+ },
+ {
+  "observation_date": "2013-10-01",
+  "DEUCPIHOUMINMEI": 104.259748658442
+ },
+ {
+  "observation_date": "2013-11-01",
+  "DEUCPIHOUMINMEI": 104.548603403201
+ },
+ {
+  "observation_date": "2013-12-01",
+  "DEUCPIHOUMINMEI": 104.641173233041
+ },
+ {
+  "observation_date": "2014-01-01",
+  "DEUCPIHOUMINMEI": 104.841173233041
+ },
+ {
+  "observation_date": "2014-02-01",
+  "DEUCPIHOUMINMEI": 104.941173233041
+ },
+ {
+  "observation_date": "2014-03-01",
+  "DEUCPIHOUMINMEI": 105.044888318121
+ },
+ {
+  "observation_date": "2014-04-01",
+  "DEUCPIHOUMINMEI": 105.259748658442
+ },
+ {
+  "observation_date": "2014-05-01",
+  "DEUCPIHOUMINMEI": 105.356033573361
+ },
+ {
+  "observation_date": "2014-06-01",
+  "DEUCPIHOUMINMEI": 105.452318488281
+ },
+ {
+  "observation_date": "2014-07-01",
+  "DEUCPIHOUMINMEI": 105.556033573361
+ },
+ {
+  "observation_date": "2014-08-01",
+  "DEUCPIHOUMINMEI": 105.748603403201
+ },
+ {
+  "observation_date": "2014-09-01",
+  "DEUCPIHOUMINMEI": 105.756033573361
+ },
+ {
+  "observation_date": "2014-10-01",
+  "DEUCPIHOUMINMEI": 105.967178828602
+ },
+ {
+  "observation_date": "2014-11-01",
+  "DEUCPIHOUMINMEI": 106.067178828602
+ },
+ {
+  "observation_date": "2014-12-01",
+  "DEUCPIHOUMINMEI": 106.163463743522
+ },
+ {
+  "observation_date": "2015-01-01",
+  "DEUCPIHOUMINMEI": 106.267178828602
+ },
+ {
+  "observation_date": "2015-02-01",
+  "DEUCPIHOUMINMEI": 106.363463743522
+ },
+ {
+  "observation_date": "2015-03-01",
+  "DEUCPIHOUMINMEI": 106.463463743522
+ },
+ {
+  "observation_date": "2015-04-01",
+  "DEUCPIHOUMINMEI": 106.674608998762
+ },
+ {
+  "observation_date": "2015-05-01",
+  "DEUCPIHOUMINMEI": 106.674608998762
+ },
+ {
+  "observation_date": "2015-06-01",
+  "DEUCPIHOUMINMEI": 106.774608998762
+ },
+ {
+  "observation_date": "2015-07-01",
+  "DEUCPIHOUMINMEI": 106.878324083842
+ },
+ {
+  "observation_date": "2015-08-01",
+  "DEUCPIHOUMINMEI": 106.978324083842
+ },
+ {
+  "observation_date": "2015-09-01",
+  "DEUCPIHOUMINMEI": 107.078324083842
+ },
+ {
+  "observation_date": "2015-10-01",
+  "DEUCPIHOUMINMEI": 107.185754254002
+ },
+ {
+  "observation_date": "2015-11-01",
+  "DEUCPIHOUMINMEI": 107.282039168922
+ },
+ {
+  "observation_date": "2015-12-01",
+  "DEUCPIHOUMINMEI": 107.274608998762
+ },
+ {
+  "observation_date": "2016-01-01",
+  "DEUCPIHOUMINMEI": 107.478324083842
+ },
+ {
+  "observation_date": "2016-02-01",
+  "DEUCPIHOUMINMEI": 107.578324083842
+ },
+ {
+  "observation_date": "2016-03-01",
+  "DEUCPIHOUMINMEI": 107.674608998762
+ },
+ {
+  "observation_date": "2016-04-01",
+  "DEUCPIHOUMINMEI": 107.785754254002
+ },
+ {
+  "observation_date": "2016-05-01",
+  "DEUCPIHOUMINMEI": 107.885754254002
+ },
+ {
+  "observation_date": "2016-06-01",
+  "DEUCPIHOUMINMEI": 107.985754254002
+ },
+ {
+  "observation_date": "2016-07-01",
+  "DEUCPIHOUMINMEI": 108.093184424162
+ },
+ {
+  "observation_date": "2016-08-01",
+  "DEUCPIHOUMINMEI": 108.285754254002
+ },
+ {
+  "observation_date": "2016-09-01",
+  "DEUCPIHOUMINMEI": 108.482039168922
+ },
+ {
+  "observation_date": "2016-10-01",
+  "DEUCPIHOUMINMEI": 108.685754254002
+ },
+ {
+  "observation_date": "2016-11-01",
+  "DEUCPIHOUMINMEI": 108.785754254002
+ },
+ {
+  "observation_date": "2016-12-01",
+  "DEUCPIHOUMINMEI": 108.882039168922
+ },
+ {
+  "observation_date": "2017-01-01",
+  "DEUCPIHOUMINMEI": 109.178324083842
+ },
+ {
+  "observation_date": "2017-02-01",
+  "DEUCPIHOUMINMEI": 109.278324083842
+ },
+ {
+  "observation_date": "2017-03-01",
+  "DEUCPIHOUMINMEI": 109.374608998762
+ },
+ {
+  "observation_date": "2017-04-01",
+  "DEUCPIHOUMINMEI": 109.600614594322
+ },
+ {
+  "observation_date": "2017-05-01",
+  "DEUCPIHOUMINMEI": 109.793184424162
+ },
+ {
+  "observation_date": "2017-06-01",
+  "DEUCPIHOUMINMEI": 109.889469339082
+ },
+ {
+  "observation_date": "2017-07-01",
+  "DEUCPIHOUMINMEI": 110.019190019722
+ },
+ {
+  "observation_date": "2017-08-01",
+  "DEUCPIHOUMINMEI": 110.115474934642
+ },
+ {
+  "observation_date": "2017-09-01",
+  "DEUCPIHOUMINMEI": 110.311759849562
+ },
+ {
+  "observation_date": "2017-10-01",
+  "DEUCPIHOUMINMEI": 110.422905104802
+ },
+ {
+  "observation_date": "2017-11-01",
+  "DEUCPIHOUMINMEI": 110.619190019722
+ },
+ {
+  "observation_date": "2017-12-01",
+  "DEUCPIHOUMINMEI": 110.711759849562
+ },
+ {
+  "observation_date": "2018-01-01",
+  "DEUCPIHOUMINMEI": 111.022905104802
+ },
+ {
+  "observation_date": "2018-02-01",
+  "DEUCPIHOUMINMEI": 111.119190019722
+ },
+ {
+  "observation_date": "2018-03-01",
+  "DEUCPIHOUMINMEI": 111.219190019722
+ },
+ {
+  "observation_date": "2018-04-01",
+  "DEUCPIHOUMINMEI": 111.445195615282
+ },
+ {
+  "observation_date": "2018-05-01",
+  "DEUCPIHOUMINMEI": 111.541480530202
+ }
+]

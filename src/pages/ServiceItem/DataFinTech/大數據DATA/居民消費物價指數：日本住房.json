@@ -1,0 +1,2326 @@
+[
+ {
+  "observation_date": "1970-01-01",
+  "JPNCPIHOUMINMEI": 25.2683732452519
+ },
+ {
+  "observation_date": "1970-02-01",
+  "JPNCPIHOUMINMEI": 25.3674649050372
+ },
+ {
+  "observation_date": "1970-03-01",
+  "JPNCPIHOUMINMEI": 25.5656482246078
+ },
+ {
+  "observation_date": "1970-04-01",
+  "JPNCPIHOUMINMEI": 25.8629232039637
+ },
+ {
+  "observation_date": "1970-05-01",
+  "JPNCPIHOUMINMEI": 26.0611065235343
+ },
+ {
+  "observation_date": "1970-06-01",
+  "JPNCPIHOUMINMEI": 26.2592898431049
+ },
+ {
+  "observation_date": "1970-07-01",
+  "JPNCPIHOUMINMEI": 26.3583815028902
+ },
+ {
+  "observation_date": "1970-08-01",
+  "JPNCPIHOUMINMEI": 26.4574731626755
+ },
+ {
+  "observation_date": "1970-09-01",
+  "JPNCPIHOUMINMEI": 26.7547481420314
+ },
+ {
+  "observation_date": "1970-10-01",
+  "JPNCPIHOUMINMEI": 26.8538398018167
+ },
+ {
+  "observation_date": "1970-11-01",
+  "JPNCPIHOUMINMEI": 27.0520231213873
+ },
+ {
+  "observation_date": "1970-12-01",
+  "JPNCPIHOUMINMEI": 27.1511147811726
+ },
+ {
+  "observation_date": "1971-01-01",
+  "JPNCPIHOUMINMEI": 27.3492981007432
+ },
+ {
+  "observation_date": "1971-02-01",
+  "JPNCPIHOUMINMEI": 27.5474814203138
+ },
+ {
+  "observation_date": "1971-03-01",
+  "JPNCPIHOUMINMEI": 27.7456647398844
+ },
+ {
+  "observation_date": "1971-04-01",
+  "JPNCPIHOUMINMEI": 28.0429397192403
+ },
+ {
+  "observation_date": "1971-05-01",
+  "JPNCPIHOUMINMEI": 28.6374896779521
+ },
+ {
+  "observation_date": "1971-06-01",
+  "JPNCPIHOUMINMEI": 28.934764657308
+ },
+ {
+  "observation_date": "1971-07-01",
+  "JPNCPIHOUMINMEI": 28.934764657308
+ },
+ {
+  "observation_date": "1971-08-01",
+  "JPNCPIHOUMINMEI": 28.8356729975227
+ },
+ {
+  "observation_date": "1971-09-01",
+  "JPNCPIHOUMINMEI": 28.934764657308
+ },
+ {
+  "observation_date": "1971-10-01",
+  "JPNCPIHOUMINMEI": 29.2320396366639
+ },
+ {
+  "observation_date": "1971-11-01",
+  "JPNCPIHOUMINMEI": 29.4302229562345
+ },
+ {
+  "observation_date": "1971-12-01",
+  "JPNCPIHOUMINMEI": 29.6284062758051
+ },
+ {
+  "observation_date": "1972-01-01",
+  "JPNCPIHOUMINMEI": 29.8265895953757
+ },
+ {
+  "observation_date": "1972-02-01",
+  "JPNCPIHOUMINMEI": 29.925681255161
+ },
+ {
+  "observation_date": "1972-03-01",
+  "JPNCPIHOUMINMEI": 30.1238645747316
+ },
+ {
+  "observation_date": "1972-04-01",
+  "JPNCPIHOUMINMEI": 30.7184145334434
+ },
+ {
+  "observation_date": "1972-05-01",
+  "JPNCPIHOUMINMEI": 31.1147811725846
+ },
+ {
+  "observation_date": "1972-06-01",
+  "JPNCPIHOUMINMEI": 31.3129644921552
+ },
+ {
+  "observation_date": "1972-07-01",
+  "JPNCPIHOUMINMEI": 31.6102394715112
+ },
+ {
+  "observation_date": "1972-08-01",
+  "JPNCPIHOUMINMEI": 31.7093311312964
+ },
+ {
+  "observation_date": "1972-09-01",
+  "JPNCPIHOUMINMEI": 31.9075144508671
+ },
+ {
+  "observation_date": "1972-10-01",
+  "JPNCPIHOUMINMEI": 32.204789430223
+ },
+ {
+  "observation_date": "1972-11-01",
+  "JPNCPIHOUMINMEI": 32.4029727497936
+ },
+ {
+  "observation_date": "1972-12-01",
+  "JPNCPIHOUMINMEI": 32.6011560693642
+ },
+ {
+  "observation_date": "1973-01-01",
+  "JPNCPIHOUMINMEI": 32.7993393889348
+ },
+ {
+  "observation_date": "1973-02-01",
+  "JPNCPIHOUMINMEI": 33.195706028076
+ },
+ {
+  "observation_date": "1973-03-01",
+  "JPNCPIHOUMINMEI": 33.4929810074319
+ },
+ {
+  "observation_date": "1973-04-01",
+  "JPNCPIHOUMINMEI": 33.9884393063584
+ },
+ {
+  "observation_date": "1973-05-01",
+  "JPNCPIHOUMINMEI": 34.3848059454996
+ },
+ {
+  "observation_date": "1973-06-01",
+  "JPNCPIHOUMINMEI": 34.7811725846408
+ },
+ {
+  "observation_date": "1973-07-01",
+  "JPNCPIHOUMINMEI": 35.177539223782
+ },
+ {
+  "observation_date": "1973-08-01",
+  "JPNCPIHOUMINMEI": 35.4748142031379
+ },
+ {
+  "observation_date": "1973-09-01",
+  "JPNCPIHOUMINMEI": 35.9702725020644
+ },
+ {
+  "observation_date": "1973-10-01",
+  "JPNCPIHOUMINMEI": 36.168455821635
+ },
+ {
+  "observation_date": "1973-11-01",
+  "JPNCPIHOUMINMEI": 36.3666391412056
+ },
+ {
+  "observation_date": "1973-12-01",
+  "JPNCPIHOUMINMEI": 37.3575557390586
+ },
+ {
+  "observation_date": "1974-01-01",
+  "JPNCPIHOUMINMEI": 37.8530140379851
+ },
+ {
+  "observation_date": "1974-02-01",
+  "JPNCPIHOUMINMEI": 38.2493806771263
+ },
+ {
+  "observation_date": "1974-03-01",
+  "JPNCPIHOUMINMEI": 38.5466556564822
+ },
+ {
+  "observation_date": "1974-04-01",
+  "JPNCPIHOUMINMEI": 39.0421139554088
+ },
+ {
+  "observation_date": "1974-05-01",
+  "JPNCPIHOUMINMEI": 39.3393889347647
+ },
+ {
+  "observation_date": "1974-06-01",
+  "JPNCPIHOUMINMEI": 39.6366639141206
+ },
+ {
+  "observation_date": "1974-07-01",
+  "JPNCPIHOUMINMEI": 40.1321222130471
+ },
+ {
+  "observation_date": "1974-08-01",
+  "JPNCPIHOUMINMEI": 40.429397192403
+ },
+ {
+  "observation_date": "1974-09-01",
+  "JPNCPIHOUMINMEI": 40.6275805119736
+ },
+ {
+  "observation_date": "1974-10-01",
+  "JPNCPIHOUMINMEI": 41.0239471511148
+ },
+ {
+  "observation_date": "1974-11-01",
+  "JPNCPIHOUMINMEI": 41.5194054500413
+ },
+ {
+  "observation_date": "1974-12-01",
+  "JPNCPIHOUMINMEI": 41.8166804293972
+ },
+ {
+  "observation_date": "1975-01-01",
+  "JPNCPIHOUMINMEI": 42.2130470685384
+ },
+ {
+  "observation_date": "1975-02-01",
+  "JPNCPIHOUMINMEI": 42.411230388109
+ },
+ {
+  "observation_date": "1975-03-01",
+  "JPNCPIHOUMINMEI": 42.7085053674649
+ },
+ {
+  "observation_date": "1975-04-01",
+  "JPNCPIHOUMINMEI": 43.1048720066061
+ },
+ {
+  "observation_date": "1975-05-01",
+  "JPNCPIHOUMINMEI": 43.6003303055326
+ },
+ {
+  "observation_date": "1975-06-01",
+  "JPNCPIHOUMINMEI": 44.0957886044591
+ },
+ {
+  "observation_date": "1975-07-01",
+  "JPNCPIHOUMINMEI": 44.393063583815
+ },
+ {
+  "observation_date": "1975-08-01",
+  "JPNCPIHOUMINMEI": 44.5912469033856
+ },
+ {
+  "observation_date": "1975-09-01",
+  "JPNCPIHOUMINMEI": 44.7894302229562
+ },
+ {
+  "observation_date": "1975-10-01",
+  "JPNCPIHOUMINMEI": 45.0867052023121
+ },
+ {
+  "observation_date": "1975-11-01",
+  "JPNCPIHOUMINMEI": 45.383980181668
+ },
+ {
+  "observation_date": "1975-12-01",
+  "JPNCPIHOUMINMEI": 45.4830718414534
+ },
+ {
+  "observation_date": "1976-01-01",
+  "JPNCPIHOUMINMEI": 45.8794384805946
+ },
+ {
+  "observation_date": "1976-02-01",
+  "JPNCPIHOUMINMEI": 46.3748967795211
+ },
+ {
+  "observation_date": "1976-03-01",
+  "JPNCPIHOUMINMEI": 46.672171758877
+ },
+ {
+  "observation_date": "1976-04-01",
+  "JPNCPIHOUMINMEI": 47.3658133773741
+ },
+ {
+  "observation_date": "1976-05-01",
+  "JPNCPIHOUMINMEI": 47.9603633360859
+ },
+ {
+  "observation_date": "1976-06-01",
+  "JPNCPIHOUMINMEI": 48.5549132947977
+ },
+ {
+  "observation_date": "1976-07-01",
+  "JPNCPIHOUMINMEI": 48.8521882741536
+ },
+ {
+  "observation_date": "1976-08-01",
+  "JPNCPIHOUMINMEI": 49.1494632535095
+ },
+ {
+  "observation_date": "1976-09-01",
+  "JPNCPIHOUMINMEI": 49.4467382328654
+ },
+ {
+  "observation_date": "1976-10-01",
+  "JPNCPIHOUMINMEI": 49.7440132122213
+ },
+ {
+  "observation_date": "1976-11-01",
+  "JPNCPIHOUMINMEI": 50.0412881915772
+ },
+ {
+  "observation_date": "1976-12-01",
+  "JPNCPIHOUMINMEI": 50.3385631709331
+ },
+ {
+  "observation_date": "1977-01-01",
+  "JPNCPIHOUMINMEI": 50.7349298100743
+ },
+ {
+  "observation_date": "1977-02-01",
+  "JPNCPIHOUMINMEI": 51.0322047894302
+ },
+ {
+  "observation_date": "1977-03-01",
+  "JPNCPIHOUMINMEI": 51.3294797687861
+ },
+ {
+  "observation_date": "1977-04-01",
+  "JPNCPIHOUMINMEI": 51.9240297274979
+ },
+ {
+  "observation_date": "1977-05-01",
+  "JPNCPIHOUMINMEI": 52.5185796862098
+ },
+ {
+  "observation_date": "1977-06-01",
+  "JPNCPIHOUMINMEI": 52.914946325351
+ },
+ {
+  "observation_date": "1977-07-01",
+  "JPNCPIHOUMINMEI": 53.2122213047069
+ },
+ {
+  "observation_date": "1977-08-01",
+  "JPNCPIHOUMINMEI": 53.6085879438481
+ },
+ {
+  "observation_date": "1977-09-01",
+  "JPNCPIHOUMINMEI": 53.7076796036334
+ },
+ {
+  "observation_date": "1977-10-01",
+  "JPNCPIHOUMINMEI": 54.3022295623452
+ },
+ {
+  "observation_date": "1977-11-01",
+  "JPNCPIHOUMINMEI": 54.4013212221305
+ },
+ {
+  "observation_date": "1977-12-01",
+  "JPNCPIHOUMINMEI": 54.6985962014864
+ },
+ {
+  "observation_date": "1978-01-01",
+  "JPNCPIHOUMINMEI": 54.7976878612717
+ },
+ {
+  "observation_date": "1978-02-01",
+  "JPNCPIHOUMINMEI": 55.2931461601982
+ },
+ {
+  "observation_date": "1978-03-01",
+  "JPNCPIHOUMINMEI": 55.5904211395541
+ },
+ {
+  "observation_date": "1978-04-01",
+  "JPNCPIHOUMINMEI": 56.1849710982659
+ },
+ {
+  "observation_date": "1978-05-01",
+  "JPNCPIHOUMINMEI": 56.7795210569777
+ },
+ {
+  "observation_date": "1978-06-01",
+  "JPNCPIHOUMINMEI": 57.2749793559042
+ },
+ {
+  "observation_date": "1978-07-01",
+  "JPNCPIHOUMINMEI": 57.4731626754748
+ },
+ {
+  "observation_date": "1978-08-01",
+  "JPNCPIHOUMINMEI": 57.7704376548307
+ },
+ {
+  "observation_date": "1978-09-01",
+  "JPNCPIHOUMINMEI": 57.9686209744013
+ },
+ {
+  "observation_date": "1978-10-01",
+  "JPNCPIHOUMINMEI": 58.3649876135425
+ },
+ {
+  "observation_date": "1978-11-01",
+  "JPNCPIHOUMINMEI": 58.4640792733278
+ },
+ {
+  "observation_date": "1978-12-01",
+  "JPNCPIHOUMINMEI": 58.6622625928984
+ },
+ {
+  "observation_date": "1979-01-01",
+  "JPNCPIHOUMINMEI": 58.860445912469
+ },
+ {
+  "observation_date": "1979-02-01",
+  "JPNCPIHOUMINMEI": 59.0586292320396
+ },
+ {
+  "observation_date": "1979-03-01",
+  "JPNCPIHOUMINMEI": 59.2568125516102
+ },
+ {
+  "observation_date": "1979-04-01",
+  "JPNCPIHOUMINMEI": 59.5540875309662
+ },
+ {
+  "observation_date": "1979-05-01",
+  "JPNCPIHOUMINMEI": 60.0495458298927
+ },
+ {
+  "observation_date": "1979-06-01",
+  "JPNCPIHOUMINMEI": 60.2477291494632
+ },
+ {
+  "observation_date": "1979-07-01",
+  "JPNCPIHOUMINMEI": 60.4459124690339
+ },
+ {
+  "observation_date": "1979-08-01",
+  "JPNCPIHOUMINMEI": 60.5450041288192
+ },
+ {
+  "observation_date": "1979-09-01",
+  "JPNCPIHOUMINMEI": 60.9413707679604
+ },
+ {
+  "observation_date": "1979-10-01",
+  "JPNCPIHOUMINMEI": 61.2386457473163
+ },
+ {
+  "observation_date": "1979-11-01",
+  "JPNCPIHOUMINMEI": 61.4368290668869
+ },
+ {
+  "observation_date": "1979-12-01",
+  "JPNCPIHOUMINMEI": 61.7341040462428
+ },
+ {
+  "observation_date": "1980-01-01",
+  "JPNCPIHOUMINMEI": 62.0313790255987
+ },
+ {
+  "observation_date": "1980-02-01",
+  "JPNCPIHOUMINMEI": 62.3286540049546
+ },
+ {
+  "observation_date": "1980-03-01",
+  "JPNCPIHOUMINMEI": 62.8241123038811
+ },
+ {
+  "observation_date": "1980-04-01",
+  "JPNCPIHOUMINMEI": 63.3195706028076
+ },
+ {
+  "observation_date": "1980-05-01",
+  "JPNCPIHOUMINMEI": 63.8150289017341
+ },
+ {
+  "observation_date": "1980-06-01",
+  "JPNCPIHOUMINMEI": 64.2113955408753
+ },
+ {
+  "observation_date": "1980-07-01",
+  "JPNCPIHOUMINMEI": 64.5086705202312
+ },
+ {
+  "observation_date": "1980-08-01",
+  "JPNCPIHOUMINMEI": 64.7068538398018
+ },
+ {
+  "observation_date": "1980-09-01",
+  "JPNCPIHOUMINMEI": 64.8059454995871
+ },
+ {
+  "observation_date": "1980-10-01",
+  "JPNCPIHOUMINMEI": 64.8059454995871
+ },
+ {
+  "observation_date": "1980-11-01",
+  "JPNCPIHOUMINMEI": 65.103220478943
+ },
+ {
+  "observation_date": "1980-12-01",
+  "JPNCPIHOUMINMEI": 65.4004954582989
+ },
+ {
+  "observation_date": "1981-01-01",
+  "JPNCPIHOUMINMEI": 65.5986787778695
+ },
+ {
+  "observation_date": "1981-02-01",
+  "JPNCPIHOUMINMEI": 65.7968620974401
+ },
+ {
+  "observation_date": "1981-03-01",
+  "JPNCPIHOUMINMEI": 65.9950454170107
+ },
+ {
+  "observation_date": "1981-04-01",
+  "JPNCPIHOUMINMEI": 66.2923203963666
+ },
+ {
+  "observation_date": "1981-05-01",
+  "JPNCPIHOUMINMEI": 66.7877786952932
+ },
+ {
+  "observation_date": "1981-06-01",
+  "JPNCPIHOUMINMEI": 66.8868703550785
+ },
+ {
+  "observation_date": "1981-07-01",
+  "JPNCPIHOUMINMEI": 67.0850536746491
+ },
+ {
+  "observation_date": "1981-08-01",
+  "JPNCPIHOUMINMEI": 67.1841453344344
+ },
+ {
+  "observation_date": "1981-09-01",
+  "JPNCPIHOUMINMEI": 67.382328654005
+ },
+ {
+  "observation_date": "1981-10-01",
+  "JPNCPIHOUMINMEI": 67.4814203137903
+ },
+ {
+  "observation_date": "1981-11-01",
+  "JPNCPIHOUMINMEI": 67.6796036333609
+ },
+ {
+  "observation_date": "1981-12-01",
+  "JPNCPIHOUMINMEI": 67.8777869529315
+ },
+ {
+  "observation_date": "1982-01-01",
+  "JPNCPIHOUMINMEI": 68.0759702725021
+ },
+ {
+  "observation_date": "1982-02-01",
+  "JPNCPIHOUMINMEI": 68.1750619322874
+ },
+ {
+  "observation_date": "1982-03-01",
+  "JPNCPIHOUMINMEI": 68.373245251858
+ },
+ {
+  "observation_date": "1982-04-01",
+  "JPNCPIHOUMINMEI": 68.7696118909992
+ },
+ {
+  "observation_date": "1982-05-01",
+  "JPNCPIHOUMINMEI": 69.0668868703551
+ },
+ {
+  "observation_date": "1982-06-01",
+  "JPNCPIHOUMINMEI": 69.364161849711
+ },
+ {
+  "observation_date": "1982-07-01",
+  "JPNCPIHOUMINMEI": 69.5623451692816
+ },
+ {
+  "observation_date": "1982-08-01",
+  "JPNCPIHOUMINMEI": 69.6614368290669
+ },
+ {
+  "observation_date": "1982-09-01",
+  "JPNCPIHOUMINMEI": 69.7605284888522
+ },
+ {
+  "observation_date": "1982-10-01",
+  "JPNCPIHOUMINMEI": 69.7605284888522
+ },
+ {
+  "observation_date": "1982-11-01",
+  "JPNCPIHOUMINMEI": 69.9587118084228
+ },
+ {
+  "observation_date": "1982-12-01",
+  "JPNCPIHOUMINMEI": 70.1568951279934
+ },
+ {
+  "observation_date": "1983-01-01",
+  "JPNCPIHOUMINMEI": 70.2559867877787
+ },
+ {
+  "observation_date": "1983-02-01",
+  "JPNCPIHOUMINMEI": 70.4541701073493
+ },
+ {
+  "observation_date": "1983-03-01",
+  "JPNCPIHOUMINMEI": 70.5532617671346
+ },
+ {
+  "observation_date": "1983-04-01",
+  "JPNCPIHOUMINMEI": 70.8505367464905
+ },
+ {
+  "observation_date": "1983-05-01",
+  "JPNCPIHOUMINMEI": 71.345995045417
+ },
+ {
+  "observation_date": "1983-06-01",
+  "JPNCPIHOUMINMEI": 71.5441783649876
+ },
+ {
+  "observation_date": "1983-07-01",
+  "JPNCPIHOUMINMEI": 71.7423616845582
+ },
+ {
+  "observation_date": "1983-08-01",
+  "JPNCPIHOUMINMEI": 71.8414533443435
+ },
+ {
+  "observation_date": "1983-09-01",
+  "JPNCPIHOUMINMEI": 71.9405450041288
+ },
+ {
+  "observation_date": "1983-10-01",
+  "JPNCPIHOUMINMEI": 72.0396366639141
+ },
+ {
+  "observation_date": "1983-11-01",
+  "JPNCPIHOUMINMEI": 72.2378199834847
+ },
+ {
+  "observation_date": "1983-12-01",
+  "JPNCPIHOUMINMEI": 72.1387283236994
+ },
+ {
+  "observation_date": "1984-01-01",
+  "JPNCPIHOUMINMEI": 72.1387283236994
+ },
+ {
+  "observation_date": "1984-02-01",
+  "JPNCPIHOUMINMEI": 72.33691164327
+ },
+ {
+  "observation_date": "1984-03-01",
+  "JPNCPIHOUMINMEI": 72.4360033030553
+ },
+ {
+  "observation_date": "1984-04-01",
+  "JPNCPIHOUMINMEI": 72.6341866226259
+ },
+ {
+  "observation_date": "1984-05-01",
+  "JPNCPIHOUMINMEI": 72.8323699421965
+ },
+ {
+  "observation_date": "1984-06-01",
+  "JPNCPIHOUMINMEI": 73.0305532617671
+ },
+ {
+  "observation_date": "1984-07-01",
+  "JPNCPIHOUMINMEI": 73.1296449215524
+ },
+ {
+  "observation_date": "1984-08-01",
+  "JPNCPIHOUMINMEI": 73.327828241123
+ },
+ {
+  "observation_date": "1984-09-01",
+  "JPNCPIHOUMINMEI": 73.327828241123
+ },
+ {
+  "observation_date": "1984-10-01",
+  "JPNCPIHOUMINMEI": 73.4269199009084
+ },
+ {
+  "observation_date": "1984-11-01",
+  "JPNCPIHOUMINMEI": 73.625103220479
+ },
+ {
+  "observation_date": "1984-12-01",
+  "JPNCPIHOUMINMEI": 73.8232865400496
+ },
+ {
+  "observation_date": "1985-01-01",
+  "JPNCPIHOUMINMEI": 73.9223781998349
+ },
+ {
+  "observation_date": "1985-02-01",
+  "JPNCPIHOUMINMEI": 74.0214698596202
+ },
+ {
+  "observation_date": "1985-03-01",
+  "JPNCPIHOUMINMEI": 74.2196531791908
+ },
+ {
+  "observation_date": "1985-04-01",
+  "JPNCPIHOUMINMEI": 74.4178364987614
+ },
+ {
+  "observation_date": "1985-05-01",
+  "JPNCPIHOUMINMEI": 74.8142031379026
+ },
+ {
+  "observation_date": "1985-06-01",
+  "JPNCPIHOUMINMEI": 74.9132947976879
+ },
+ {
+  "observation_date": "1985-07-01",
+  "JPNCPIHOUMINMEI": 75.0123864574732
+ },
+ {
+  "observation_date": "1985-08-01",
+  "JPNCPIHOUMINMEI": 75.1114781172585
+ },
+ {
+  "observation_date": "1985-09-01",
+  "JPNCPIHOUMINMEI": 75.2105697770438
+ },
+ {
+  "observation_date": "1985-10-01",
+  "JPNCPIHOUMINMEI": 75.3096614368291
+ },
+ {
+  "observation_date": "1985-11-01",
+  "JPNCPIHOUMINMEI": 75.5078447563997
+ },
+ {
+  "observation_date": "1985-12-01",
+  "JPNCPIHOUMINMEI": 75.8051197357556
+ },
+ {
+  "observation_date": "1986-01-01",
+  "JPNCPIHOUMINMEI": 75.8051197357556
+ },
+ {
+  "observation_date": "1986-02-01",
+  "JPNCPIHOUMINMEI": 75.9042113955409
+ },
+ {
+  "observation_date": "1986-03-01",
+  "JPNCPIHOUMINMEI": 76.1023947151115
+ },
+ {
+  "observation_date": "1986-04-01",
+  "JPNCPIHOUMINMEI": 76.3005780346821
+ },
+ {
+  "observation_date": "1986-05-01",
+  "JPNCPIHOUMINMEI": 76.597853014038
+ },
+ {
+  "observation_date": "1986-06-01",
+  "JPNCPIHOUMINMEI": 76.6969446738233
+ },
+ {
+  "observation_date": "1986-07-01",
+  "JPNCPIHOUMINMEI": 76.8951279933939
+ },
+ {
+  "observation_date": "1986-08-01",
+  "JPNCPIHOUMINMEI": 76.9942196531792
+ },
+ {
+  "observation_date": "1986-09-01",
+  "JPNCPIHOUMINMEI": 77.0933113129645
+ },
+ {
+  "observation_date": "1986-10-01",
+  "JPNCPIHOUMINMEI": 77.2914946325351
+ },
+ {
+  "observation_date": "1986-11-01",
+  "JPNCPIHOUMINMEI": 77.3905862923204
+ },
+ {
+  "observation_date": "1986-12-01",
+  "JPNCPIHOUMINMEI": 77.4896779521057
+ },
+ {
+  "observation_date": "1987-01-01",
+  "JPNCPIHOUMINMEI": 77.588769611891
+ },
+ {
+  "observation_date": "1987-02-01",
+  "JPNCPIHOUMINMEI": 77.7869529314616
+ },
+ {
+  "observation_date": "1987-03-01",
+  "JPNCPIHOUMINMEI": 77.8860445912469
+ },
+ {
+  "observation_date": "1987-04-01",
+  "JPNCPIHOUMINMEI": 78.1833195706028
+ },
+ {
+  "observation_date": "1987-05-01",
+  "JPNCPIHOUMINMEI": 78.3815028901734
+ },
+ {
+  "observation_date": "1987-06-01",
+  "JPNCPIHOUMINMEI": 79.1742361684558
+ },
+ {
+  "observation_date": "1987-07-01",
+  "JPNCPIHOUMINMEI": 79.4715111478117
+ },
+ {
+  "observation_date": "1987-08-01",
+  "JPNCPIHOUMINMEI": 79.4715111478117
+ },
+ {
+  "observation_date": "1987-09-01",
+  "JPNCPIHOUMINMEI": 79.570602807597
+ },
+ {
+  "observation_date": "1987-10-01",
+  "JPNCPIHOUMINMEI": 79.7687861271676
+ },
+ {
+  "observation_date": "1987-11-01",
+  "JPNCPIHOUMINMEI": 79.7687861271676
+ },
+ {
+  "observation_date": "1987-12-01",
+  "JPNCPIHOUMINMEI": 79.7687861271676
+ },
+ {
+  "observation_date": "1988-01-01",
+  "JPNCPIHOUMINMEI": 79.7687861271676
+ },
+ {
+  "observation_date": "1988-02-01",
+  "JPNCPIHOUMINMEI": 79.9669694467382
+ },
+ {
+  "observation_date": "1988-03-01",
+  "JPNCPIHOUMINMEI": 80.0660611065235
+ },
+ {
+  "observation_date": "1988-04-01",
+  "JPNCPIHOUMINMEI": 80.2642444260942
+ },
+ {
+  "observation_date": "1988-05-01",
+  "JPNCPIHOUMINMEI": 80.3633360858794
+ },
+ {
+  "observation_date": "1988-06-01",
+  "JPNCPIHOUMINMEI": 80.56151940545
+ },
+ {
+  "observation_date": "1988-07-01",
+  "JPNCPIHOUMINMEI": 80.6606110652354
+ },
+ {
+  "observation_date": "1988-08-01",
+  "JPNCPIHOUMINMEI": 80.6606110652354
+ },
+ {
+  "observation_date": "1988-09-01",
+  "JPNCPIHOUMINMEI": 80.858794384806
+ },
+ {
+  "observation_date": "1988-10-01",
+  "JPNCPIHOUMINMEI": 80.9578860445913
+ },
+ {
+  "observation_date": "1988-11-01",
+  "JPNCPIHOUMINMEI": 81.2551610239472
+ },
+ {
+  "observation_date": "1988-12-01",
+  "JPNCPIHOUMINMEI": 81.3542526837324
+ },
+ {
+  "observation_date": "1989-01-01",
+  "JPNCPIHOUMINMEI": 81.4533443435178
+ },
+ {
+  "observation_date": "1989-02-01",
+  "JPNCPIHOUMINMEI": 81.5524360033031
+ },
+ {
+  "observation_date": "1989-03-01",
+  "JPNCPIHOUMINMEI": 81.7506193228737
+ },
+ {
+  "observation_date": "1989-04-01",
+  "JPNCPIHOUMINMEI": 82.4442609413708
+ },
+ {
+  "observation_date": "1989-05-01",
+  "JPNCPIHOUMINMEI": 82.7415359207267
+ },
+ {
+  "observation_date": "1989-06-01",
+  "JPNCPIHOUMINMEI": 83.2369942196532
+ },
+ {
+  "observation_date": "1989-07-01",
+  "JPNCPIHOUMINMEI": 83.4351775392238
+ },
+ {
+  "observation_date": "1989-08-01",
+  "JPNCPIHOUMINMEI": 83.4351775392238
+ },
+ {
+  "observation_date": "1989-09-01",
+  "JPNCPIHOUMINMEI": 83.5342691990091
+ },
+ {
+  "observation_date": "1989-10-01",
+  "JPNCPIHOUMINMEI": 83.7324525185797
+ },
+ {
+  "observation_date": "1989-11-01",
+  "JPNCPIHOUMINMEI": 83.7324525185797
+ },
+ {
+  "observation_date": "1989-12-01",
+  "JPNCPIHOUMINMEI": 83.9306358381503
+ },
+ {
+  "observation_date": "1990-01-01",
+  "JPNCPIHOUMINMEI": 84.3270024772915
+ },
+ {
+  "observation_date": "1990-02-01",
+  "JPNCPIHOUMINMEI": 84.4260941370768
+ },
+ {
+  "observation_date": "1990-03-01",
+  "JPNCPIHOUMINMEI": 84.5251857968621
+ },
+ {
+  "observation_date": "1990-04-01",
+  "JPNCPIHOUMINMEI": 84.9215524360033
+ },
+ {
+  "observation_date": "1990-05-01",
+  "JPNCPIHOUMINMEI": 85.1197357555739
+ },
+ {
+  "observation_date": "1990-06-01",
+  "JPNCPIHOUMINMEI": 85.5161023947151
+ },
+ {
+  "observation_date": "1990-07-01",
+  "JPNCPIHOUMINMEI": 85.7142857142857
+ },
+ {
+  "observation_date": "1990-08-01",
+  "JPNCPIHOUMINMEI": 85.813377374071
+ },
+ {
+  "observation_date": "1990-09-01",
+  "JPNCPIHOUMINMEI": 85.9124690338563
+ },
+ {
+  "observation_date": "1990-10-01",
+  "JPNCPIHOUMINMEI": 86.2097440132122
+ },
+ {
+  "observation_date": "1990-11-01",
+  "JPNCPIHOUMINMEI": 86.6061106523534
+ },
+ {
+  "observation_date": "1990-12-01",
+  "JPNCPIHOUMINMEI": 86.804293971924
+ },
+ {
+  "observation_date": "1991-01-01",
+  "JPNCPIHOUMINMEI": 86.9033856317094
+ },
+ {
+  "observation_date": "1991-02-01",
+  "JPNCPIHOUMINMEI": 87.1015689512799
+ },
+ {
+  "observation_date": "1991-03-01",
+  "JPNCPIHOUMINMEI": 87.2006606110652
+ },
+ {
+  "observation_date": "1991-04-01",
+  "JPNCPIHOUMINMEI": 87.4979355904212
+ },
+ {
+  "observation_date": "1991-05-01",
+  "JPNCPIHOUMINMEI": 87.7952105697771
+ },
+ {
+  "observation_date": "1991-06-01",
+  "JPNCPIHOUMINMEI": 88.1915772089183
+ },
+ {
+  "observation_date": "1991-07-01",
+  "JPNCPIHOUMINMEI": 88.5879438480595
+ },
+ {
+  "observation_date": "1991-08-01",
+  "JPNCPIHOUMINMEI": 88.6870355078448
+ },
+ {
+  "observation_date": "1991-09-01",
+  "JPNCPIHOUMINMEI": 88.7861271676301
+ },
+ {
+  "observation_date": "1991-10-01",
+  "JPNCPIHOUMINMEI": 88.9843104872007
+ },
+ {
+  "observation_date": "1991-11-01",
+  "JPNCPIHOUMINMEI": 89.083402146986
+ },
+ {
+  "observation_date": "1991-12-01",
+  "JPNCPIHOUMINMEI": 89.2815854665566
+ },
+ {
+  "observation_date": "1992-01-01",
+  "JPNCPIHOUMINMEI": 89.4797687861272
+ },
+ {
+  "observation_date": "1992-02-01",
+  "JPNCPIHOUMINMEI": 89.5788604459125
+ },
+ {
+  "observation_date": "1992-03-01",
+  "JPNCPIHOUMINMEI": 89.7770437654831
+ },
+ {
+  "observation_date": "1992-04-01",
+  "JPNCPIHOUMINMEI": 90.2725020644096
+ },
+ {
+  "observation_date": "1992-05-01",
+  "JPNCPIHOUMINMEI": 90.6688687035508
+ },
+ {
+  "observation_date": "1992-06-01",
+  "JPNCPIHOUMINMEI": 91.065235342692
+ },
+ {
+  "observation_date": "1992-07-01",
+  "JPNCPIHOUMINMEI": 91.2634186622626
+ },
+ {
+  "observation_date": "1992-08-01",
+  "JPNCPIHOUMINMEI": 91.3625103220479
+ },
+ {
+  "observation_date": "1992-09-01",
+  "JPNCPIHOUMINMEI": 91.4616019818332
+ },
+ {
+  "observation_date": "1992-10-01",
+  "JPNCPIHOUMINMEI": 91.7588769611891
+ },
+ {
+  "observation_date": "1992-11-01",
+  "JPNCPIHOUMINMEI": 91.8579686209744
+ },
+ {
+  "observation_date": "1992-12-01",
+  "JPNCPIHOUMINMEI": 92.056151940545
+ },
+ {
+  "observation_date": "1993-01-01",
+  "JPNCPIHOUMINMEI": 92.1552436003303
+ },
+ {
+  "observation_date": "1993-02-01",
+  "JPNCPIHOUMINMEI": 92.3534269199009
+ },
+ {
+  "observation_date": "1993-03-01",
+  "JPNCPIHOUMINMEI": 92.5516102394715
+ },
+ {
+  "observation_date": "1993-04-01",
+  "JPNCPIHOUMINMEI": 92.7497935590421
+ },
+ {
+  "observation_date": "1993-05-01",
+  "JPNCPIHOUMINMEI": 93.1461601981834
+ },
+ {
+  "observation_date": "1993-06-01",
+  "JPNCPIHOUMINMEI": 93.2452518579686
+ },
+ {
+  "observation_date": "1993-07-01",
+  "JPNCPIHOUMINMEI": 93.5425268373246
+ },
+ {
+  "observation_date": "1993-08-01",
+  "JPNCPIHOUMINMEI": 93.6416184971098
+ },
+ {
+  "observation_date": "1993-09-01",
+  "JPNCPIHOUMINMEI": 93.8398018166804
+ },
+ {
+  "observation_date": "1993-10-01",
+  "JPNCPIHOUMINMEI": 93.9388934764657
+ },
+ {
+  "observation_date": "1993-11-01",
+  "JPNCPIHOUMINMEI": 94.1370767960364
+ },
+ {
+  "observation_date": "1993-12-01",
+  "JPNCPIHOUMINMEI": 94.335260115607
+ },
+ {
+  "observation_date": "1994-01-01",
+  "JPNCPIHOUMINMEI": 94.4343517753922
+ },
+ {
+  "observation_date": "1994-02-01",
+  "JPNCPIHOUMINMEI": 94.6325350949628
+ },
+ {
+  "observation_date": "1994-03-01",
+  "JPNCPIHOUMINMEI": 94.7316267547482
+ },
+ {
+  "observation_date": "1994-04-01",
+  "JPNCPIHOUMINMEI": 94.9298100743188
+ },
+ {
+  "observation_date": "1994-05-01",
+  "JPNCPIHOUMINMEI": 95.1279933938894
+ },
+ {
+  "observation_date": "1994-06-01",
+  "JPNCPIHOUMINMEI": 95.4252683732453
+ },
+ {
+  "observation_date": "1994-07-01",
+  "JPNCPIHOUMINMEI": 95.5243600330306
+ },
+ {
+  "observation_date": "1994-08-01",
+  "JPNCPIHOUMINMEI": 95.6234516928159
+ },
+ {
+  "observation_date": "1994-09-01",
+  "JPNCPIHOUMINMEI": 95.9207266721718
+ },
+ {
+  "observation_date": "1994-10-01",
+  "JPNCPIHOUMINMEI": 96.0198183319571
+ },
+ {
+  "observation_date": "1994-11-01",
+  "JPNCPIHOUMINMEI": 96.317093311313
+ },
+ {
+  "observation_date": "1994-12-01",
+  "JPNCPIHOUMINMEI": 96.317093311313
+ },
+ {
+  "observation_date": "1995-01-01",
+  "JPNCPIHOUMINMEI": 96.5152766308836
+ },
+ {
+  "observation_date": "1995-02-01",
+  "JPNCPIHOUMINMEI": 96.7134599504542
+ },
+ {
+  "observation_date": "1995-03-01",
+  "JPNCPIHOUMINMEI": 96.7134599504542
+ },
+ {
+  "observation_date": "1995-04-01",
+  "JPNCPIHOUMINMEI": 96.9116432700248
+ },
+ {
+  "observation_date": "1995-05-01",
+  "JPNCPIHOUMINMEI": 97.1098265895954
+ },
+ {
+  "observation_date": "1995-06-01",
+  "JPNCPIHOUMINMEI": 97.308009909166
+ },
+ {
+  "observation_date": "1995-07-01",
+  "JPNCPIHOUMINMEI": 97.5061932287366
+ },
+ {
+  "observation_date": "1995-08-01",
+  "JPNCPIHOUMINMEI": 97.6052848885219
+ },
+ {
+  "observation_date": "1995-09-01",
+  "JPNCPIHOUMINMEI": 97.7043765483072
+ },
+ {
+  "observation_date": "1995-10-01",
+  "JPNCPIHOUMINMEI": 97.9025598678778
+ },
+ {
+  "observation_date": "1995-11-01",
+  "JPNCPIHOUMINMEI": 97.9025598678778
+ },
+ {
+  "observation_date": "1995-12-01",
+  "JPNCPIHOUMINMEI": 97.9025598678778
+ },
+ {
+  "observation_date": "1996-01-01",
+  "JPNCPIHOUMINMEI": 98.0016515276631
+ },
+ {
+  "observation_date": "1996-02-01",
+  "JPNCPIHOUMINMEI": 98.1998348472337
+ },
+ {
+  "observation_date": "1996-03-01",
+  "JPNCPIHOUMINMEI": 98.1998348472337
+ },
+ {
+  "observation_date": "1996-04-01",
+  "JPNCPIHOUMINMEI": 98.3980181668043
+ },
+ {
+  "observation_date": "1996-05-01",
+  "JPNCPIHOUMINMEI": 98.5962014863749
+ },
+ {
+  "observation_date": "1996-06-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "1996-07-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "1996-08-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "1996-09-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "1996-10-01",
+  "JPNCPIHOUMINMEI": 99.1907514450867
+ },
+ {
+  "observation_date": "1996-11-01",
+  "JPNCPIHOUMINMEI": 99.1907514450867
+ },
+ {
+  "observation_date": "1996-12-01",
+  "JPNCPIHOUMINMEI": 99.289843104872
+ },
+ {
+  "observation_date": "1997-01-01",
+  "JPNCPIHOUMINMEI": 99.3889347646573
+ },
+ {
+  "observation_date": "1997-02-01",
+  "JPNCPIHOUMINMEI": 99.3889347646573
+ },
+ {
+  "observation_date": "1997-03-01",
+  "JPNCPIHOUMINMEI": 99.4880264244426
+ },
+ {
+  "observation_date": "1997-04-01",
+  "JPNCPIHOUMINMEI": 99.8843930635838
+ },
+ {
+  "observation_date": "1997-05-01",
+  "JPNCPIHOUMINMEI": 100.18166804294
+ },
+ {
+  "observation_date": "1997-06-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "1997-07-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "1997-08-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "1997-09-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "1997-10-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "1997-11-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "1997-12-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "1998-01-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1998-02-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "1998-03-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "1998-04-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "1998-05-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1998-06-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1998-07-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1998-08-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1998-09-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "1998-10-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "1998-11-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "1998-12-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "1999-01-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "1999-02-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "1999-03-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "1999-04-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "1999-05-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "1999-06-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1999-07-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1999-08-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1999-09-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1999-10-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1999-11-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "1999-12-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2000-01-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2000-02-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2000-03-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2000-04-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2000-05-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2000-06-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2000-07-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2000-08-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2000-09-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2000-10-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2000-11-01",
+  "JPNCPIHOUMINMEI": 101.073492981007
+ },
+ {
+  "observation_date": "2000-12-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2001-01-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2001-02-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2001-03-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2001-04-01",
+  "JPNCPIHOUMINMEI": 101.073492981007
+ },
+ {
+  "observation_date": "2001-05-01",
+  "JPNCPIHOUMINMEI": 101.073492981007
+ },
+ {
+  "observation_date": "2001-06-01",
+  "JPNCPIHOUMINMEI": 101.073492981007
+ },
+ {
+  "observation_date": "2001-07-01",
+  "JPNCPIHOUMINMEI": 101.172584640793
+ },
+ {
+  "observation_date": "2001-08-01",
+  "JPNCPIHOUMINMEI": 101.172584640793
+ },
+ {
+  "observation_date": "2001-09-01",
+  "JPNCPIHOUMINMEI": 101.172584640793
+ },
+ {
+  "observation_date": "2001-10-01",
+  "JPNCPIHOUMINMEI": 101.172584640793
+ },
+ {
+  "observation_date": "2001-11-01",
+  "JPNCPIHOUMINMEI": 101.172584640793
+ },
+ {
+  "observation_date": "2001-12-01",
+  "JPNCPIHOUMINMEI": 101.271676300578
+ },
+ {
+  "observation_date": "2002-01-01",
+  "JPNCPIHOUMINMEI": 101.172584640793
+ },
+ {
+  "observation_date": "2002-02-01",
+  "JPNCPIHOUMINMEI": 101.172584640793
+ },
+ {
+  "observation_date": "2002-03-01",
+  "JPNCPIHOUMINMEI": 101.172584640793
+ },
+ {
+  "observation_date": "2002-04-01",
+  "JPNCPIHOUMINMEI": 101.073492981007
+ },
+ {
+  "observation_date": "2002-05-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2002-06-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2002-07-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2002-08-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2002-09-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2002-10-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2002-11-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2002-12-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2003-01-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2003-02-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2003-03-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2003-04-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2003-05-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2003-06-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2003-07-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2003-08-01",
+  "JPNCPIHOUMINMEI": 100.974401321222
+ },
+ {
+  "observation_date": "2003-09-01",
+  "JPNCPIHOUMINMEI": 100.875309661437
+ },
+ {
+  "observation_date": "2003-10-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2003-11-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2003-12-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2004-01-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2004-02-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2004-03-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2004-04-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2004-05-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2004-06-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2004-07-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2004-08-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2004-09-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2004-10-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2004-11-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2004-12-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-01-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-02-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-03-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-04-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-05-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-06-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-07-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2005-08-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2005-09-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-10-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-11-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2005-12-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2006-01-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2006-02-01",
+  "JPNCPIHOUMINMEI": 100.776218001652
+ },
+ {
+  "observation_date": "2006-03-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2006-04-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2006-05-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2006-06-01",
+  "JPNCPIHOUMINMEI": 100.677126341866
+ },
+ {
+  "observation_date": "2006-07-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2006-08-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2006-09-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2006-10-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2006-11-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2006-12-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-01-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2007-02-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2007-03-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-04-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-05-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-06-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-07-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-08-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-09-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-10-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-11-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2007-12-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2008-01-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2008-02-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2008-03-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2008-04-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2008-05-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2008-06-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2008-07-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2008-08-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2008-09-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2008-10-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2008-11-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2008-12-01",
+  "JPNCPIHOUMINMEI": 100.578034682081
+ },
+ {
+  "observation_date": "2009-01-01",
+  "JPNCPIHOUMINMEI": 100.478943022296
+ },
+ {
+  "observation_date": "2009-02-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2009-03-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2009-04-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2009-05-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2009-06-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2009-07-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2009-08-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2009-09-01",
+  "JPNCPIHOUMINMEI": 100.37985136251
+ },
+ {
+  "observation_date": "2009-10-01",
+  "JPNCPIHOUMINMEI": 100.280759702725
+ },
+ {
+  "observation_date": "2009-11-01",
+  "JPNCPIHOUMINMEI": 100.280759702725
+ },
+ {
+  "observation_date": "2009-12-01",
+  "JPNCPIHOUMINMEI": 100.18166804294
+ },
+ {
+  "observation_date": "2010-01-01",
+  "JPNCPIHOUMINMEI": 100.18166804294
+ },
+ {
+  "observation_date": "2010-02-01",
+  "JPNCPIHOUMINMEI": 100.082576383154
+ },
+ {
+  "observation_date": "2010-03-01",
+  "JPNCPIHOUMINMEI": 100.082576383154
+ },
+ {
+  "observation_date": "2010-04-01",
+  "JPNCPIHOUMINMEI": 100.082576383154
+ },
+ {
+  "observation_date": "2010-05-01",
+  "JPNCPIHOUMINMEI": 99.9834847233691
+ },
+ {
+  "observation_date": "2010-06-01",
+  "JPNCPIHOUMINMEI": 99.9834847233691
+ },
+ {
+  "observation_date": "2010-07-01",
+  "JPNCPIHOUMINMEI": 99.9834847233691
+ },
+ {
+  "observation_date": "2010-08-01",
+  "JPNCPIHOUMINMEI": 99.9834847233691
+ },
+ {
+  "observation_date": "2010-09-01",
+  "JPNCPIHOUMINMEI": 99.9834847233691
+ },
+ {
+  "observation_date": "2010-10-01",
+  "JPNCPIHOUMINMEI": 99.8843930635838
+ },
+ {
+  "observation_date": "2010-11-01",
+  "JPNCPIHOUMINMEI": 99.8843930635838
+ },
+ {
+  "observation_date": "2010-12-01",
+  "JPNCPIHOUMINMEI": 99.8843930635838
+ },
+ {
+  "observation_date": "2011-01-01",
+  "JPNCPIHOUMINMEI": 99.8843930635838
+ },
+ {
+  "observation_date": "2011-02-01",
+  "JPNCPIHOUMINMEI": 99.8843930635838
+ },
+ {
+  "observation_date": "2011-03-01",
+  "JPNCPIHOUMINMEI": 99.7853014037985
+ },
+ {
+  "observation_date": "2011-04-01",
+  "JPNCPIHOUMINMEI": 99.7853014037985
+ },
+ {
+  "observation_date": "2011-05-01",
+  "JPNCPIHOUMINMEI": 99.8843930635838
+ },
+ {
+  "observation_date": "2011-06-01",
+  "JPNCPIHOUMINMEI": 99.7853014037985
+ },
+ {
+  "observation_date": "2011-07-01",
+  "JPNCPIHOUMINMEI": 99.7853014037985
+ },
+ {
+  "observation_date": "2011-08-01",
+  "JPNCPIHOUMINMEI": 99.7853014037985
+ },
+ {
+  "observation_date": "2011-09-01",
+  "JPNCPIHOUMINMEI": 99.6862097440132
+ },
+ {
+  "observation_date": "2011-10-01",
+  "JPNCPIHOUMINMEI": 99.6862097440132
+ },
+ {
+  "observation_date": "2011-11-01",
+  "JPNCPIHOUMINMEI": 99.6862097440132
+ },
+ {
+  "observation_date": "2011-12-01",
+  "JPNCPIHOUMINMEI": 99.6862097440132
+ },
+ {
+  "observation_date": "2012-01-01",
+  "JPNCPIHOUMINMEI": 99.5871180842279
+ },
+ {
+  "observation_date": "2012-02-01",
+  "JPNCPIHOUMINMEI": 99.5871180842279
+ },
+ {
+  "observation_date": "2012-03-01",
+  "JPNCPIHOUMINMEI": 99.5871180842279
+ },
+ {
+  "observation_date": "2012-04-01",
+  "JPNCPIHOUMINMEI": 99.4880264244426
+ },
+ {
+  "observation_date": "2012-05-01",
+  "JPNCPIHOUMINMEI": 99.4880264244426
+ },
+ {
+  "observation_date": "2012-06-01",
+  "JPNCPIHOUMINMEI": 99.4880264244426
+ },
+ {
+  "observation_date": "2012-07-01",
+  "JPNCPIHOUMINMEI": 99.3889347646573
+ },
+ {
+  "observation_date": "2012-08-01",
+  "JPNCPIHOUMINMEI": 99.3889347646573
+ },
+ {
+  "observation_date": "2012-09-01",
+  "JPNCPIHOUMINMEI": 99.3889347646573
+ },
+ {
+  "observation_date": "2012-10-01",
+  "JPNCPIHOUMINMEI": 99.289843104872
+ },
+ {
+  "observation_date": "2012-11-01",
+  "JPNCPIHOUMINMEI": 99.289843104872
+ },
+ {
+  "observation_date": "2012-12-01",
+  "JPNCPIHOUMINMEI": 99.289843104872
+ },
+ {
+  "observation_date": "2013-01-01",
+  "JPNCPIHOUMINMEI": 99.1907514450867
+ },
+ {
+  "observation_date": "2013-02-01",
+  "JPNCPIHOUMINMEI": 99.1907514450867
+ },
+ {
+  "observation_date": "2013-03-01",
+  "JPNCPIHOUMINMEI": 99.1907514450867
+ },
+ {
+  "observation_date": "2013-04-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2013-05-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2013-06-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2013-07-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2013-08-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2013-09-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2013-10-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2013-11-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2013-12-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2014-01-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2014-02-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2014-03-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2014-04-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2014-05-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2014-06-01",
+  "JPNCPIHOUMINMEI": 99.1907514450867
+ },
+ {
+  "observation_date": "2014-07-01",
+  "JPNCPIHOUMINMEI": 99.1907514450867
+ },
+ {
+  "observation_date": "2014-08-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2014-09-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2014-10-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2014-11-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2014-12-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-01-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-02-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-03-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-04-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-05-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-06-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-07-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-08-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-09-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-10-01",
+  "JPNCPIHOUMINMEI": 99.1907514450867
+ },
+ {
+  "observation_date": "2015-11-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2015-12-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2016-01-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2016-02-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2016-03-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2016-04-01",
+  "JPNCPIHOUMINMEI": 99.0916597853014
+ },
+ {
+  "observation_date": "2016-05-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2016-06-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2016-07-01",
+  "JPNCPIHOUMINMEI": 98.9925681255161
+ },
+ {
+  "observation_date": "2016-08-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2016-09-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2016-10-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2016-11-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2016-12-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2017-01-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2017-02-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "2017-03-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2017-04-01",
+  "JPNCPIHOUMINMEI": 98.8934764657308
+ },
+ {
+  "observation_date": "2017-05-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "2017-06-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "2017-07-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "2017-08-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "2017-09-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "2017-10-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "2017-11-01",
+  "JPNCPIHOUMINMEI": 98.7943848059455
+ },
+ {
+  "observation_date": "2017-12-01",
+  "JPNCPIHOUMINMEI": 98.6952931461602
+ },
+ {
+  "observation_date": "2018-01-01",
+  "JPNCPIHOUMINMEI": 98.6952931461602
+ },
+ {
+  "observation_date": "2018-02-01",
+  "JPNCPIHOUMINMEI": 98.6952931461602
+ },
+ {
+  "observation_date": "2018-03-01",
+  "JPNCPIHOUMINMEI": 98.6952931461602
+ },
+ {
+  "observation_date": "2018-04-01",
+  "JPNCPIHOUMINMEI": 98.6952931461602
+ },
+ {
+  "observation_date": "2018-05-01",
+  "JPNCPIHOUMINMEI": 98.6952931461602
+ }
+]
