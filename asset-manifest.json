@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/HouseWeb.github.io/static/css/main.c82e073d.css",
-    "main.js": "/HouseWeb.github.io/static/js/main.f5af476f.js",
+    "main.css": "/HouseWeb.github.io/static/css/main.b45da531.css",
+    "main.js": "/HouseWeb.github.io/static/js/main.a96060ce.js",
     "static/js/787.d4aba7ab.chunk.js": "/HouseWeb.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/公司環2.png": "/HouseWeb.github.io/static/media/公司環2.afecc2b97e4e619665c5.png",
     "static/media/公司環境.png": "/HouseWeb.github.io/static/media/公司環境.f3912dd972b5bffc1fdf.png",
-    "static/media/公司環境3.png": "/HouseWeb.github.io/static/media/公司環境3.717338e3a9a96aa5e39e.png",
     "static/media/大數據服務14.png": "/HouseWeb.github.io/static/media/大數據服務14.c1afe5456f5ab701ff41.png",
     "static/media/ESG2.png": "/HouseWeb.github.io/static/media/ESG2.ff60bae40960c28a8453.png",
     "static/media/大數據服務2.png": "/HouseWeb.github.io/static/media/大數據服務2.24064c83785c65531932.png",
@@ -39,12 +38,12 @@
     "static/media/slick.woff": "/HouseWeb.github.io/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/HouseWeb.github.io/index.html",
     "static/media/facebook-hover.svg": "/HouseWeb.github.io/static/media/facebook-hover.b2b2fa607cab4f78002f99a1019f0448.svg",
-    "main.c82e073d.css.map": "/HouseWeb.github.io/static/css/main.c82e073d.css.map",
-    "main.f5af476f.js.map": "/HouseWeb.github.io/static/js/main.f5af476f.js.map",
+    "main.b45da531.css.map": "/HouseWeb.github.io/static/css/main.b45da531.css.map",
+    "main.a96060ce.js.map": "/HouseWeb.github.io/static/js/main.a96060ce.js.map",
     "787.d4aba7ab.chunk.js.map": "/HouseWeb.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c82e073d.css",
-    "static/js/main.f5af476f.js"
+    "static/css/main.b45da531.css",
+    "static/js/main.a96060ce.js"
   ]
 }
