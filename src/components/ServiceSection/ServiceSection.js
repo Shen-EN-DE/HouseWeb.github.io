@@ -6,9 +6,9 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 import './ServiceSection.css';
-import slick1 from '../../pictures/WT/首頁icon/大數據服務/大數據服務2.png';
-import slick2 from '../../pictures/WT/首頁icon/二順位貸款/二順位貸款6.png';
-import slick3 from '../../pictures/WT/首頁icon/碳權/碳權3.jpg';
+import slick1 from '../../pictures/WT/首頁icon/大數據服務/大數據服務10.png';
+import slick2 from '../../pictures/WT/首頁icon/二順位貸款/二順位貸款7.png';
+import slick3 from '../../pictures/WT/首頁icon/碳權/碳權6.jpg';
 import slick4 from '../../pictures/WT/首頁icon/ESG綠色金融科技/ESG.png';
 
 
