@@ -119,8 +119,8 @@ p {
 }
 
 /* 添加pseudo-element的樣式來顯示圖片 (在css設計圖片在文字左右邊*/ 
-.middleText h1::before,
-.middleText h1::after {
+.ServerItemMiddleText h1::before,
+.ServerItemMiddleText h1::after {
   content: '';
   display: inline-block;
   width: 3em; /* 調整成適當的大小 */
@@ -135,32 +135,32 @@ p {
   opacity: 1; /* 圖片完全不透明 */
 }
 
-.middleText h1::before {
+.ServerItemMiddleText h1::before {
   background-image: url('../../pictures/WT/首頁icon/About\ us的頁面左.png'); /* 替換成左側圖片的路徑 */
   animation-name: floatInLeft;
   margin-right: 1em; /* 在圖片和文字之間增加一些空間 */
 }
 
-.middleText h1::after {
+.ServerItemMiddleText h1::after {
   background-image: url('../../pictures/WT/首頁icon/About\ us的頁面右.png'); /* 替換成右側圖片的路徑 */
   animation-name: floatInRight;
   margin-left: 1em; /* 在圖片和文字之間增加一些空間 */
 }
 
-.middleText {
+.ServerItemMiddleText {
   text-align: center;
   margin: 50px 0;
 }
 
-.middleText h1 {
-  font-size: 2em; /* 設定文本大小 */
+.ServerItemMiddleText h1 {
+  font-size: 3em; /* 設定文本大小 */
   line-height: 1em; /* 確保行高與圖片高度一致 */
   display: inline-block; /* 使h1以內聯塊的方式顯示 */
   position: relative; /* 為pseudo-elements定位 */
 }
 
-.middleText h1 span{
-  padding: 0 50px; /* 左右內邊距，根據圖片大小調整 */
+.ServerItemMiddleText h1 span{
+  padding: 0 100px; /* 左右內邊距，根據圖片大小調整 */
   background-size: 1em 1em; /* 背景圖片的大小 */
 }
 
@@ -238,7 +238,7 @@ p {
 }
 
 /* 中间文本样式 */
-.middleText {
+.ServerItemMiddleText {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -247,17 +247,17 @@ p {
   margin: 50px 0;
 }
 
-.middleText h1, .middleText p {
+.ServerItemMiddleText h1, .ServerItemMiddleText p {
   color: var(--secondary-text-color);
   margin: 0;
 }
 
-.middleText h1 {
+.ServerItemMiddleText h1 {
   font-size: 2em;
   margin-bottom: 0.5em;
 }
 
-.middleText p {
+.ServerItemMiddleText p {
   font-size: 1em;
   max-width: 1000px;
   margin-bottom: 0em;

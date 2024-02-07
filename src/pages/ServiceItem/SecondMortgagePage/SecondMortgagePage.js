@@ -109,7 +109,7 @@ const SecondMortgagePage = () => {
             </p>
           </div>
       </div>
-      <div className="middleText">
+      <div className="ServerItemMiddleText">
         <h1>ABOUT US...</h1>
         <p>
           協助屋主進行資產活化，屋主可以利用貸款進行資本配置。我們致力於協助資金需求者取得投資或是創業的基金。

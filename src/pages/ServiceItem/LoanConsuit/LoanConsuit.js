@@ -39,14 +39,14 @@ const LoanConsuit = () => {
       <div className="loan-page">
         <div className="service-title loan-consult-background">
           <div className="text-mask"> {/* 添加这个新的容器 */}
-            <h2> 碳管理工具 </h2>
+            <h2> 碳管理平台 </h2>
             <p className="white-text">
               協助企業建立碳排計算量模型，可透過模型掌握自身排碳量。
               提供碳管理服務於每月底提供詳細分析報告，改善企業碳排表現。
             </p>
           </div>
         </div>
-        <div className="middleText"> {/* 新增中間文字 */}
+        <div className="ServerItemMiddleText"> {/* 新增中間文字 */}
           <h1>ABOUT US...</h1>
           <p>
             金管會為了於 2027 年達成全體上市櫃公司溫室氣體盤查的目標，並在 2029 年能達到確信水準，以建立永續發展(ESG)的綠色供應鏈。

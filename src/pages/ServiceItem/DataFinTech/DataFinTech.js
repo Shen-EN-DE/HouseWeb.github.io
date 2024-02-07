@@ -44,7 +44,7 @@ const DataFintech = () => {
             </p>
         </div>
       </div>
-      <div className="middleText">
+      <div className="ServerItemMiddleText">
           <h1>ABOUT US...</h1>
           <p>
             在科技化時代，大數據相關技術已被廣泛運用到各領域。利用演算法及數據相

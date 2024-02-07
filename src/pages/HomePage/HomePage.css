@@ -64,6 +64,36 @@
   line-height: 1.4; /* 調整行高以提高可讀性 */
 }
 
+/* 添加pseudo-element的樣式來顯示圖片 (在css設計圖片在文字左右邊*/ 
+.middleText h1::before,
+.middleText h1::after {
+  content: '';
+  display: inline-block;
+  width: 2.5em; /* 調整成適當的大小 */
+  height: 3em; /* 調整成適當的大小 */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation-fill-mode: forwards;
+  animation-duration: 1s;
+  animation-timing-function: ease-out;
+  vertical-align: middle; /* 垂直居中對齊 */
+  opacity: 1; /* 圖片完全不透明 */
+}
+
+.middleText h1::before {
+  background-image: url('../../pictures/WT/首頁icon/About\ us的頁面左.png'); /* 替換成左側圖片的路徑 */
+  animation-name: floatInLeft;
+  margin-right: 2em; /* 在圖片和文字之間增加一些空間 */
+}
+
+.middleText h1::after {
+  background-image: url('../../pictures/WT/首頁icon/About\ us的頁面右.png'); /* 替換成右側圖片的路徑 */
+  animation-name: floatInRight;
+  margin-left: 2em; /* 在圖片和文字之間增加一些空間 */
+}
+
+
 /* 新增中間文字部分的樣式 */
 .middleText {
   text-align: center; /* 文字置中 */
@@ -77,14 +107,14 @@
 
 .middleText h1 {
   font-weight: bold;
-  font-size: 2em; /* 更大的標題字體大小 */
+  font-size: 2.5em ; /* 更大的標題字體大小 */
   margin: 0 0 0.5em 0; /* 根據需要調整邊距 */
   color: #000000; /* 文字顏色，您可以根據您的配色方案進行更改 */
 }
 
 .middleText p {
   text-align: center; /* 文字置中 */
-  font-size: 1.2em; /* 調整大小 */
+  font-size: 1.4em ; /* 調整大小 */
   margin-bottom: 2em; /* 按鈕前的空間 */
   max-width: 600px; /* 段落的最大寬度 */
   line-height: 1.4; /* 調整行高以提高可讀性 */

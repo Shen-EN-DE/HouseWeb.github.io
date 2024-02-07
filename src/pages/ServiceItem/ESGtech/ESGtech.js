@@ -42,7 +42,7 @@ const DataFintech = () => {
           </p>
         </div>
       </div>
-      <div className="middleText">
+      <div className="ServerItemMiddleText">
         <h1>ABOUT US...</h1>
         <p>
         鑒於氣候變遷造成極端氣候之影響，促使各國重視環境與社會的永續發展。並希望透過資本市場之引導企業開始投入永續發展。

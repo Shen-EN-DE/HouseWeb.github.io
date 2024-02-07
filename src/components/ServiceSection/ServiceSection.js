@@ -40,28 +40,28 @@ const ServiceSection = () => {
     {
       icon: slick1,
       title: '大數據FinTech',
-      description: '本公司利用人工智慧(Artificial Intelligence)技術來為國外中小型企業提供服務',
+      description: '根據國外客戶所需商業決策或金融產品建置模型',
       path: '/DataFinTech', // 路徑對應到導航條中的路徑
 
     },
     {
       icon: slick2,
       title: '二順位貸款',
-      description: '金融機構也可以導入ChatGPT和生成式AI，協助客戶調整投資布局策略。',
+      description: '協助資金需求者取得投資或是創業的資金',
       path: '/SecondMortgagePage',
     
     },
     {
       icon: slick3,
       title: '碳管理平台',
-      description: '碳管理平台描述...',
+      description: '協助企業建立碳排計算量模型.',
       path: '/LoanConsuit',
     
     },
     {
       icon: slick4,
       title: '綠色金融數據',
-      description: '綠色金融數據描述...',
+      description: '協助業界人士建立永續量化指標',
       path: '/ESGtech',
     
     },
