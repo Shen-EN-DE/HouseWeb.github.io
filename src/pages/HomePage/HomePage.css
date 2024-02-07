@@ -13,7 +13,7 @@
   padding-left: 10%;
   color: #F9F9F9;
   background-color: #1F2B37; /* 如果有背景图片，这个背景色可能就不必要了 */
-  height: 450px;
+  height: 100vh;
   overflow: hidden;
   background-size: 80%;
   background-position: center center;
@@ -27,8 +27,9 @@
   transform: translate(-50%, -50%); /* 使用 transform 對圖片進行正確的偏移 */
   max-width: 300%; /* 最大寬度為容器寬度 */
   max-height: 300%; /* 最大高度為容器高度 */
-  width: 80%; /* 保持圖片原有的寬高比 */
-  height: auto; /* 保持圖片原有的寬高比 */
+  width: 100%; /* 確保圖像寬度佔滿容器 */
+  height: 120vh; /* 確保圖像高度至少與視窗高度一致 */
+  object-fit: cover; /* 確保圖像覆蓋整個容器而不失真 */
   animation: fadeIn 2s ease-out; /* 添加动画效果 */
 }
 
@@ -70,7 +71,7 @@
   content: '';
   display: inline-block;
   width: 2.5em; /* 調整成適當的大小 */
-  height: 3em; /* 調整成適當的大小 */
+  height: 4em; /* 調整成適當的大小 */
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -107,14 +108,14 @@
 
 .middleText h1 {
   font-weight: bold;
-  font-size: 2.5em ; /* 更大的標題字體大小 */
+  font-size: 2.5em !important; /* 更大的標題字體大小 */
   margin: 0 0 0.5em 0; /* 根據需要調整邊距 */
   color: #000000; /* 文字顏色，您可以根據您的配色方案進行更改 */
 }
 
 .middleText p {
   text-align: center; /* 文字置中 */
-  font-size: 1.4em ; /* 調整大小 */
+  font-size: 1.4em !important; /* 調整大小 */
   margin-bottom: 2em; /* 按鈕前的空間 */
   max-width: 600px; /* 段落的最大寬度 */
   line-height: 1.4; /* 調整行高以提高可讀性 */

@@ -21,7 +21,7 @@ class HomePage extends Component {
         </header>
         <div className="middleText"> {/* 新增中間文字 */}
           <h1>我們的理念</h1>
-          <p>專業金融咨詢服務，讓專業來做數學。</p>
+          <p>專業金融資訊服務，讓專業來做數學。</p>
           
         </div>
 

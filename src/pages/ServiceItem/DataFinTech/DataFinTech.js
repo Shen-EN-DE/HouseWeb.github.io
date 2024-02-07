@@ -60,7 +60,7 @@ const DataFintech = () => {
       {/* 保持或调整页面底部的链接和按钮 */}
       <div className="buttons-container">
         <Link to="/" className="button-link back-home">
-          <button>回首页</button>
+          <button>回首頁</button>
         </Link>
         <Link to="/contact-us" className="button-link contact-us">
           <button>聯絡我們</button>
