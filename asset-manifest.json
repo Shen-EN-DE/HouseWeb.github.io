@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HouseWeb.github.io/static/css/main.5ffcdc6b.css",
-    "main.js": "/HouseWeb.github.io/static/js/main.15495b50.js",
+    "main.css": "/HouseWeb.github.io/static/css/main.6e763319.css",
+    "main.js": "/HouseWeb.github.io/static/js/main.456154f9.js",
     "static/js/787.d4aba7ab.chunk.js": "/HouseWeb.github.io/static/js/787.d4aba7ab.chunk.js",
     "static/media/banner.gif": "/HouseWeb.github.io/static/media/banner.d0dbd323003bfc033174.gif",
     "static/media/公司環2.png": "/HouseWeb.github.io/static/media/公司環2.afecc2b97e4e619665c5.png",
@@ -39,12 +39,12 @@
     "static/media/slick.woff": "/HouseWeb.github.io/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/HouseWeb.github.io/index.html",
     "static/media/facebook-hover.svg": "/HouseWeb.github.io/static/media/facebook-hover.b2b2fa607cab4f78002f99a1019f0448.svg",
-    "main.5ffcdc6b.css.map": "/HouseWeb.github.io/static/css/main.5ffcdc6b.css.map",
-    "main.15495b50.js.map": "/HouseWeb.github.io/static/js/main.15495b50.js.map",
+    "main.6e763319.css.map": "/HouseWeb.github.io/static/css/main.6e763319.css.map",
+    "main.456154f9.js.map": "/HouseWeb.github.io/static/js/main.456154f9.js.map",
     "787.d4aba7ab.chunk.js.map": "/HouseWeb.github.io/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ffcdc6b.css",
-    "static/js/main.15495b50.js"
+    "static/css/main.6e763319.css",
+    "static/js/main.456154f9.js"
   ]
 }
