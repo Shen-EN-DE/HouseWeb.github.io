@@ -38,9 +38,10 @@ const DataFintech = () => {
       <div className="service-title data-fintech-background">
         <div className="text-mask"> {/* 添加这个新的容器 */}
           <h2> 大數據分析 </h2>
-          <p className="white-text">利用人工智慧技術來為國外中小型企業提供服務。使用機器學習及大數據分析，來大幅縮短申貸所需時間
-          。同時根據國外廠商所需商業決策或金融產品來
-          建置模型，以滿足企業需求。</p>
+          <p className="white-text">
+          利用人工智慧技術來為國外中小型企業提供服務。使用機器學習及數據分析，縮短申貸所需時間。同時根據國外客戶所需商業決策或金融產品建置模型。
+            
+            </p>
         </div>
       </div>
       <div className="middleText">

@@ -14,6 +14,8 @@ import arrow from '../../../pictures/WT/房貸流程icon/arrow-right.png';
 // 引入DataFintech特有的图片
 import AnalyticsIcon from '../../../pictures/WT/首頁icon/二順位貸款/personal.png'; 
 import InsightsIcon from '../../../pictures/WT/首頁icon/二順位貸款/valuation.png'; 
+import value from '../../../pictures/WT/首頁icon/二順位貸款/價值.png'; 
+
 
 const FlexContainer = () => {
   // 调整为DataFintech页面特有的服务项
@@ -27,6 +29,10 @@ const FlexContainer = () => {
         <div className="service-item">
           <img src={InsightsIcon} alt="市场洞察" className="service-icon" />
           <h3>協助貸款諮詢</h3>
+        </div>
+        <div className="service-item">
+          <img src={value} alt="upvalue" className="service-icon" />
+          <h3>提升價值</h3>
         </div>
 
       </div>
@@ -98,7 +104,9 @@ const SecondMortgagePage = () => {
         <div className="service-title secondMortgagePage-background">
           <div className="text-mask"> {/* 添加这个新的容器 */}
             <h2> 二順位貸款 </h2>
-            <p className="white-text">協助資金需求者取得投資或是創業的基金。可以透過房屋活化，將持有多年的房屋或是建物，透過其他方式擴大收益率。</p>
+            <p className="white-text">
+              協助資金需求者取得投資或是創業的資金。透過房屋活化，將房屋或建物透過不同方式擴大收益率。
+            </p>
           </div>
       </div>
       <div className="middleText">

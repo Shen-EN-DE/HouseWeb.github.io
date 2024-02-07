@@ -229,7 +229,7 @@ p {
 
 .service-item p {
   color: var(--secondary-text-color);
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .service-item:hover {
@@ -259,7 +259,7 @@ p {
 
 .middleText p {
   font-size: 1em;
-  max-width: 900px;
+  max-width: 1000px;
   margin-bottom: 0em;
 }
 
