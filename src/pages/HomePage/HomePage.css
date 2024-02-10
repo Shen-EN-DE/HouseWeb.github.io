@@ -13,7 +13,7 @@
   padding-left: 10%;
   color: #F9F9F9;
   background-color: #1F2B37; /* 如果有背景图片，这个背景色可能就不必要了 */
-  height: 50vh;
+  height: 70vh;
   overflow: hidden;
   background-size: 80%;
   background-position: center center;
@@ -22,13 +22,13 @@
 
 .bannerImg {
   position: absolute; /* 絕對定位，相對於 homeHeader */
-  top: 50%; /* 將圖片垂直居中 */
+  top: 55%; /* 將圖片垂直居中 */
   left: 50%; /* 將圖片水平居中 */
   transform: translate(-50%, -50%); /* 使用 transform 對圖片進行正確的偏移 */
-  max-width: 100%; /* 最大寬度為容器寬度 */
-  max-height: 100%; /* 最大高度為容器高度 */
-  width: 90%; /* 確保圖像寬度佔滿容器 */
-  height: 100%; /* 確保圖像高度至少與視窗高度一致 */
+  max-width: 120%; /* 最大寬度為容器寬度 */
+  max-height: 120%; /* 最大高度為容器高度 */
+  width: 110%; /* 確保圖像寬度佔滿容器 */
+  height: 110%; /* 確保圖像高度至少與視窗高度一致 */
   object-fit: cover; /* 確保圖像覆蓋整個容器而不失真 */
   animation: fadeIn 2s ease-out; /* 添加动画效果 */
 }
