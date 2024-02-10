@@ -119,34 +119,35 @@ const policyContents = {
 };
 
 
-
 const FooterLinks = () => {
   const [isModalVisible, setModalVisible] = useState(false);
   const [modalContent, setModalContent] = useState('');
 
   const handleLinkClick = (key, event) => {
     event.preventDefault();
-    setModalContent(policyContents[key]);
+    const content = policyContents[key].split('\n').map((paragraph, index) => (
+      <p key={index}>{paragraph}</p>
+    ));
+    setModalContent(content);
     setModalVisible(true);
   };
 
-
   return (
     <>
-        <Model
-            isVisible={isModalVisible}
-            content={modalContent}
-            onClose={() => setModalVisible(false)}
-        />
-        <div className="footer-links">
-            <ul>
-                <li><a href="#privacy" onClick={(e) => handleLinkClick('privacyPolicy', e)}>隱私權保護政策</a></li>
-                <li><a href="#dataProtection" onClick={(e) => handleLinkClick('dataProtectionStatement', e)}>個資保護聲明</a></li>
-                <li><a href="#fraudPrevention" onClick={(e) => handleLinkClick('fraudPrevention', e)}>防詐騙提醒</a></li>
-            </ul>
-        </div>
+      <Model
+          isVisible={isModalVisible}
+          content={modalContent}
+          onClose={() => setModalVisible(false)}
+      />
+      <div className="footer-links">
+          <ul>
+              <li><a href="#privacy" onClick={(e) => handleLinkClick('privacyPolicy', e)}>隱私權保護政策</a></li>
+              <li><a href="#dataProtection" onClick={(e) => handleLinkClick('dataProtectionStatement', e)}>個資保護聲明</a></li>
+              <li><a href="#fraudPrevention" onClick={(e) => handleLinkClick('fraudPrevention', e)}>防詐騙提醒</a></li>
+          </ul>
+      </div>
     </>
-    )
+  );
 };
 
 export default FooterLinks;
