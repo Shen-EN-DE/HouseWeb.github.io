@@ -54,9 +54,9 @@ const EmissionsChart = () => {
   const years = initialData.map(item => item.year);
   const uniqueYears = [...new Set(years)].sort();
 
-  return (
-    <div style={{ margin: '16px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-      <Card style={{ margin: '50px', flexGrow: 1, overflow: 'hidden' }}> {/* Adjust these styles as needed */}
+  return (    
+    <div style={{ margin: '16px', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+      <Card style={{ margin: '50px', width: '80%' }}> {/* Adjust these styles as needed */}
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
             溫室氣體排放趨勢
