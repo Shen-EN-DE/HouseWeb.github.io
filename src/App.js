@@ -19,7 +19,7 @@ import Contact from './pages/Contact/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/HouseWeb.github.io">
       <div className='main-container'>
         <Navbar />
         <div className='content-wrapper'>
