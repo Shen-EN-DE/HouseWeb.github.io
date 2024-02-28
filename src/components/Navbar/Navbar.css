@@ -35,6 +35,16 @@
   height: 24px; /*圖標的大小，可根據需要調整 */
 }
 
+.logo-container {
+  display: flex;
+  align-items: center; /* This will vertically center the items */
+}
+
+.navbar-brand-text {
+  margin-left: 10px; /* Adjust as needed for spacing between logo and text */
+}
+
+
 /* 小於或等於 600px 的螢幕 */
 @media screen and (max-width: 600px) {
   .process-images-container {

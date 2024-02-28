@@ -97,13 +97,17 @@
 
 /* 新增中間文字部分的樣式 */
 .middleText {
-  text-align: center; /* 文字置中 */
-  font-size: 1.2em; /* 適當的字體大小 */
-  color: #000000; /* 文字顏色 */
-  padding: 20px 0; /* 上下內距 */
-  background-color: #fffdfa; /* 背景顏色 */
-  height: 350px; /* 根據需要調整高度 */
-  overflow: hidden; /* 隱藏斜切後的溢出部分 */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Vertically centers content in the container */
+  align-items: center; /* Horizontally centers content */
+  text-align: center; /* Centers text lines within their blocks */
+  font-size: 1.2em; /* Appropriate font size */
+  color: #000000; /* Text color */
+  padding: 20px 0; /* Top and bottom padding, adjust the value to increase space */
+  background-color: #fffdfa; /* Background color */
+  margin: 20px 0; /* Adds margin to the top and bottom */
+  overflow: hidden; /* Hide the overflow */
 }
 
 .middleText h1 {
@@ -118,7 +122,58 @@
   font-size: 1.4em !important; /* 調整大小 */
   margin-bottom: 2em; /* 按鈕前的空間 */
   max-width: 600px; /* 段落的最大寬度 */
-  line-height: 1.4; /* 調整行高以提高可讀性 */
+  line-height: 1.4; /* 調整行高
+  以提高可讀性 */
+}
+
+/* Unique service items styles for the homepage */
+.homeServiceContainer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 50px;
+  background-color: var(--primary-text-color);
+}
+
+.homeServiceItem {
+  background-color: var(--primary-text-color);
+  color: var(--background-color);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+  width: 300px;
+  margin: 10px;
+  transition: box-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.homeServiceItem img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.homeServiceItem:hover img {
+  transform: scale(1.05);
+}
+
+.homeServiceIcon {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.homeServiceItem h3 {
+  color: var(--secondary-text-color);
+  margin-bottom: 10px;
+}
+
+.homeServiceItem p {
+  color: var(--secondary-text-color);
+  font-size: 18px;
+}
+
+.homeServiceItem:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.7);
+  transform: translateY(-5px);
 }
 
 

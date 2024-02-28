@@ -7,6 +7,9 @@ import banner from '../../pictures/WT/首頁icon/banner.gif'
 
 import { useSpring, animated } from 'react-spring';
 
+import serviceImage1 from '../../pictures/slick1.jpg';
+import serviceImage2 from '../../pictures/slick1.jpg';
+import serviceImage3 from '../../pictures/slick1.jpg';
 
 // const Particles = ({ numParticles = 50 }) => {
 //   const canvasRef = useRef(null);
@@ -115,9 +118,34 @@ class HomePage extends Component {
 
         </header>
         <div className="middleText"> {/* 新增中間文字 */}
-          <h1>我們的理念</h1>
-          <p>專業金融資訊服務，讓專業來做數學。</p>
+          <h1>關於白樹金融科技</h1>
+          <p>我們是致力於將專業服務運用於金融領域的青創團隊。透過深入研究行為模式與精密的資料剖析來構築分析模型。本團隊期望利用機器學習提供多元服務，期望成為金融科技領域的領先者，為客戶提供智慧及便捷的金融科技服務。在未來，本公司會持續學習與挑戰以人工智慧為核心創造價值</p>
           
+        </div>
+          {/* -------------------------------------- */}
+          {/* 這裡是使用ServiceItem裡面的ServiceStyle.css的模板，因此如果變動，首頁的這些也會變動，要注意 */}
+          {/* -------------------------------------- */}
+         <div className="homeServiceContainer">
+          {/* Service Item 1 */}
+          <div className="homeServiceItem">
+            <img src={serviceImage1} alt="Service 1" className="homeServiceIcon"/>
+            <h3>客戶信任</h3>
+            <p>與上市公司合作，重視服務信任</p>
+          </div>
+
+          {/* Service Item 2 */}
+          <div className="homeServiceItem">
+            <img src={serviceImage2} alt="Service 2" className="homeServiceIcon"/>
+            <h3>誠信正直</h3>
+            <p>以守信為本，注重客戶完整隱私</p>
+          </div>
+
+          {/* Service Item 3 */}
+          <div className="homeServiceItem">
+            <img src={serviceImage3} alt="Service 3" className="homeServiceIcon"/>
+            <h3>創新研發</h3>
+            <p>持續學習與挑戰，提供完善服務</p>
+          </div>
         </div>
 
 

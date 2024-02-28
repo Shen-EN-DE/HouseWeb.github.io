@@ -2,7 +2,7 @@ import React from 'react';
 import './AboutOur.css';
 import serviceIcon1 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環境.png'; 
 import serviceIcon2 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環2.png'; 
-import serviceIcon3 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環境.png'; 
+// import serviceIcon3 from '../../pictures/WT/首頁icon/為何選擇白樹/公司環境.png'; 
 
 import { useNavigate } from 'react-router-dom';
 
@@ -46,7 +46,7 @@ function AboutOurItem({ icon, title, description, path }) {
         icon: serviceIcon1, // 路徑替換為你的圖標路徑
         title: '公司環境',
         description: '這裡填入公司環境...',
-        path: '/company', // 這裡指定導航的路徑
+        // path: '/company', // 這裡指定導航的路徑
 
       },
       {
@@ -58,20 +58,20 @@ function AboutOurItem({ icon, title, description, path }) {
           '客製化服務'
         ],
 
-        path: '/brandstory', // 這裡指定導航的路徑
+        // path: '/brandstory', // 這裡指定導航的路徑
 
       },
-      {
-        icon: serviceIcon3, // 路徑替換為你的圖標路徑
-        title: '為何選擇白樹',
-        description: [
-          '顧客信任',
-          '創新研發',
-          '誠信正直',
-          '互信互惠'
-        ],
+      // {
+      //   icon: serviceIcon3, // 路徑替換為你的圖標路徑
+      //   title: '為何選擇白樹',
+      //   description: [
+      //     '顧客信任',
+      //     '創新研發',
+      //     '誠信正直',
+      //     '互信互惠'
+      //   ],
 
-      },
+      // },
       
       // ...其他服務項目...
     ];
