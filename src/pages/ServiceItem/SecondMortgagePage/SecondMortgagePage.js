@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import'../ServiceStyle.css'; // 请确保引入了CSS文件
 import { Link } from 'react-router-dom';
 
-import HouseIcon1 from '../../../pictures/WT/首頁icon/二順位貸款/資料/提供文件.png'; 
-import HouseIcon2 from '../../../pictures/WT/首頁icon/二順位貸款/資料/審查資料.png'; 
-import HouseIcon3 from '../../../pictures/WT/首頁icon/二順位貸款/資料/申請書填寫.png'; 
-import HouseIcon4 from '../../../pictures/WT/首頁icon/二順位貸款/資料/協商條件.png'; 
+import HouseIcon1 from '../../../pictures/WT/首頁icon/二順位貸款/icon/申請書填寫.png'; 
+import HouseIcon2 from '../../../pictures/WT/首頁icon/二順位貸款/icon/審查評估資料.png'; 
+import HouseIcon3 from '../../../pictures/WT/首頁icon/二順位貸款/icon/協助資產評估(二順位特色).png'; 
+import HouseIcon4 from '../../../pictures/WT/首頁icon/二順位貸款/icon/協商條件.png'; 
 import HouseIcon5 from '../../../pictures/WT/首頁icon/二順位貸款/資料/設定質押.png'; 
 import HouseIcon6 from '../../../pictures/WT/首頁icon/二順位貸款/資料/專戶撥款.png'; 
 

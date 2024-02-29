@@ -7,9 +7,9 @@ import banner from '../../pictures/WT/首頁icon/banner.gif'
 
 import { useSpring, animated } from 'react-spring';
 
-import serviceImage1 from '../../pictures/slick1.jpg';
-import serviceImage2 from '../../pictures/slick1.jpg';
-import serviceImage3 from '../../pictures/slick1.jpg';
+import serviceImage1 from '../../pictures/WT/首頁icon/首頁圖片/客戶信任.png';
+import serviceImage2 from '../../pictures/WT/首頁icon/首頁圖片/誠信正直.png';
+import serviceImage3 from '../../pictures/WT/首頁icon/首頁圖片/創新研發.png';
 
 // const Particles = ({ numParticles = 50 }) => {
 //   const canvasRef = useRef(null);
